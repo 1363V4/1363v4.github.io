@@ -8,5 +8,5 @@ defaults:
       path: "" 
       type: "projects"
     values:
-      layout: "default"
+      layout: "pyscript"
       

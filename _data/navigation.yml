@@ -1,8 +1,8 @@
 - name: Home
   link: /
-- name: Pyscript
-  link: /projects/pyscript/pyscript.html
-- name: Pywebio
-  link: /projects/pywebio/pywebio.md
-- name: Pywebio?
-  link: /projects/pywebio/pywebio.html
+- name: Basic
+  link: /projects/basic/main.html
+- name: Div
+  link: /projects/div/main.html  
+- name: Pandas
+  link: /projects/pandas/main.html
