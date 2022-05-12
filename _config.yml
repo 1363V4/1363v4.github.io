@@ -5,7 +5,8 @@ collections:
 defaults:
   -
     scope:
-      path: "projects" # an empty string here means all files in the project
+      path: "" 
+      type: "projects"
     values:
       layout: "default"
       
