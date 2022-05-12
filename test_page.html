@@ -1,0 +1,43 @@
+
+<!doctype html>
+<html>
+  <head>
+	<meta charset="utf-8">
+    <title>1363V4</title>
+    <link rel="stylesheet" href="https://pyscript.net/alpha/pyscript.css" />
+    <script defer src="https://pyscript.net/alpha/pyscript.js"></script>
+  </head>
+  <body>
+	<nav>
+  
+    <a href="/"> Home </a>
+  
+    <a href="/projects/pyscript/pyscript.html"> Pyscript </a>
+  
+    <a href="/projects/pywebio/pywebio.md"> Pywebio </a>
+  
+</nav>
+	<section>
+		<py-env>
+- pandas
+- paths:
+	- ./data.xlsx
+</py-env>
+
+<py-script>
+import pandas as pd
+from pathlib import Path
+print(Path.cwd())
+
+INPUT_FORM = "./data.xlsx"
+
+def read_files():
+	d_xl_form = pd.read_excel(INPUT_FORM).to_dict(orient = "records")
+	return d_xl_form
+
+
+</py-script>
+
+	</section>
+  </body>
+</html>
