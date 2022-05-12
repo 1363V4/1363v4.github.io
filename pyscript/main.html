@@ -7,7 +7,7 @@
 <py-script>
 import pandas as pd
 
-INPUT_FORM = "data.csv"
+INPUT_FORM = "data.xslx"
 
 def read_files():
 	d_xl_form = pd.read_excel(INPUT_FORM).to_dict(orient = "records")
