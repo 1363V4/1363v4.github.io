@@ -5,4 +5,4 @@
 {% include div.py %}
 </py-script>
 
-The solution is <div id="out"></div>.. or is it 42?
+The solution is <div id="out"></div>... or is it 42?

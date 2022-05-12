@@ -1,4 +1,4 @@
 from random import random
 
 answer = int(random()*43)
-answer
+pyscript.write("out", answer)

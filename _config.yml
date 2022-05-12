@@ -1,3 +1,4 @@
+theme: jekyll-theme-hacker
 title: 1363V4
 collections:
   projects:
@@ -10,4 +11,3 @@ defaults:
     values:
       layout: "pyscript"
       
-theme: jekyll-theme-hacker
