@@ -10,3 +10,4 @@ defaults:
     values:
       layout: "pyscript"
       
+theme: jekyll-theme-hacker
