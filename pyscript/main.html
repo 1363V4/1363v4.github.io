@@ -4,6 +4,8 @@ layout: default
 
 <py-env>
 - pandas
+- paths:
+	- ./data.xlsx
 </py-env>
 
 <py-script>
@@ -11,13 +13,12 @@ import pandas as pd
 from pathlib import Path
 print(Path.cwd())
 
-INPUT_FORM = "/data.xlsx"
+INPUT_FORM = "./data.xlsx"
 
 def read_files():
 	d_xl_form = pd.read_excel(INPUT_FORM).to_dict(orient = "records")
 	return d_xl_form
 
 d_xl_form = read_files()
-for item in d_xl_form:
-	print(item)
+d_xl_form
 </py-script>
