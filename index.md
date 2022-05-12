@@ -1,5 +1,5 @@
 ---
-layout: "default"
+layout: "home"
 ---
 
 # 1363V4
