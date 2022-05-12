@@ -4,5 +4,7 @@
   link: /projects/basic/main.html
 - name: Div
   link: /projects/div/main.html  
+- name: Symphony
+  link: /projects/div/symphony.html  
 - name: Pandas
   link: /projects/pandas/main.html
