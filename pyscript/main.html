@@ -1,13 +1,19 @@
 <link rel="stylesheet" href="https://pyscript.net/alpha/pyscript.css" />
 <script defer src="https://pyscript.net/alpha/pyscript.js"></script>
 <py-env>
-- pygame
+- pandas
 </py-env>
 
 <py-script>
-import pygame as pg
-SCREEN_X, SCREEN_Y = 600, 300
-pg.init()
-screen = pg.display.set_mode([SCREEN_X, SCREEN_Y])
-pg.display.set_caption("Radarz")
+import pandas as pd
+
+INPUT_FORM = "data.csv"
+
+def read_files():
+	d_xl_form = pd.read_excel(INPUT_FORM).to_dict(orient = "records")
+	return d_xl_form
+
+d_xl_form = read_files()
+for item in d_xl_form:
+	print(item)
 </py-script>
