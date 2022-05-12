@@ -8,8 +8,10 @@ layout: default
 
 <py-script>
 import pandas as pd
+from pathlib import Path
+print(Path.cwd())
 
-INPUT_FORM = "data.xlsx"
+INPUT_FORM = "/data.xlsx"
 
 def read_files():
 	d_xl_form = pd.read_excel(INPUT_FORM).to_dict(orient = "records")
