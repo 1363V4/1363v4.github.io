@@ -1,6 +1,6 @@
 - name: Home
   link: /
 - name: Pyscript
-  link: /_posts/pyscript/pyscript.html
+  link: /projects/pyscript/pyscript.html
 - name: Pywebio
-  link: /_posts/pywebio/pywebio.md
+  link: /projects/pywebio/pywebio.md

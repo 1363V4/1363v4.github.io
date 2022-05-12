@@ -1,8 +1,11 @@
 title: 1363V4
+collections:
+  projects:
+    output: true
 defaults:
   -
     scope:
-      path: "*posts" # an empty string here means all files in the project
+      path: "projects" # an empty string here means all files in the project
     values:
       layout: "default"
       
