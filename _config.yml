@@ -1,3 +1,4 @@
-remote_theme: poole/hyde
+remote_theme: poole/poole
 title: 1363v4
 author: 1363v4
+baseurl: "1363v4.github.io"
