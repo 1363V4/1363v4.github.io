@@ -1,12 +1,8 @@
+remote_theme: sighingnow/jekyll-gitbook
 title: 1363V4
+author: 1363v4
+url: "1363v4.github.io"
 collections:
   projects:
     output: true
-defaults:
-  -
-    scope:
-      path: "" 
-      type: "projects"
-    values:
-      layout: "pyscript"
-      
+    
