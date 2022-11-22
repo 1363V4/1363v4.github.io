@@ -1,2 +1,3 @@
 entries:
-  post_list: true
+  - title: Entries
+    post_list: true
