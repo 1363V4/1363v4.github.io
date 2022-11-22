@@ -4,7 +4,7 @@ author: 1363V4
 favicon: "favicon.png"
 theme_config:
   appearance: "light"
-  back_home_text: "⇤"
+  back_home_text: "⇤ Home"
   date_format: " "
   show_description: false
   
