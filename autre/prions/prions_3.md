@@ -1,12 +1,16 @@
 ---
-title: prions
+title: prions. n°3
 layout: post
 ---
 
-# Prions.
+*brique brouillard building*
+*défi déclencheur désespéré*
+*vol vide vagues*
 
-### Prions. N°1
+La brique est un matériau millénaire. On la fabrique avec de la terre argileuse crue, que l'on sèche ensuite au soleil. Lorsqu'on n'a pas de soleil, il faut inventer un four pour y cuire la brique. Ceci explique que les habitats des populations à la surface du globe soient aussi variés que, disons, leur carnation. En tant que matériau, la brique n'a pas à rougir : sur les gratte-ciels battus par le vent marin, on voit que même le verre s'érode. Il est cependant vrai que la brique supporte mal les intempéries, à l'exception du brouillard. Les gratte-ciels sont des constructions remarquables, sauf par temps de brouillard. Au sommet d'un tel building, la vue n'a pas de prix. Les gratte-ciels sont faits pour discuter de sujets brûlants : plus on monte dans les étages, plus la conversation s'élève. En bas, à l'inverse, la conversation redevient plate, et on n'entend plus guère que quelques "au revoir" cordiaux lorsque deux amis se séparent, parfois un "merci" lorsqu'un galant homme tient la porte pour une dame. Si mes lecteurs questionnent la survivance de la galanterie au moment d'écrire ces lignes, j'ai pour eux quelques photographies qui pourront en attester.
 
-*hashtags*
+La photographie est un art difficile. Pour être un excellent photographe, il faut être patient et féru d'objectif. Le grand défi est d'appuyer sur le déclencheur au bon moment. Ce défi est d'autant plus grand que le moment est court. Imaginez un colibri prenant son envol, ou Usain Bolt. Le milieu des photographes est en proie à la compétition. Les photographes animaliers méprisent les photographes de sport, qui méprisent les photographes culinaires, et ainsi de suite. Il faut avouer que les voitures n'ont jamais mangé personne. Un de mes amis devait prendre des photos d'une course automobile. Il comptait d'abord les prendre de haut, depuis un gratte-ciel, mais il y avait du brouillard, aussi était-il redescendu. Il avait dû monter dans un gratte-nuages. Une fois au sol, les voitures passaient si vite que ses négatifs étaient abstraits. Il en était désespéré, car, comme chacun sait, l'abstrait est le contraire de l'objectif. Il aurait voulu savoir quand précisément les voitures passeraient devant lui. Or une telle connaissance est impossible, et les voitures ne passèrent jamais. C'est à se taper la tête contre les murs.
 
+Le brouillard est une macrostructure. Comme la maison, qui est une macrostructure de briques, ou le loup, qui est une macrostructure de cellules, le brouillard est constitué de petits grains. On dit qu'ils sont en vol, ou en suspension. Le loup ne souffle plus sur les murs de briques, ni sur les gratte-ciels. Le loup a compris qu'il avait perdu la partie. Le loup a revu ses objectifs. Le loup bave devant l'agneau, et l'humanité crache sur ses modèles. L'humanité se plaint d'être dans le brouillard, sauf les Normands qui disent que c'est un crachin. Elle allume sa télé et n'y voit que la neige. Il est amusant d'avoir appelé neige un brouillard de pixels. Un brouillard de glace s'appelle aussi de la neige, et ce n'est pas rien. Le rien, c'est une fraction volumique du vide. Le vide occupe tout l'espace, qui est immense, et sûrement plein de pixels. L'espace, c'est du brouillard de nuit. La nuit, c'est du brouillard d'abysse. L'abysse, c'est du brouillard de chez brouillard. Le brouillard, c'est du brouillard tout court. La mort, du brouillard tout long. On dit alors que c'est la zone. Le brouillard s'immisce et descend sur la plaine. On investit dans le brouillard et le brouillard remonte. Le brouillard enveloppe les maisons, comme le tuyau enveloppe le liquide. Les terrains vagues sont enveloppés de brouillard. On ne voit plus rien.
 
+**Prions.**

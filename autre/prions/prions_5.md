@@ -1,10 +1,16 @@
 ---
-title: prions. n°1
+title: prions. n°5
 layout: post
 ---
 
-### prions. n°1
+*papyri plateau ponts*
+*solidité industrie infanterie*
+*scaphandrier complot infini*
 
-*hashtags*
+Le journalisme est un art millénaire. Il doit son essor à Gutenberg, qui, malgré son génie, fut insolvable. Il tient ses origines de la plus haute Antiquité, et parchemins et papyri, qui devinrent codex et rouleaux, firent la presse moderne et toute la science. Le journalisme est fait de journalistes, qui sont les garants de notre démocratie. Certains journalistes ont un petit salaire, et les autres sont à la solde du pouvoir. C'est la supériorité de la carte de crédit sur la carte de presse. C'est parce que la presse est servie sur un plateau. Depuis, beaucoup d'eau a coulé sous les ponts. Les journalistes écrivent des dépêches. On dit qu'ils planchent. On ne lit pas vraiment un journal, on le parcourt avec des yeux humides. On parle d'ailleurs d'attention flottante. Il n'y a eu que neuf vrais journaux dans l'histoire de l'humanité, parmi lesquels le journal intime de Gainsbourg, une bouteille à la mer, et le reportage sur les oasis qui est passé la semaine dernière à la télé. À cette liste s'ajoute désormais le Toucan Déchaîné et sa célèbrissime devise : "n'enchaînez pas l'oiseau moqueur".
 
+La mécanique est un art millénaire. Ses outils vont de la presse de Gutenberg à la presse hydraulique. La presse hydraulique permet de vérifier la solidité d'un matériau. On apprend ainsi que le platine est solide, tandis que la démocratie est fragile. On fait monter une lourde charge à l'aide d'un palan, sur un plateau, grâce au garant. On fait ensuite tomber la charge sur la pauvre démocratie, ou sous le malheureux platine. La presse hydraulique est automatique, aussi le scientifique ne sert pas à grand-chose. Il porte sur sa blouse une cravate avec une fleur qui crache de l'eau quand on appuie dessus, et son savoir forme des précipices. Il sait par exemple de quoi a besoin l'industrie. Il réalise des oiseaux en plastique, par hydroformage, qu'on donne à l'industrie, qui les vend. Le but du scientifique n'est pas de faire des sous, mais d'œuvrer pour la paix. Quand on passe une batterie d'infanterie sous une presse hydraulique, que voit-on ? La batterie est noyée comme une voiture sous la neige. Prodige de la science.
 
+La marée est un phénomène millénaire. Ce qu'il y a de bien avec la marée, c'est qu'elle revient. Les touristes reviennent aussi, ainsi que les oiseaux et les plongeurs. Le cormoran vient pour les miettes de pain, le plongeur vient pour la science. Il arrive qu'on trouve un petit maquereau séché, pris par surprise par le mouvement de retrait des eaux. On parle dans ce cas de reflux, ce qui veut bien dire ce que ça veut dire. En espagnol, on dit "caballa", et on crie au complot. Il faut alors le vider de son eau en le pressant bien, puis en le couvrant de sel. On dit qu'on l'essore. L'homme se munit d'une cloche de plongée, puis va en chercher d'autres. C'est une pratique illégale, et il est poursuivi par les courageux journalistes. On tente de noyer le poisson, mais le mal est fait comme un rat sur un navire en planches vermoulues. Sous la pression des bas-fonds, ses bouteilles de plongée explosent et laissent échapper tout leur pétrole, qui n'est pas soluble dans l'océan infini. La surface claire de l'eau se trouble et devient noire comme de l'encre. Le maquereau est pris dans le mazout. On dépêche des chalutiers. On laisse imbiber le corps mort du maquereau qui voit, sur le dos, passer le cormoran. Et l'oiseau s'en moque.
+
+**Prions.**

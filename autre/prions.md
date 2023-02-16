@@ -20,4 +20,11 @@ layout: post
 - [prions. n°0](prions/prions_0.html)
 - [prions. n°°°](prions/prions_love.html)
 - [prions. n°10](prions/prions_10.html)
-- [prions. n°X](prions/prions_x.html)
+
+### méta
+
+- [pourquoi](prions/pourquoi.html)
+
+### avis
+
+- [chatgpt](prions/avis_chatgpt.html)

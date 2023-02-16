@@ -1,12 +1,12 @@
 ---
-title: prions
+title: prions. n°0
 layout: post
 ---
 
-# Prions.
+On vient tous d'une seule cellule. Cette pluripotence a été vraiment exploitée quand on a pu reprogrammer des cellules souches par transgénèse. Quand le corps ou la masse cellulaire grossit, les cellules ont besoin de se spécialiser. Bizarre comme les humains ont conquis la planète et tué ses animaux et maintenant on peut tout devenir un peu comme des cellules, grâce à notre gros cerveau d'Homo sapiens qui peut se permettre de se développer pendant 15 ans, avec son gros néocortex là. 80 milliards de neurones dans 1,5kg de cerveau et on sait pas comment ça marche, même la pensée on sait pas. Alors que jour et nuit ça crame 20% d'énergie, 20% d'oxygène… On suppose que le sommeil est là pour se régénérer, éliminer des métabolites… Plus de la moitié des cellules du cerveau ne sont pas des neurones. La souris est un animal fantastique. Malgré tous ses efforts, les médicaments qu'on développe sur elle ne marchent pas forcément chez l'homme. La bonne vieille blague : on a tous le droit d'être centenaires, mais avec Alzheimer.
 
-### Prions. N°1
+Le homard : comme l'écrevisse, le homard ressent le stress. Il en ressent parfois même le besoin, et reconditionne son cerveau à pousser avec des sévices ancrés. Heureusement, le Prozac fonctionne sur lui. Les singes aussi aiment l'épigénétique. Nous, les hommes, les groupons par cinq, occasionnellement, avec une échelle et une banane au bout de l'échelle. La banane est un piège. Si un singe va vers la banane, il déclenche une douche générale. Au bout d'un moment les singes retiennent la leçon. Si bien que quand on introduit un singe naïf à la place d'un des singes, il se fera bouillave par ses collègues en essayant de prendre la banane. Ce qui nous amuse beaucoup, c'est qu'on peut aller jusqu'à remplacer tous les singes, par une équipe de primates n'ayant donc jamais connu la douche, mais aucun n'ira chercher la banane. Ce qui nous amène à l'apoptose, phénomène où une protéine se mute en cercle de feu. Il faut imaginer des petites cuillères molles.
 
-*hashtags*
+Les prions se conservent de manière remarquable dans l'évolution. Les Britanniques aussi. Leur expertise dans le domaine du mouton rend fou les vaches. Partout le principe de Lavoisier s'applique, sauf à Lyon. C'est pour ça que les gens nés après 1996 ne peuvent donner leur sang en Amérique du Nord. Une maladie chez l'homme de type prions met entre 3 et 50 ans à incuber. On renouvelle pourtant tout notre épithélium intestinal en deux à trois jours. Quand on boit la tasse dans la mer, il s'y trouve 10 milliards de virus par millilitre. Morale : il ne faut pas prendre de sang aux gens que tu ne connais pas bien. Le kuru des Forés est-il une manifestation du courroux des forêts ? L'insomnie, elle, peut être fatale, ou familiale, ou les deux. Quant à certaines limaces de mer, elles n'ont qu'un gros neurone. Et ça leur va très bien.
 
-
+**Prions.**

@@ -1,10 +1,16 @@
 ---
-title: prions. n°1
+title: prions. n°6
 layout: post
 ---
 
-### prions. n°1
+*poussière poésie pistons*
+*nom non naturel*
+*pluie peinture pétrichor*
 
-*hashtags*
+Le troubadourisme est un art millénaire. Le troubadour est un poète qui trouve des mots qui iraient bien dans une chanson, comme par exemple "troubadourisme". Le troubadour a apporté à la science deux grands principes : premièrement, que le chemin le plus court d'une main à une autre est la ligne droite, et deuxièmement, que le chemin le plus court n'est pas forcément le plus rigolo. Le troubadour porte des sandales à lanières et a un air cabot. Il ne prend pas la poussière, mais lance des balles remplies de sable et dit des vers remplis de poésie. Le troubadour vénère la pluie, car elle embête les cracheurs de feu, qui sont ses rivaux. Le troubadour mange des champignons très phosphorescents qu'il trouve au fond des bois. Il est éclairé par la lumière crue des stroboscopes et les flashs des projecteurs qui crépitent en pluie de feu. Il fait de la musique avec du métal à pistons. Le troubadour est festif et heureux. Plein de houblon, il s'endort près du feu en chien de fusil.
 
+La chasse est un art en pleine évolution. C'est probablement le premier des arts. Citons à ce propos le De Artibus de Cornelius Celsus : "Il est probable que la chasse fût le premier des arts, pratiqué par le premier homme qui chassa le premier repas avec le premier projectile. Si, toutefois, il était avéré que ce premier lancer ait manqué sa cible... le premier art serait alors celui de lancer un projectile avant de le rattraper puis de le relancer, art qui à notre très haute époque ne porte pas encore de nom". Le chasseur porte un fusil en bandoulière et a un gros chien. Il évolue sous les faibles rayons du soleil matinal que la clairière laisse passer (on dit aussi que l'aurore darde ses rayons d'argent à travers les écharpes de brume). Le fonctionnement d'un fusil est très simple. La gâchette déclenche le chien, qui percute la cartouche. La poudre explose. La balle fend l'air dans un grand flash, et va vers un flanc animal par le chemin le plus court. Cornelius encore : "S'il est une question primordiale dans la science, c'est bien de savoir si, oui ou non, il y a une différence entre le bon et le mauvais chasseur". On chasse traditionnellement le dimanche, car Dieu ne regarde pas. Il arrive cependant que le dimanche revienne, au galop. Et c'est bien naturel.
 
+La pluie est un phénomène qui trouve son origine dans la plus haute antiquité. Le premier à expliquer pourquoi il pleut toujours le dimanche était Cornelius Celsus. Il a écrit : « Le lundi au soleil, c'est une chose qu'on n'aura jamais. Et après la pluie, le beau temps, QED ». Les anciens ont une grande sagesse ! La pluie est souvent accompagnée d'éclairs qui illuminent le ciel de manière très vive et très courte. C'est très dangereux, alors on reste à la maison pour faire de la peinture à l'eau. C'est bien mieux que la peinture au pistolet. Les gouttes s'écrasent sur les vitres, suivies par le ruissellement, qui est un principe intrinsèque à la pluie. L'homme aime bien quand il a plu. C'est sa nature narcissique. Pourtant, de temps en temps, il regarde par la fenêtre et dit qu'il fait un temps de chien. L'homme est d'humeur massacrante. Dehors, la terre sent le pétrichor. Ou le chien mouillé.
+
+**Prions.**
