@@ -1,5 +1,5 @@
 ---
-title: CV
+title: cv
 layout: post
 ---
 

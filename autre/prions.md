@@ -1,5 +1,5 @@
 ---
-title: prions
+title: prions.
 layout: post
 ---
 

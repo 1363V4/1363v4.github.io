@@ -1,11 +1,11 @@
 entries:
-  - title: CV
-    url: autre/CV.html
+  - title: cv
+    url: autre/cv.html
   - title: musique
     url: autre/musique.html
   - title: textes
     entries:
-      - title: prions
+      - title: prions.
         url: autre/prions.html
       - title: poésies
         url: autre/poesies.html
