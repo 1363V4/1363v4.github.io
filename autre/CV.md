@@ -3,11 +3,15 @@ title: CV
 layout: post
 ---
 
-### Ingénieur Centralien, Consultant en Cybersécurité
+# Ingénieur Centralien, Consultant en Cybersécurité
 
-Compétences clés : Analyse de risque/ Gestion de projet/ AMOA/ AMOE/ Audit Cyber
+#### Compétences clés
 
-Points forts : Capacités décisionnelles et synthétiques/ Sens de la responsabilité/ Organisation
+Analyse de risque/ Gestion de projet/ AMOA/ AMOE/ Audit Cyber
+
+#### Points forts
+
+Capacités décisionnelles et synthétiques/ Sens de la responsabilité/ Organisation
 
 ### Expérience professionnelle
 
@@ -33,9 +37,9 @@ Ingénieur généraliste / **École Centrale Paris** / Châtenay-Malabry / Promo
 
 Projet personnel (Eyeroes)
 
-• Design de solutions numériques innovantes pour traiter l’amblyopie
-• Lauréat du Challenge Startup de l’Université Paris-Saclay 2020
-• Prix de l’Innovation au Hackathon LEEM / Pépite France 2019
+- Design de solutions numériques innovantes pour traiter l’amblyopie
+- Lauréat du Challenge Startup de l’Université Paris-Saclay 2020
+- Prix de l’Innovation au Hackathon LEEM / Pépite France 2019
 
 Classe préparatoire / **Lycée Sainte-Geneviève** / Versailles
 
@@ -54,4 +58,3 @@ NIST CSF, ISO 27001 (certification LI), ISO 27005, II901, EBIOS RM, DevSecOps, R
 Développement informatique (Python : Pygame, Gym, OpenCV, Pandas, Requests, Numpy, Pillow, Web : HTML, CSS)
 
 Président de la radio de Centrale Paris (RadioPi), Fondateur de la webradio de CentraleSupélec (RICS)
-
