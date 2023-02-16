@@ -1,3 +1,5 @@
 entries:
   - title: Entries
     post_list: true
+  - title: Autre
+    url: autre/autre.md
