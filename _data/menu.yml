@@ -1,5 +1,11 @@
 entries:
-  - title: Entries
+  - title: Musique
+    url: autre/musique.html
+  - title: Textes
+    entries:
+      - title: Prions
+        url: autre/prions.html
+      - title: Théatre
+      -title: ...
+  - title: Blog
     post_list: true
-  - title: Autre
-    url: autre/autre.html
