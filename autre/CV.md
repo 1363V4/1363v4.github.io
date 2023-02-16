@@ -6,6 +6,7 @@ layout: post
 ### Ingénieur Centralien, Consultant en Cybersécurité
 
 Compétences clés : Analyse de risque/ Gestion de projet/ AMOA/ AMOE/ Audit Cyber
+
 Points forts : Capacités décisionnelles et synthétiques/ Sens de la responsabilité/ Organisation
 
 ### Expérience professionnelle
@@ -20,11 +21,11 @@ Airbus Defense & Space, Renault Group, Safran, Ariane Group, Elis, Radio France,
 
 ##### Missions 
 
-• Modélisation du risque cyber sur un parc informatique étendu à l’aide de réseaux bayésiens
-• Définition du socle de sécurité de la Design Authority Software
-• Gestion des risques dans les projets et outils d’agrégation sur les impacts métiers
-• Accompagnement à la rédaction d’un RFP pour un SOC à périmètre mondial
-• Définition et mise en place d’une solution d’anonymisation RGPD
+- Modélisation du risque cyber sur un parc informatique étendu à l’aide de réseaux bayésiens
+- Définition du socle de sécurité de la Design Authority Software
+- Gestion des risques dans les projets et outils d’agrégation sur les impacts métiers
+- Accompagnement à la rédaction d’un RFP pour un SOC à périmètre mondial
+- Définition et mise en place d’une solution d’anonymisation RGPD
 
 ### Formation
 
