@@ -6,6 +6,6 @@ entries:
       - title: Prions
         url: autre/prions.html
       - title: Théatre
-      -title: ...
+      - title: ...
   - title: Blog
     post_list: true
