@@ -9,4 +9,4 @@ Léonard de Vinci et son homme de Vitruve. On dit qu'ils sont de la même étoff
 
 La Bretagne a de belles tapisseries dans ses châteaux. J'ai essayé d'y aller hier.
 
-**Prions.**
+[**Prions.**](../prions.html)

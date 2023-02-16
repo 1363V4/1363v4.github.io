@@ -4,7 +4,9 @@ layout: post
 ---
 
 *immersion submersion variétés*
+
 *argent écharde réacteurs*
+
 *degré pelote simplissime*
 
 Le journalisme est un art millénaire. La théorie de l'évolution n'a pas une centaine d'années. Charles Darwin voyage à bord du HMS Beagle durant 5 années; il passe les deux tiers de son temps à terre, ou à lire. Le tiers restant est alloué au sommeil, ainsi que chez la plupart des mammifères. Ses découvertes fulgurantes l'ont longtemps apparenté au journalisme d'investigation. Or, il n'en est rien. Charles Darwin appartient au journalisme d'immersion. On classe dans cette catégorie toute observation réalisée sur plus de deux ans. Le HMS Beagle était armé de canons, et moins dense que l'eau. Fabriqué dans le chantier naval de la Tamise, il servit jusqu'à son démantèlement. S'il avait coulé durant le trajet, on aurait parlé de journalisme de submersion, comme nous le précise l'excellent ouvrage de J-J Cousteau, "Le journalisme marin et ses variétés".
@@ -13,4 +15,4 @@ L'argent est un métal millénaire. Il est souvent "rare", par opposition avec l
 
 Il y a donc degré de journalisme et degré de fusion. Ces deux notions ne sont pas encore unies dans une grande théorie du tout. Les plus pessimistes pensent que le journalisme n'est pas plus soluble qu'une pelote de laine. Aucune expérience récente n'a réussi à changer la phase d'un journaliste. C'est donc que ce procédé est interdit par quelque grande loi naturelle encore inconnue. L'homme pieux sait que rien n'est impossible à Dieu. Si Charles Darwin avait eu un tel bon sens, il est fort à parier qu'il n'aurait jamais publié ses ouvrages avec tant d'aplomb. Exposer les dessous de la Création, c'est s'exposer à la dissolution dans les flammes. L'Enfer existe, il est éternel et, très certainement, exothermique. Il faut s'en prémunir, et en prémunir les coquillages, au lieu de les étudier. Les poissons le savent, les poissons sont au Paradis. C'est simplissime. Les poissons ne passent pas deux tiers de leur temps sur la terre, et nous demandons à ce qu'ils n'évoluent point.
 
-**Prions.**
+[**Prions.**](../prions.html)

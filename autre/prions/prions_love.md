@@ -4,7 +4,9 @@ layout: post
 ---
 
 *Standup Décapsuleur Inventeur*
+
 *Entrepreneuriat Pizza Homme*
+
 *Rhétorique Poésie Fumée*
 
 Le stand-up est un art millénaire. Il fut parfois porté par des prêcheurs ou autres orateurs qui sous-estimaient eux-mêmes leur capacité humoristique - on peut l'observer dans La vie de Brian. Leur principale peur était de faire rire : ils diffusaient en effet des mensonges hautement sérieux. La comédie est aussi associée à l'art des bouffons. Ceux-là veulent faire rire, c’est leur gagne-pain. Cependant, ils souffrent d’une certaine anxiété, et dissimulent les extrémités de leur encéphale, peut-être par espoir de ne perdre que le couvre-chef en cas de mécontentement du public. Les comiques d’aujourd’hui sont un peu différents. Ils expriment en montant sur scène un besoin de compréhension, de partage ou d’amour. Leur force est de nous faire oublier notre susceptibilité. Ils nous entraînent dans leur perception momentanée du monde, aventures en forêt et rencontres inopinées. On y croise parfois des biches aux yeux rieurs - souvent verts - quand bien même on partait pour un magique décapsuleur. L’humoriste est un inventeur.
@@ -13,4 +15,4 @@ L’entrepreneuriat est un art millénaire. C’est une science qui repose sur l
 
 La rhétorique est un art millénaire. Du grec ῥητορική, elle désigne à la fois la science et l’art du discours. Pour persuader, elle a besoin de quatre ingrédients : logos, ethos, pathos, kairos. Logos est le support nécessaire à la diffusion de l’idée, c’est la parole non dénuée de logique. Ethos est la morale du discours, qui sait toucher les plus sages et avisés. Le pathos fait appel à nos sentiments et à nos émotions. Le kairos c’est le « timing ». Si ces quatre ingrédients sont réunis, on assiste à un discours charismatique, parfois poétique, aussi appelé instigateur de coup de foudre. Allier parfaitement ces qualités est rare. Assez rare pour empêcher ceux qui les possèdent de les laisser partir en fumée.
 
-**Prions.**
+[**Prions.**](../prions.html)

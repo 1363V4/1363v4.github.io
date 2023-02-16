@@ -4,7 +4,9 @@ layout: post
 ---
 
 *poussière poésie pistons*
+
 *nom non naturel*
+
 *pluie peinture pétrichor*
 
 Le troubadourisme est un art millénaire. Le troubadour est un poète qui trouve des mots qui iraient bien dans une chanson, comme par exemple "troubadourisme". Le troubadour a apporté à la science deux grands principes : premièrement, que le chemin le plus court d'une main à une autre est la ligne droite, et deuxièmement, que le chemin le plus court n'est pas forcément le plus rigolo. Le troubadour porte des sandales à lanières et a un air cabot. Il ne prend pas la poussière, mais lance des balles remplies de sable et dit des vers remplis de poésie. Le troubadour vénère la pluie, car elle embête les cracheurs de feu, qui sont ses rivaux. Le troubadour mange des champignons très phosphorescents qu'il trouve au fond des bois. Il est éclairé par la lumière crue des stroboscopes et les flashs des projecteurs qui crépitent en pluie de feu. Il fait de la musique avec du métal à pistons. Le troubadour est festif et heureux. Plein de houblon, il s'endort près du feu en chien de fusil.
@@ -13,4 +15,4 @@ La chasse est un art en pleine évolution. C'est probablement le premier des art
 
 La pluie est un phénomène qui trouve son origine dans la plus haute antiquité. Le premier à expliquer pourquoi il pleut toujours le dimanche était Cornelius Celsus. Il a écrit : « Le lundi au soleil, c'est une chose qu'on n'aura jamais. Et après la pluie, le beau temps, QED ». Les anciens ont une grande sagesse ! La pluie est souvent accompagnée d'éclairs qui illuminent le ciel de manière très vive et très courte. C'est très dangereux, alors on reste à la maison pour faire de la peinture à l'eau. C'est bien mieux que la peinture au pistolet. Les gouttes s'écrasent sur les vitres, suivies par le ruissellement, qui est un principe intrinsèque à la pluie. L'homme aime bien quand il a plu. C'est sa nature narcissique. Pourtant, de temps en temps, il regarde par la fenêtre et dit qu'il fait un temps de chien. L'homme est d'humeur massacrante. Dehors, la terre sent le pétrichor. Ou le chien mouillé.
 
-**Prions.**
+[**Prions.**](../prions.html)

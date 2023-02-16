@@ -4,7 +4,9 @@ layout: post
 ---
 
 *serrure champignon arc* 
+
 *sucette blocus contemplations* 
+
 *mosaïque machine vertu*
 
 Le mois de novembre est un mois millénaire. Ils sont habituellement pluvieux et tristes, sauf quand ils sont ensoleillés et frais avec un brouillard occasionnel. Le mois de novembre débute par la Toussaint et se finit généralement par une petite grippe. On citera à ce sujet l'excellente remarque d'Albert Samain : « Mois de novembre, les hommes se grippent, ma serrure aussi ». Albert Samain est un excellent poète. Il est émouvant de retrouver son écriture si familière dans ses Carnets, écriture quelque peu tremblante du fait du roulis du bateau qui l'emmenait à Paris. On a souvent décrié, à tort, la confusion de ses textes. La confusion vient du roulis et non de l'esprit du poète. Sa fameuse phrase : « Le soleil se cache derrière les cimes, mais à la fin du jour, toujours, de honte il rougeoie » est apocryphe et rappelle la chasse aux champignons. Le mois de novembre est un excellent mois pour chasser le champignon. Le champignon, d'un tempérament mélancolique, décide d'en finir avant l'hiver et se découvre de lui-même. Voilà pourquoi la poésie est utile à l'homme. L'esprit devient l'arc, les vers sont les flèches, et l'homme chasse en fond de forêt ou au bord des rivières. Lorsqu'on vit loin de toute ruralité, le mois de novembre est un excellent mois pour aller au casino.
@@ -13,4 +15,4 @@ Le casino est un art millénaire. Du moins je suis prêt à le parier. Il y a un
 
 Les hommes ont des aspirations diverses, et se répartissent en plusieurs corps de métier : médecin, chanteur, informaticien, soldat. On parle alors de corps social. Le métier à tisser est un métier à risques, dit-on. La notion de métier à risques est un contresens. « Aucun des carreaux n'a la couleur d'une mosaïque », selon les mots du calife Paksi-Fralith, qui montre ainsi que les sociétés sont des vérités multiples, sauf certaines. La machine a une précision chirurgicale, mais elle n'a pas de corps social. Lorsque la machine nous remplace dans notre travail, elle n'est pas consciente des risques, ou alors elle ne nous le prendrait pas. La machine n'est jamais fatiguée. La machine n'a pas fait la fête la veille. On ne sait pas exactement ce que faisait la machine la veille, mais c'était certainement bien. L'inventeur du métier à tisser a fait, lui, beaucoup de mal. Il a fait couler du sang dans le Rhône. Les gens avaient peur de ne servir à rien en servant le métier. Un groupuscule de fanatiques voulait lui rentrer son invention en pièces détachées par le fondement. En atteste l'expression lyonnaise bien connue : « c'est le métier qui rentre ». Mieux vaut, pour la santé, s'enrichir dans le commerce de noisettes. Celles de l'Ouganda sont bénéfiques pour les reins, et soignent le cœur des mélancolies novembrales. Sans ces noisettes, l'homme passe pour un âne et doit se faire opérer. On peut avoir des déconvenues, certes, à cause du facteur humain, mais la machine ne remplacera pas le chirurgien. Le chirurgien provoque les catastrophes, et c'est là sa vertu.
 
-**Prions.**
+[**Prions.**](../prions.html)

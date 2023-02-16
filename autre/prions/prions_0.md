@@ -9,4 +9,4 @@ Le homard : comme l'écrevisse, le homard ressent le stress. Il en ressent parfo
 
 Les prions se conservent de manière remarquable dans l'évolution. Les Britanniques aussi. Leur expertise dans le domaine du mouton rend fou les vaches. Partout le principe de Lavoisier s'applique, sauf à Lyon. C'est pour ça que les gens nés après 1996 ne peuvent donner leur sang en Amérique du Nord. Une maladie chez l'homme de type prions met entre 3 et 50 ans à incuber. On renouvelle pourtant tout notre épithélium intestinal en deux à trois jours. Quand on boit la tasse dans la mer, il s'y trouve 10 milliards de virus par millilitre. Morale : il ne faut pas prendre de sang aux gens que tu ne connais pas bien. Le kuru des Forés est-il une manifestation du courroux des forêts ? L'insomnie, elle, peut être fatale, ou familiale, ou les deux. Quant à certaines limaces de mer, elles n'ont qu'un gros neurone. Et ça leur va très bien.
 
-**Prions.**
+[**Prions.**](../prions.html)

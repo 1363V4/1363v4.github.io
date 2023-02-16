@@ -16,3 +16,5 @@ Mais aussi :
 - *L'astrologie est une pseudo-science millénaire. L'astrologie, ce sont Capricorne, Lion, Poisson, Scorpion, Vierge, Sagittaire, Taureau, Bélier, Verseau, Balance, Gémeaux et Cancer. Si on a envie de croire que l'astrologie a un sens, on peut. C'est également le feu, la terre, l'air, l'eau et l'éther, sans oublier les oracles, les prophètes, les devins, les sibylles, les aruspices, les augures, les vaticinateurs et la pythie qui vient en mangeant. À cela s'ajoute la cartomancie, l'astromancie, l'arithmomancie, la chiromancie, la géomancie, la cristallomancie, la nécromancie, l'oniromancie, l'ornithomancie, la pyromancie, la rabdomancie ou la scapulomancie et Pathé Massy dans le quartier Atlantis. On mentionnera bien sûr les loutres, les paresseux, les hippopotames, les scarabées, les martins-pêcheurs, les kangourous, les orignaux, les dinosaures, les zèbres, les chiens, les chats et les signes fictifs. Viennent enfin les charlatans et les adeptes... et la limule.*
 
 Vous en tirerez vos propres conclusions.
+
+[**Prions.**](../prions.html)

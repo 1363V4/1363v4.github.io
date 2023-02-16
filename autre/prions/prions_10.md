@@ -14,5 +14,3 @@ Il faut dire que parfois, ils s'épousent entre eux, et ça fait des enfants de 
 Il faut savoir que "gueule" est familier. Bien sûr, ici je l'utilise pour parler des chiens et des chevaux et de tous les animaux qui ont souffert durant la guerre. Jeanne d'Arc avait bien sûr un petit chien, ça se voit sur son tombeau, comme tous les autres nobles qui ont eu assez d'argent pour faire construire une statue d'eux pour orner leur cercueil. On peut dès lors dire sans se mouiller que les chiens attirent l'argent. Et pourtant, rien n'est plus misérable qu'un chien mouillé. Franchement, c'est à se demander si les historiens ne nous cachent pas quelque chose.
 
 [**Prions.**](../prions.html)
-[**Prions.**](/prions.html)
-[**Prions.**](prions.html)
