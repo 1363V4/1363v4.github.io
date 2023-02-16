@@ -3,4 +3,4 @@ title: autre
 layout: post
 ---
 
-[autre]("prions/prions.html")
+[autre](/prions/prions.html)
