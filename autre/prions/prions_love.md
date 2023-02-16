@@ -1,11 +1,9 @@
 ---
-title: prions
+title: prions. n°1
 layout: post
 ---
 
-# Prions.
-
-### Prions. N°1
+### prions. n°1
 
 *hashtags*
 

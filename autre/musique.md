@@ -3,18 +3,16 @@ title: musique
 layout: post
 ---
 
-# Musique
+### officiel
 
-### Officiel
+- [louis-emmanuel gires](https://soundcloud.com/louis-emmanuel-gires)
+- [marie malheur](https://mariemalheur.bandcamp.com/)
 
-- [Louis-Emmanuel Gires](https://soundcloud.com/louis-emmanuel-gires)
-- [Marie Malheur](https://mariemalheur.bandcamp.com/)
+### expérimentations
 
-### Expérimentations
-
-- [Marry Maller](https://soundcloud.com/marrymaller)
-- [Marie Malheur](https://soundcloud.com/marie-malheur)
-- [Yung Mean](https://soundcloud.com/louis-emmanuel-macron)
-- [DJ PHRONK](https://soundcloud.com/djphronk)
+- [marry maller](https://soundcloud.com/marrymaller)
+- [marie malheur](https://soundcloud.com/marie-malheur)
+- [yung mean](https://soundcloud.com/louis-emmanuel-macron)
+- [dj phronk](https://soundcloud.com/djphronk)
 - [n u r a](https://soundcloud.com/nura666)
-- [Louis Sunshine](https://soundcloud.com/louissunshine)
+- [louis sunshine](https://soundcloud.com/louissunshine)

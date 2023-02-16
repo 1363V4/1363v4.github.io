@@ -1,11 +1,11 @@
 entries:
-  - title: Musique
+  - title: musique
     url: autre/musique.html
   - title: Textes
     entries:
-      - title: Prions
+      - title: prions
         url: autre/prions.html
-      - title: Théatre
+      - title: théatre
       - title: ...
-  - title: Blog
+  - title: blog
     post_list: true
