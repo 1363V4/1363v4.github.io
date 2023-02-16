@@ -7,11 +7,17 @@ layout: post
 
 #### Compétences clés
 
-Analyse de risque/ Gestion de projet/ AMOA/ AMOE/ Audit Cyber
+- Analyse de risque
+- Gestion de projet
+- AMOA
+- AMOE
+- Audit Cyber
 
 #### Points forts
 
-Capacités décisionnelles et synthétiques/ Sens de la responsabilité/ Organisation
+- Capacités décisionnelles et synthétiques
+- Sens de la responsabilité
+- Organisation
 
 ### Expérience professionnelle
 
@@ -21,7 +27,13 @@ Capacités décisionnelles et synthétiques/ Sens de la responsabilité/ Organis
 
 ##### Clients
 
-Airbus Defense & Space, Renault Group, Safran, Ariane Group, Elis, Radio France, AFM Téléthon
+- Airbus Defense & Space
+- Renault Group
+- Safran
+- Ariane Group
+- Elis
+- Radio France
+- AFM Téléthon
 
 ##### Missions 
 
@@ -35,11 +47,10 @@ Airbus Defense & Space, Renault Group, Safran, Ariane Group, Elis, Radio France,
 
 Ingénieur généraliste / **École Centrale Paris** / Châtenay-Malabry / Promotion 2020
 
-Projet personnel (Eyeroes)
-
-- Design de solutions numériques innovantes pour traiter l’amblyopie
-- Lauréat du Challenge Startup de l’Université Paris-Saclay 2020
-- Prix de l’Innovation au Hackathon LEEM / Pépite France 2019
+> **Projet personnel** (Eyeroes)
+> Design de solutions numériques innovantes pour traiter l’amblyopie
+> Lauréat du Challenge Startup de l’Université Paris-Saclay 2020
+> Prix de l’Innovation au Hackathon LEEM / Pépite France 2019
 
 Classe préparatoire / **Lycée Sainte-Geneviève** / Versailles
 
@@ -47,14 +58,39 @@ Baccalauréat Scientifique / **Lycée Louis-Le-Grand** / Paris
 
 ### Langues
 
-Anglais courant (C1), Espagnol courant (C1), Russe (A2)
+- Anglais courant *(C1)*
+- Espagnol courant *(C1)*
+- Russe *(A2)*
 
 ### Compétences Techniques
 
-NIST CSF, ISO 27001 (certification LI), ISO 27005, II901, EBIOS RM, DevSecOps, RGPD, Genie
+- NIST CSF
+- ISO 27001 *(certification LI)*
+- ISO 27005
+- II901
+- EBIOS RM
+- DevSecOps
+- RGPD
+- Genie
+
+### Développement informatique 
+
+##### Python 
+
+- Pygame
+- Gym
+- OpenCV
+- Pandas
+- Requests
+- Numpy
+- Pillow
+
+##### Web
+
+- HTML
+- CSS
 
 ### Centres d’intérêts
 
-Développement informatique (Python : Pygame, Gym, OpenCV, Pandas, Requests, Numpy, Pillow, Web : HTML, CSS)
-
-Président de la radio de Centrale Paris (RadioPi), Fondateur de la webradio de CentraleSupélec (RICS)
+- Président de la radio de Centrale Paris *(RadioPi)*
+- Fondateur de la webradio de CentraleSupélec *(RICS)*
