@@ -3,9 +3,10 @@ title: CV
 layout: post
 ---
 
-# Ingénieur Centralien, Consultant en Cybersécurité
+# Ingénieur Centralien
+# Consultant en Cybersécurité
 
-#### Compétences clés
+### Compétences clés
 
 - Analyse de risque
 - Gestion de projet
@@ -13,19 +14,19 @@ layout: post
 - AMOE
 - Audit Cyber
 
-#### Points forts
+### Points forts
 
 - Capacités décisionnelles et synthétiques
 - Sens de la responsabilité
 - Organisation
 
-### Expérience professionnelle
+## Expérience professionnelle
 
-#### Groupe Sopra Steria (Paris) / Consultant confirmé 
+### Groupe Sopra Steria (Paris) / Consultant confirmé 
 
 *Janvier 2021 - Actuel*
 
-##### Clients
+#### Clients
 
 - Airbus Defense & Space
 - Renault Group
@@ -35,7 +36,7 @@ layout: post
 - Radio France
 - AFM Téléthon
 
-##### Missions 
+#### Missions 
 
 - Modélisation du risque cyber sur un parc informatique étendu à l’aide de réseaux bayésiens
 - Définition du socle de sécurité de la Design Authority Software
@@ -43,7 +44,7 @@ layout: post
 - Accompagnement à la rédaction d’un RFP pour un SOC à périmètre mondial
 - Définition et mise en place d’une solution d’anonymisation RGPD
 
-### Formation
+## Formation
 
 Ingénieur généraliste / **École Centrale Paris** / Châtenay-Malabry / Promotion 2020
 
@@ -56,13 +57,13 @@ Classe préparatoire / **Lycée Sainte-Geneviève** / Versailles
 
 Baccalauréat Scientifique / **Lycée Louis-Le-Grand** / Paris
 
-### Langues
+## Langues
 
 - Anglais courant *(C1)*
 - Espagnol courant *(C1)*
 - Russe *(A2)*
 
-### Compétences Techniques
+## Compétences Techniques
 
 - NIST CSF
 - ISO 27001 *(certification LI)*
@@ -73,9 +74,9 @@ Baccalauréat Scientifique / **Lycée Louis-Le-Grand** / Paris
 - RGPD
 - Genie
 
-### Développement informatique 
+## Développement informatique 
 
-##### Python 
+### Python 
 
 - Pygame
 - Gym
@@ -85,12 +86,12 @@ Baccalauréat Scientifique / **Lycée Louis-Le-Grand** / Paris
 - Numpy
 - Pillow
 
-##### Web
+### Web
 
 - HTML
 - CSS
 
-### Centres d’intérêts
+## Centres d’intérêts
 
 - Président de la radio de Centrale Paris *(RadioPi)*
 - Fondateur de la webradio de CentraleSupélec *(RICS)*
