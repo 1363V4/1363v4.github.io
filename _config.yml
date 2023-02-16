@@ -3,7 +3,7 @@ title: 1363V4
 author: 1363V4
 favicon: "favicon.png"
 theme_config:
-  appearance: "dark"
+  appearance: "light"
   back_home_text: "⇤ home"
   date_format: " "
   show_description: false
