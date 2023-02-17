@@ -9,6 +9,20 @@ layout: post
 
 *degré pelote simplissime*
 
+`immersion submersion variétés`
+
+*`argent écharde réacteurs`*
+`degré pelote simplissime`
+
+> *immersion submersion variétés*
+> *argent écharde réacteurs*
+
+> *degré pelote simplissime*
+
+==immersion== ==submersion== ==variétés==
+==argent== ==écharde== ==réacteurs==
+==degré== ==pelote== ==simplissime==
+
 le journalisme est un art millénaire. la théorie de l'évolution n'a pas une centaine d'années. charles darwin voyage à bord du hms beagle durant 5 années; il passe les deux tiers de son temps à terre, ou à lire. le tiers restant est alloué au sommeil, ainsi que chez la plupart des mammifères. ses découvertes fulgurantes l'ont longtemps apparenté au journalisme d'investigation. or, il n'en est rien. charles darwin appartient au journalisme d'immersion. on classe dans cette catégorie toute observation réalisée sur plus de deux ans. le hms beagle était armé de canons, et moins dense que l'eau. fabriqué dans le chantier naval de la tamise, il servit jusqu'à son démantèlement. s'il avait coulé durant le trajet, on aurait parlé de journalisme de submersion, comme nous le précise l'excellent ouvrage de j-j cousteau, "le journalisme marin et ses variétés".
 
 ---
