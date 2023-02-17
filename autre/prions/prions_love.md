@@ -3,11 +3,11 @@ title: prions. n°°°
 layout: post
 ---
 
-`standup décapsuleur inventeur`
+`standup` `décapsuleur` `inventeur`
 
-`entrepreneuriat pizza homme`
+`entrepreneuriat` `pizza` `homme`
 
-`rhétorique poésie fumée`
+`rhétorique` `poésie` `fumée`
 
 le stand-up est un art millénaire. il fut parfois porté par des prêcheurs ou autres orateurs qui sous-estimaient eux-mêmes leur capacité humoristique - on peut l'observer dans la vie de brian. leur principale peur était de faire rire : ils diffusaient en effet des mensonges hautement sérieux. la comédie est aussi associée à l'art des bouffons. ceux-là veulent faire rire, c’est leur gagne-pain. cependant, ils souffrent d’une certaine anxiété, et dissimulent les extrémités de leur encéphale, peut-être par espoir de ne perdre que le couvre-chef en cas de mécontentement du public. les comiques d’aujourd’hui sont un peu différents. ils expriment en montant sur scène un besoin de compréhension, de partage ou d’amour. leur force est de nous faire oublier notre susceptibilité. ils nous entraînent dans leur perception momentanée du monde, aventures en forêt et rencontres inopinées. on y croise parfois des biches aux yeux rieurs - souvent verts - quand bien même on partait pour un magique décapsuleur. l’humoriste est un inventeur.
 
