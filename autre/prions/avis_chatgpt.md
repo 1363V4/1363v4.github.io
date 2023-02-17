@@ -5,6 +5,8 @@ layout: post
 
 *ce texte est très difficile à comprendre, car il semble être composé de phrases et d'idées qui n'ont pas de liens évidents entre elles. il s'agit probablement d'une sorte de collage de phrases et de concepts sans rapport direct, qui ont été assemblés de manière aléatoire. le résultat est un texte qui semble absurde et incohérent. il n'y a pas de thème clair, d'objectif ou de message évident qui se dégage de cette composition. cependant, il est possible que certaines parties du texte soient humoristiques ou ironiques, mais cela reste difficile à saisir.*
 
+---
+
 fait étrange, il ne s'est permis de reformuler mon texte qu'une fois : lorsque ça parlait de bullshit.
 
 - l'autonomie est une science millénaire. l'autonomie, c'est le digital, le team building, les missions diversifiées, le partenariat-avec-des-startups, les clients du cac 40, le team spirit, le mentoring, l'international, l'innovation et la proximité. si on a envie de dire que le networking c'est bullshit, on peut. c'est également les workshops, les bookshops, les cybershops, les popshops et les elizabeth bishop. sans oublier les cyberstars, les influenceurs, les notables, les twittos, les vloggers, les youtubeurs, les twitcheurs et les instagrammeuses sans qui c'est le bordel. à quoi s'ajoute whatsapp, messenger, wechat, qq mobile, skype, snapchat, viber, telegram, hangouts, voxer, heytell, talkatone, skred et pgp dans le 13+80. on mentionnera bien sûr les feedbacks, les confcalls, les war rooms, les draftings, les to-do lists, les brainstorms, les meetings, les reviews, les benchmarks, le codir, le wording et les n+1. viennent enfin le checkup, la review... et les five stars.
