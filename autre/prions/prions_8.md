@@ -4,7 +4,9 @@ layout: post
 ---
 
 `climat capitalisme chaud`
+
 `orage avenue vacancier`
+
 `gaz nuit cieux`
 
 le climat est un phénomène planétaire. jadis, les anciens prédisaient le temps en lisant le ciel. ainsi, l'étoile du berger annonçait un temps nuageux, et l'étoile polaire, ou « étoile des neiges », prophétisait un hiver glacial. aujourd'hui, on a le progrès et la météo. le climat est à la météo ce que l'économie est au capitalisme. le climat peut être continental ou non. le climat continental se trouve généralement en europe, qu'on reconnaît à son drapeau bleu étoilé. partout, l'humanité surveille les variations du mercure. lisons jean yanne : « quand j'étais môme, la chaîne météo, ça existait déjà. on appelait ça la fenêtre ». on est en février. on regarde par la fenêtre. on n'a jamais vu un si grand soleil. le temps est bon. le ciel est bleu. il fait très beau. on est content d'être là. on est heureux. le climat est tempéré. certains l'aiment chaud.

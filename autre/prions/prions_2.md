@@ -4,7 +4,9 @@ layout: post
 ---
 
 `serrure champignon arc`
+
 `sucette blocus contemplations`
+
 `mosaïque machine vertu`
 
 le mois de novembre est un mois millénaire. ils sont habituellement pluvieux et tristes, sauf quand ils sont ensoleillés et frais avec un brouillard occasionnel. le mois de novembre débute par la toussaint et se finit généralement par une petite grippe. on citera à ce sujet l'excellente remarque d'albert samain : « mois de novembre, les hommes se grippent, ma serrure aussi ». albert samain est un excellent poète. il est émouvant de retrouver son écriture si familière dans ses carnets, écriture quelque peu tremblante du fait du roulis du bateau qui l'emmenait à paris. on a souvent décrié, à tort, la confusion de ses textes. la confusion vient du roulis et non de l'esprit du poète. sa fameuse phrase : « le soleil se cache derrière les cimes, mais à la fin du jour, toujours, de honte il rougeoie » est apocryphe et rappelle la chasse aux champignons. le mois de novembre est un excellent mois pour chasser le champignon. le champignon, d'un tempérament mélancolique, décide d'en finir avant l'hiver et se découvre de lui-même. voilà pourquoi la poésie est utile à l'homme. l'esprit devient l'arc, les vers sont les flèches, et l'homme chasse en fond de forêt ou au bord des rivières. lorsqu'on vit loin de toute ruralité, le mois de novembre est un excellent mois pour aller au casino.
