@@ -3,11 +3,9 @@ title: prions. n°7
 layout: post
 ---
 
-*chance cinéma cocus*
-
-*concept crime cru*
-
-*coeurs cerveaux calamar*
+`chance cinéma cocus`
+`concept crime cru`
+`coeurs cerveaux calamar`
 
 la chance est un concept millénaire. la chance est à l'histoire ce que le maquillage est au théâtre japonais. la chance n'est pas le fruit du hasard. c'est quelque chose de frisé, verdâtre et humide. la chance est un kiwi. elle est faite d'alliances et de compromis. elle est sollicitée en permanence. surtout au cinéma: on dit que la chance tourne. comme elle ne peut pas être partout, c'est la victime par excellence. on la retrouve chaque fois du côté des débutants, des perdants, des cocus. cela n'a rien d'étonnant, et on voit à longueur de journée, devant les établissements de pari, des individus la provoquer. c'est du harcèlement de rue. un jour, il va lui arriver un truc, tout le monde l'aura vu venir, et pourtant on dira « la faute à pas de chance ». ce n'est pas juste. pourtant, il est possible qu'elle ne porte même pas plainte, la chance. la chance pardonne, la chance oublie. son âme est pure. malgré son malheur, elle sourit aux audacieux, et sa dentition est impeccable. la victime est si belle.
 

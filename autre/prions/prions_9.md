@@ -3,11 +3,9 @@ title: prions. n°9
 layout: post
 ---
 
-*international innovation bullshit*
-
-*planète trous nuages*
-
-*bélier feu quartier*
+`international innovation bullshit`
+`planète trous nuages`
+`bélier feu quartier`
 
 l'autonomie est une science millénaire. l'autonomie, c'est le digital, le team building, les missions diversifiées, le partenariat-avec-des-startups, les clients du cac 40, le team spirit, le mentoring, l'international, l'innovation et la proximité. si on a envie de dire que le networking c'est bullshit, on peut. c'est également les workshops, les bookshops, les cybershops, les popshops et les elizabeth bishop. sans oublier les cyberstars, les influenceurs, les notables, les twittos, les vloggers, les youtubeurs, les twitcheurs et les instagrammeuses sans qui c'est le bordel. à quoi s'ajoute whatsapp, messenger, wechat, qq mobile, skype, snapchat, viber, telegram, hangouts, voxer, heytell, talkatone, skred et pgp dans le 13+80. on mentionnera bien sûr les feedbacks, les confcalls, les war rooms, les draftings, les to-do lists, les brainstorms, les meetings, les reviews, les benchmarks, le codir, le wording et les n+1. viennent enfin le checkup, la review... et les five stars.
 

@@ -3,11 +3,9 @@ title: prions. n°5
 layout: post
 ---
 
-*papyri plateau ponts*
-
-*solidité industrie infanterie*
-
-*scaphandrier complot infini*
+`papyri plateau ponts`
+`solidité industrie infanterie`
+`scaphandrier complot infini`
 
 le journalisme est un art millénaire. il doit son essor à gutenberg, qui, malgré son génie, fut insolvable. il tient ses origines de la plus haute antiquité, et parchemins et papyri, qui devinrent codex et rouleaux, firent la presse moderne et toute la science. le journalisme est fait de journalistes, qui sont les garants de notre démocratie. certains journalistes ont un petit salaire, et les autres sont à la solde du pouvoir. c'est la supériorité de la carte de crédit sur la carte de presse. c'est parce que la presse est servie sur un plateau. depuis, beaucoup d'eau a coulé sous les ponts. les journalistes écrivent des dépêches. on dit qu'ils planchent. on ne lit pas vraiment un journal, on le parcourt avec des yeux humides. on parle d'ailleurs d'attention flottante. il n'y a eu que neuf vrais journaux dans l'histoire de l'humanité, parmi lesquels le journal intime de gainsbourg, une bouteille à la mer, et le reportage sur les oasis qui est passé la semaine dernière à la télé. à cette liste s'ajoute désormais le toucan déchaîné et sa célèbrissime devise : "n'enchaînez pas l'oiseau moqueur".
 

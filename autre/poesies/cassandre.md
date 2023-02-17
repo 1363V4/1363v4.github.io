@@ -37,7 +37,7 @@ tous nos frères
 
 mais ce rouge
 
-sur ces pierres
+sur les pierres
 
 m'indiffère
 

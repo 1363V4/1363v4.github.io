@@ -3,11 +3,9 @@ title: prions. n°6
 layout: post
 ---
 
-*poussière poésie pistons*
-
-*nom non naturel*
-
-*pluie peinture pétrichor*
+`poussière poésie pistons`
+`nom non naturel`
+`pluie peinture pétrichor`
 
 le troubadourisme est un art millénaire. le troubadour est un poète qui trouve des mots qui iraient bien dans une chanson, comme par exemple troubadourisme. le troubadour a apporté à la science deux grands principes : premièrement, que le chemin le plus court d'une main à une autre est la ligne droite, et deuxièmement, que le chemin le plus court n'est pas forcément le plus rigolo. le troubadour a des sandales à lanières et un air cabot. le troubadour ne prend pas la poussière, il lance des balles remplies de sable et dit des vers remplis de poésie. le troubadour vénère la pluie, car elle embête les cracheurs de feu, qui sont ses rivaux. le troubadour mange des champignons très phosphorescents qu'il trouve au fond des bois. il est éclairé par la lumière crue des stroboscopes et les flashs des projecteurs qui crépitent en pluie de feu. il fait de la musique avec du métal à pistons. le troubadour est festif. le troubadour est heureux. plein de houblon, il s'endort près du feu en chien de fusil.
 

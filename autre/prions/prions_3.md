@@ -3,11 +3,9 @@ title: prions. n°3
 layout: post
 ---
 
-*brique brouillard building*
-
-*défi déclencheur désespéré*
-
-*vol vide vagues*
+`brique brouillard building`
+`défi déclencheur désespéré`
+`vol vide vagues`
 
 la brique est un matériau millénaire. on la fabrique avec de la terre argileuse crue, que l'on sèche ensuite au soleil. lorsqu'on n'a pas de soleil, il faut inventer un four pour y cuire la brique. ceci explique que les habitats des populations à la surface du globe soient aussi variés que, disons, leur carnation. en tant que matériau, la brique n'a pas à rougir : sur les gratte-ciels battus par le vent marin, on voit que même le verre s'érode. il est cependant vrai que la brique supporte mal les intempéries, à l'exception du brouillard. les gratte-ciels sont des constructions remarquables, sauf par temps de brouillard. au sommet d'un tel building, la vue n'a pas de prix. les gratte-ciels sont faits pour discuter de sujets brûlants : plus on monte dans les étages, plus la conversation s'élève. en bas, à l'inverse, la conversation redevient plate, et on n'entend plus guère que quelques "au revoir" cordiaux lorsque deux amis se séparent, parfois un "merci" lorsqu'un galant homme tient la porte pour une dame. si mes lecteurs questionnent la survivance de la galanterie au moment d'écrire ces lignes, j'ai pour eux quelques photographies qui pourront en attester.
 
