@@ -3,6 +3,6 @@ title: pourquoi
 layout: post
 ---
 
-En cours.
+en cours.
 
-[**Prions.**](../prions.html)
+[**prions.**](../prions.html)

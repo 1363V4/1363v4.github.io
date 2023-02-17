@@ -15,7 +15,9 @@ layout: post
 - [yung mean](https://soundcloud.com/louis-emmanuel-macron)
 - [dj phronk](https://soundcloud.com/djphronk)
 - [n u r a](https://soundcloud.com/nura666)
+- [a. flamel](https://soundcloud.com/aflamel)
 - [louis sunshine](https://soundcloud.com/louissunshine)
+- [good_student](https://soundcloud.com/good_student)
 
 ### clips
 

@@ -3,62 +3,62 @@ title: cassandre
 layout: post
 ---
 
-Sur la route
+sur la route
 
-De la guerre
+de la guerre
 
-Cassandre
+cassandre
 
-Malheurs !
+malheurs !
 
-Arrière !
+arrière !
 
-Ses pleurs
+ses pleurs
 
-Sans bruit
+sans bruit
 
-Prirent la
+prirent la
 
-Poussière
-
----
-
-Son armée
-
-En déroute
-
-Alexandre
-
-Prit peur
-
-Nous tuâmes
-
-Tous nos frères
-
-Mais ce rouge
-
-Sur ces pierres
-
-M'indiffère
+poussière
 
 ---
 
-Toi mon âme
+son armée
 
-Si tu es
+en déroute
 
-Située
+alexandre
 
-Quelque part
+prit peur
 
-Toi mon corps
+nous tuâmes
 
-Si lassé
+tous nos frères
 
-Des regards
+mais ce rouge
 
-Toi que j'aime
+sur ces pierres
 
-Aimons-nous
+m'indiffère
 
-Ensemble
+---
+
+toi mon âme
+
+si tu es
+
+située
+
+quelque part
+
+toi mon corps
+
+si lassé
+
+des regards
+
+toi que j'aime
+
+aimons-nous
+
+ensemble

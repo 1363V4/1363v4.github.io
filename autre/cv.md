@@ -3,95 +3,95 @@ title: cv
 layout: post
 ---
 
-# Ingénieur Centralien
-# Consultant en Cybersécurité
+# ingénieur centralien
+# consultant en cybersécurité
 
-### Compétences clés
+### compétences clés
 
-- Analyse de risque
-- Gestion de projet
-- AMOA
-- AMOE
-- Audit Cyber
+- analyse de risque
+- gestion de projet
+- amoa
+- amoe
+- audit cyber
 
-### Points forts
+### points forts
 
-- Capacités décisionnelles et synthétiques
-- Sens de la responsabilité
-- Organisation
+- capacités décisionnelles et synthétiques
+- sens de la responsabilité
+- organisation
 
-## Expérience professionnelle
+## expérience professionnelle
 
-### Groupe Sopra Steria (Paris) / Consultant confirmé 
+### groupe sopra steria (paris) / consultant confirmé
 
-*Janvier 2021 - Actuel*
+*janvier 2021 - actuel*
 
-#### Clients
+#### clients
 
-- Airbus Defense & Space
-- Renault Group
-- Safran
-- Ariane Group
-- Elis
-- Radio France
-- AFM Téléthon
+- airbus defense & space
+- renault group
+- safran
+- ariane group
+- elis
+- radio france
+- afm téléthon
 
-#### Missions 
+#### missions
 
-- Modélisation du risque cyber sur un parc informatique étendu à l’aide de réseaux bayésiens
-- Définition du socle de sécurité de la Design Authority Software
-- Gestion des risques dans les projets et outils d’agrégation sur les impacts métiers
-- Accompagnement à la rédaction d’un RFP pour un SOC à périmètre mondial
-- Définition et mise en place d’une solution d’anonymisation RGPD
+- modélisation du risque cyber sur un parc informatique étendu à l’aide de réseaux bayésiens
+- définition du socle de sécurité de la design authority software
+- gestion des risques dans les projets et outils d’agrégation sur les impacts métiers
+- accompagnement à la rédaction d’un rfp pour un soc à périmètre mondial
+- définition et mise en place d’une solution d’anonymisation rgpd
 
-## Formation
+## formation
 
-Ingénieur généraliste / **École Centrale Paris** / Châtenay-Malabry / Promotion 2020
+ingénieur généraliste / **école centrale paris** / châtenay-malabry / promotion 2020
 
-> **Projet personnel** (Eyeroes)
-> Design de solutions numériques innovantes pour traiter l’amblyopie
-> Lauréat du Challenge Startup de l’Université Paris-Saclay 2020
-> Prix de l’Innovation au Hackathon LEEM / Pépite France 2019
+> **projet personnel** (eyeroes)
+> design de solutions numériques innovantes pour traiter l’amblyopie
+> lauréat du challenge startup de l’université paris-saclay 2020
+> prix de l’innovation au hackathon leem / pépite france 2019
 
-Classe préparatoire / **Lycée Sainte-Geneviève** / Versailles
+classe préparatoire / **lycée sainte-geneviève** / versailles
 
-Baccalauréat Scientifique / **Lycée Louis-Le-Grand** / Paris
+baccalauréat scientifique / **lycée louis-le-grand** / paris
 
-## Langues
+## langues
 
-- Anglais courant *(C1)*
-- Espagnol courant *(C1)*
-- Russe *(A2)*
+- anglais courant *(c1)*
+- espagnol courant *(c1)*
+- russe *(a2)*
 
-## Compétences Techniques
+## compétences techniques
 
-- NIST CSF
-- ISO 27001 *(certification LI)*
-- ISO 27005
-- II901
-- EBIOS RM
-- DevSecOps
-- RGPD
-- Genie
+- nist csf
+- iso 27001 *(certification li)*
+- iso 27005
+- ii901
+- ebios rm
+- devsecops
+- rgpd
+- genie
 
-## Développement informatique 
+## développement informatique
 
-### Python 
+### python
 
-- Pygame
-- Gym
-- OpenCV
-- Pandas
-- Requests
-- Numpy
-- Pillow
+- pygame
+- gym
+- opencv
+- pandas
+- requests
+- numpy
+- pillow
 
-### Web
+### web
 
-- HTML
-- CSS
+- html
+- css
 
-## Centres d’intérêts
+## centres d’intérêts
 
-- Président de la radio de Centrale Paris *(RadioPi)*
-- Fondateur de la webradio de CentraleSupélec *(RICS)*
+- président de la radio de centrale paris *(radiopi)*
+- fondateur de la webradio de centralesupélec *(rics)*

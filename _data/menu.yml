@@ -9,6 +9,7 @@ entries:
         url: autre/prions.html
       - title: poésies
         url: autre/poesies.html
-      - title: ...
+      - title: sketchs
+        url: autre/sketchs.html
   - title: blog
     post_list: true
