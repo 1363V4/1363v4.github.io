@@ -54,7 +54,7 @@ layout: post
 
 ---
 
-#### aujourd'hui est demain. demain est aujourd'hui.
+**aujourd'hui est demain. demain est aujourd'hui.**
 
 **ls** lundi jeudi vendredi
 
@@ -62,21 +62,15 @@ layout: post
 
 ---
 
-# 1
-
-## 2
-
-### 3
-
-#### 4
-
-##### 5
-
-###### 6
+tous les français ont un projet de livre en tête. pour ça qu'ils font des réunions avec juste le titre mais pas les chapitres.
 
 ---
 
-tous les français ont un projet de livre en tête. pour ça qu'ils font des réunions avec juste le titre mais pas les chapitres.
+traduire robert lowell en francais
+ainsi que constant conflict
+et puis catcher in the rye
+"We are all old-timers,
+each of us holds a locked razor." -> marie malheur
 
 ---
 
