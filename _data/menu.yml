@@ -3,6 +3,8 @@ entries:
     url: autre/cv.html
   - title: musique
     url: autre/musique.html
+  - title: random.md
+    url: autre/random.html
   - title: textes
     entries:
       - title: prions.
