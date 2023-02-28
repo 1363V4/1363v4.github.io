@@ -50,7 +50,7 @@ layout: post
 - il faut souffrir
 - locked razor
 - aurea mediocritas
-- tad boa
+- tad boa (woodstock)
 
 ---
 
@@ -63,6 +63,15 @@ layout: post
 ---
 
 tous les français ont un projet de livre en tête. pour ça qu'ils font des réunions avec juste le titre mais pas les chapitres.
+
+la france est l'histoire la plus triste du monde.
+
+---
+
+o superman est en i-vi (cm-g#).
+
+passer de la semaine de 5 jours à la semaine de 4 jours
+c'est passer du ré majeur au la majeur.
 
 ---
 
