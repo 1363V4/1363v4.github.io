@@ -4,4 +4,4 @@ layout: post
 ---
 
 - le veuf
-- [cassandre](poesies/cassandre.html)
+- [ensemble](poesies/ensemble.html)

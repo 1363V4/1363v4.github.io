@@ -1,21 +1,19 @@
 ---
-title: cassandre
+title: ensemble
 layout: post
 ---
 
-sur la route
-
-de la guerre
-
 cassandre
 
-malheurs !
+la route
 
-arrière !
+la peur
+
+la guerre
+
+malheur
 
 ses pleurs
-
-sans bruit
 
 prirent la
 
@@ -23,23 +21,21 @@ poussière
 
 ---
 
-son armée
+désarmé
 
 en déroute
 
 alexandre
 
-prit peur
+vainqueur
 
 nous tuâmes
 
-tous nos frères
+tous nos frères plus
 
-mais ce rouge
+rien ne bouge 
 
-sur les pierres
-
-m'indiffère
+que les pierres
 
 ---
 
@@ -53,12 +49,8 @@ quelque part
 
 toi mon corps
 
-si lassé
-
-des regards
+qui tremble
 
 toi que j'aime
 
 aimons-nous
-
-ensemble

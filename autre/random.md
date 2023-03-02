@@ -38,7 +38,7 @@ layout: post
 - un pour quatre, un pour un, trois pour zéro
 - ni la vie ni les mots rien seul
 - rien
-- la voix le souffle
+- la voix / le souffle
 - rien
 
 ---
