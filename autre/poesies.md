@@ -3,5 +3,7 @@ title: poésies
 layout: post
 ---
 
-- le veuf
+- [l'arbre](poesies/arbre.html)
 - [ensemble](poesies/ensemble.html)
+- [quatre vérités](poesies/quatre_verites.html)
+- le veuf

@@ -7,6 +7,8 @@ entries:
     url: autre/random.html
   - title: textes
     entries:
+      - title: haïkus
+        url: autre/haikus.html
       - title: prions.
         url: autre/prions.html
       - title: poésies
