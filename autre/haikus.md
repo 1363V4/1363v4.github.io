@@ -3,16 +3,22 @@ title: haïkus
 layout: post
 ---
 
-les jours où je n'ai rien
-
-je prends des jours où j'avais
-
-et j'ai tous les jours
+> les jours où je n'ai rien
+> je prends des jours où j'avais
+> et j'ai tous les jours
 
 ---
 
-coeur
+`coeur`
 
-encagé
+`encagé`
 
-tu n'as jamais su où te mettre
+`tu n'as jamais su où te mettre`
+
+---
+
+black bloc
+
+bonnet rouge gilet jaune
+
+franco-allemand

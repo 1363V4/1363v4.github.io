@@ -15,5 +15,7 @@ entries:
         url: autre/poesies.html
       - title: sketchs
         url: autre/sketchs.html
+      - title: traductions
+        url: autre/traductions.html
   - title: blog
     post_list: true

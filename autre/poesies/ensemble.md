@@ -31,7 +31,7 @@ vainqueur
 
 nous tuâmes
 
-tous nos frères plus
+tous nos frères
 
 rien ne bouge 
 
