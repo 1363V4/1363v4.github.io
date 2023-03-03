@@ -3,7 +3,7 @@ title: ainsi soit-il
 layout: post
 ---
 
-*This Be The Verse, Philip Larkin*
+> *This Be The Verse, Philip Larkin*
 
 ils te détraquent tes parents en vrai de vrai
 
