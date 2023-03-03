@@ -87,4 +87,6 @@ each of us holds a locked razor." -> marie malheur
 
 mort ? "immémorable". petite marine de dufy. c'est au pied du mur...
 
-> la grande défaite, en tout, c'est d'oublier, et surtout ce qui vous a fait crever, et de crever sans comprendre jamais jusqu'à quel point les hommes sont vaches.
+> la grande défaite, en tout,
+> c'est d'oublier, et surtout ce qui vous a fait crever,
+> et de crever sans comprendre jamais jusqu'à quel point les hommes sont vaches.
