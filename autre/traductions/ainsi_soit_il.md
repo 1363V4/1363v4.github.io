@@ -3,19 +3,19 @@ title: ainsi soit-il
 layout: post
 ---
 
-ils te détraquent tes parents en vrai de vrai
+oui tes parents t'ont bien baisé
 
-ils le font même sans faire exprès
+ils l'ont fait même sans faire exprès
 
-ils te remplissent de leurs défauts
+ils t'ont rempli de leurs défauts
 
 et rajoutent un p'tit plus perso
 
 ---
 
-mais eux aussi furent détraqués
+mais eux aussi furent bien baisés
 
-par d'autres crétins dans le passé
+par d'aut' crétins dans le passé
 
 qui étaient soit des tyrans doux
 
