@@ -3,7 +3,7 @@ title: circle of filth
 layout: post
 ---
 
-```
+```python
 
 import wave
 import math

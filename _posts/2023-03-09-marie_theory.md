@@ -28,7 +28,7 @@ v et vii majeurs en min
 
 output
 
-```
+```python
 
 import wave
 import math
