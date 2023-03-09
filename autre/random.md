@@ -60,11 +60,15 @@ layout: post
 
 **mm** mardi mercredi samedi dimanche
 
+ls eau, mm plante, ls lance les ballons, mm les rattrape ?
+
+l-e feu se soigne
+
 ---
 
 tous les français ont un projet de livre en tête. pour ça qu'ils font des réunions avec juste le titre mais pas les chapitres.
 
-darmakar : ce prince oriental qui voulait disparaître pour aller aux bains.
+**darmakar** ce prince oriental qui voulait disparaître pour aller aux bains.
 
 la france est l'histoire la plus triste du monde.
 
