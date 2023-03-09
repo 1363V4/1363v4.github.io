@@ -1,10 +1,13 @@
 ---
-title: the hathor key
-layout: post
+title: marie theory
 ---
 
 test
 
-![mm info](./_img/mm.png)
+![mm info](../_img/mm.png)
 
-![](./_img/mm_2.png)
+![x](./img/mm_2.png)
+
+![mm info](_img/mm.png)
+
+
