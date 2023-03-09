@@ -2,13 +2,30 @@
 title: marie theory
 ---
 
-test
+#### introduction
 
-![mm info](/img/mm.png)
+![mm](/img/mm.png)
+{:.ioda}
 
-![x](/img/mm_2.png)
+#### simplification
 
-![mm info](/img/mm_3.png)
+![mm 2](/img/mm_2.png)
+{:.ioda}
 
-![mm info](/img/mm_4.png)
+---
 
+![mm 3](/img/mm_3.png)
+{:.ioda}
+
+#### esthétisation
+
+![mm 4](/img/mm_4.png)
+{:.ioda}
+
+#### programmation
+
+`tbd`
+
+#### composition
+
+...
