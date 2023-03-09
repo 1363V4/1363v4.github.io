@@ -8,6 +8,6 @@ test
 
 ![x](./img/mm_2.png)
 
-![mm info](_img/mm.png)
+![mm info](/_img/mm.png)
 
 
