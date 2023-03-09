@@ -24,7 +24,9 @@ title: marie theory
 
 #### programmation
 
-`tbd`
+`from tbd`
+`from tbd`
+{:.border-l-4}
 
 #### composition
 
