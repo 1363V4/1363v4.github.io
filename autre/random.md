@@ -3,6 +3,17 @@ title: random.md
 layout: post
 ---
 
+
+j'aimerais mourir en été, ce sera plus facile pour creuser.
+
+---
+
+c'est dans un manuscrit italien, vers 1400, qu'apparaît pour la premier fois le signe pourcentage, "per ciento".
+or, l'espérance de vie à cette époque n'était que de 45 ans, tandis qu'elle devrait atteindre 100 ans d'ici la fin du siècle.
+ce qui veut donc dire : il aura fallu près de 700 ans pour que les efforts conjugués de la médecine et de l'informatique rendent la vie humaine comparable à une barre de chargement.
+
+---
+
 - vous êtes devant 5 lampes éteintes. vous montez à l'étage : il y a 5 interrupteurs. vous appuyez sur chacun d'eux. quand vous redescendez, les 5 lampes sont allumées. que s'est-il passé ?
 - décrivez avec vos mots quelque chose d'unique qui vous est arrivé.
 - à quoi servent les émotions ?
