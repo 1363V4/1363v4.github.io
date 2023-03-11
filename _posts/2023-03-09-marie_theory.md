@@ -204,12 +204,10 @@ comment écouter maintenant.
 si vous voulez continuer en python,
 il existe [des librairies](https://pypi.org/project/synthesizer/).
 
-vous pouvez aussi [coder votre propre synth](2023/03/09/circle_of_filth.html) comme un pur malade.
-[coder votre propre synth](circle_of_filth.html)
-[coder votre propre synth](/2023/03/09/circle_of_filth.html)
+vous pouvez aussi [coder votre propre synth](circle_of_filth.html) comme un pur malade.
 
 vous pouvez écrire du midi et l'envoyer vers un daw.
 
-vous pouvez sortir le piano ou la clarinette.;
+vous pouvez sortir le piano ou la clarinette.
 
 allez-y.

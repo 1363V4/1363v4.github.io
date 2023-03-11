@@ -3,6 +3,8 @@ title: circle of filth
 layout: post
 ---
 
+#### coder un synth
+
 ```python
 
 import wave
@@ -75,6 +77,12 @@ with wave.open("output.wav", "wb") as f:
     f.writeframes(data)
 
 ```
+
+#### pourquoi faire ?
+
+vous vous rappelez le [cercle des quintes](marie_theory.html) ?
+
+ce qu'il y a de bien avec les cercles, c'est qu'ils sont continus pour la plupart.
 
 ```python
 
