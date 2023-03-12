@@ -5,14 +5,16 @@ entries:
     url: autre/musique.html
   - title: random.md
     url: autre/random.html
+  - title: temp.md
+    url: autre/temp.html
   - title: textes
     entries:
       - title: haïkus
         url: autre/haikus.html
-      - title: prions.
-        url: autre/prions.html
       - title: poésies
         url: autre/poesies.html
+      - title: prions.
+        url: autre/prions.html
       - title: sketchs
         url: autre/sketchs.html
       - title: traductions

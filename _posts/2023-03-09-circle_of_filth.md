@@ -5,6 +5,14 @@ layout: post
 
 #### coder un synth
 
+voici une façon "force brute" de coder un synth.
+
+on calcule la valeur de chaque note à l'instant t (à 48 000 hz, on peut même parler de la microseconde μ) selon sa forme d'onde, ici un simple sinus.
+
+on additionne et on vient écrire la valeur directement sur chaque bit.
+
+voilà.
+
 ```python
 
 import wave
@@ -82,7 +90,11 @@ with wave.open("output.wav", "wb") as f:
 
 vous vous rappelez le [cercle des quintes](marie_theory.html) ?
 
-ce qu'il y a de bien avec les cercles, c'est qu'ils sont continus pour la plupart.
+ce qu'il y a de bien avec les cercles, c'est qu'ils sont continus (pour la plupart).
+
+d'où la question : le cercle des quintes nous dit que le passage du do majeur au sol majeur est plaisant à l'oreille. mais si ce passage est fait de façon continue ?
+
+codons et voyons.
 
 ```python
 
@@ -193,10 +205,14 @@ with wave.open("output2.wav", "wb") as f:
 
 ```
 
-2 -> m
-3 -> m disto (remove comment)
-4 -> M
+le résultat est...
 
-bien split les code blocks
+voici donc un cercle des quintes continu en
+[progression mineure](/wav/output2.wav).
 
-[output2](/wav/output2.wav)
+en clippant le signal (la ligne commentée), on obtient le même
+[avec de la distortion](/wav/output3.wav).
+
+et pour la bonne bouche,
+le voici
+[en majeur](/wav/output4.wav).
