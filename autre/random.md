@@ -86,6 +86,7 @@ la france est l'histoire la plus triste du monde.
 ---
 
 o superman est en i-vi (cm-g#).
+summer madness est un iv-i en (f#m-c#m).
 
 passer de la semaine de 5 jours à la semaine de 4 jours
 c'est passer du ré majeur au la majeur.
@@ -95,7 +96,7 @@ c'est passer du ré majeur au la majeur.
 traduire robert lowell en francais
 ainsi que constant conflict
 et puis catcher in the rye
-"We are all old-timers,
+"we are all old-timers,
 each of us holds a locked razor." -> marie malheur
 
 ---
