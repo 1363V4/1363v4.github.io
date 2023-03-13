@@ -3,5 +3,5 @@ title: sketchs
 layout: post
 ---
 
-- [sketch 1](sketchs/sketch_1.md)
-- sketch 2
+- [sketch 0](sketchs/sketch_0.html)
+- [sketch 1](sketchs/sketch_1.html)

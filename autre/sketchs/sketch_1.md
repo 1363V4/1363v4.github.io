@@ -25,7 +25,9 @@ faut vous le dire en fourchelangue
 paris lille même ville parisiens dans les deux
 recherche appart passe bien ?
 maire socialiste temp extérieures = score maire socialiste
+à paris ils sont dans le métro ils voient jamais le soleil, à lille non plus
 mm sport cent mètres "hé" les clodo ça va bien
-faire rentrer un poireau dans une smart
+manque condition physique fait perdre des points
+mais ils prendraient ta jambe s'ils peuvent te tuer
 
 nordvpn astérix etc
