@@ -1,14 +1,8 @@
 entries:
-  - title: abonnement
-    url: autre/abonnement.html
   - title: cv
     url: autre/cv.html
   - title: musique
     url: autre/musique.html
-  - title: random.md
-    url: autre/random.html
-  - title: temp.md
-    url: autre/temp.html
   - title: textes
     entries:
       - title: haïkus
