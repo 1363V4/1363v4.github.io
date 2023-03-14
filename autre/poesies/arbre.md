@@ -19,7 +19,7 @@ le manteau de sel dur que mes larmes ont tissé
 
 qui se colle à ma peau et n'est pas moins usé
 
-que les pieux souvenirs que mon esprit ressasse
+que les deux linteaux d'os de ma pauvre carcasse
 
 ---
 
