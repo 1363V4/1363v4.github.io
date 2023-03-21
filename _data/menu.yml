@@ -13,6 +13,8 @@ entries:
         url: autre/prions.html
       - title: sketchs
         url: autre/sketchs.html
+      - title: théâtre
+        url: autre/theatre.html
       - title: traductions
         url: autre/traductions.html
   - title: blog
