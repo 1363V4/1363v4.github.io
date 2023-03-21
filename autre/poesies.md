@@ -7,4 +7,5 @@ layout: post
 - [cosmos concret](poesies/cosmos_concret.html)
 - [ensemble](poesies/ensemble.html)
 - [quatre vérités](poesies/quatre_verites.html)
-- le veuf
+- [le veuf](poesies/le_veuf.html)
+- [moteur promis](poesies/moteur_promis.html)
