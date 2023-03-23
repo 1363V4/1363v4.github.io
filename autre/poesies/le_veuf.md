@@ -11,6 +11,7 @@ pour apaiser les pleurs, les tourments, les remords,
 
 au moins quitterait-on ce monde sans regrets.
 
+---
 
 c’est la torture barbare de l'âge fourbe
 
@@ -20,6 +21,7 @@ guère plus pratiqué que par des fosses à foutre.
 
 oh ! que ma quille éclate ! que j’aille à saint-tropez !
 
+---
 
 quel oiseau assez grand pour pouvoir annoncer,
 
@@ -29,6 +31,7 @@ et quel club de voyage, de l’éternel été,
 
 saura tirer profit, et en quelle saison ?
 
+---
 
 quel abruti génie, d’une gaine féconde
 
@@ -38,6 +41,7 @@ un tas de gaz soufrés qu’amon dirait immonde
 
 s’il n’avait, lui aussi, deux graines dans le nez ?
 
+---
 
 ah ! oh ! euh… désolé. je m’étais égaré.
 
@@ -47,6 +51,7 @@ pas encore endormie par cette logorrhée ?
 
 y’a-t-il encore un hom’ ? y’a-t-il encore une femme ?
 
+---
 
 peut-être en amérique, sûrement qu’il en reste,
 
@@ -56,6 +61,7 @@ qu’on revend puis là-bas, et même les modestes
 
 trouvent ça dans leurs prix, applaudissent l’objet,
 
+---
 
 le font tourner pour voir ses attributs si neufs,
 
@@ -65,6 +71,7 @@ on dirait un homard ! console-toi le veuf,
 
 ici on fait des plats, on fait peu foin des vers,
 
+---
 
 libres de tous désirs, tu es bien z’inutile !
 
@@ -74,6 +81,7 @@ c’est ce que tu voulais : que le malheur s’empile !
 
 ici la soupe est chaude. pas de pot mon biquet !
 
+---
 
 j’emmerde aussi vous autres. je vous pisse à la raie !
 
@@ -83,6 +91,7 @@ vos vers peu ragoûtants, votre bile insensée
 
 et vos vilains penchants, voués aux vade retros,
 
+---
 
 on a tout fait cramer ! pardonnez l’officine,
 
