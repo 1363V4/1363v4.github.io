@@ -3,6 +3,13 @@ title: temp.md
 layout: post
 ---
 
+bla bla blapourquoi temp et random
+
+---
+
+définition :
+clique = cleek = geek avec du clout
+
 coder une planche de galton customisable
 
 ---
