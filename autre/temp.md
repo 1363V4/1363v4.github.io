@@ -3,6 +3,18 @@ title: temp.md
 layout: post
 ---
 
+
+dictature vert foncé
+
+---
+
+un ordinateur spécial ia
+calcul lambda et nombre epsilon
+travail sur les grands ordinaux
+constructions récursives par arbres enracinés
+
+---
+
 bla bla blapourquoi temp et random
 
 ---
