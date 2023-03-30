@@ -121,7 +121,7 @@ bm - a - g -
 ```
 
 c'est bieng.
-un exemple de mélodie au piano (lien à venir).
+voilà [ce que ça peut donner](/wav/mt2.wav).
 
 ---
 
