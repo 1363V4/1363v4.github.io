@@ -210,4 +210,4 @@ vous pouvez écrire du midi et l'envoyer vers un daw.
 
 vous pouvez sortir le piano ou la clarinette.
 
-allez-y.
+vous m'en direz des nouvelles.

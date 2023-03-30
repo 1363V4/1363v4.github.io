@@ -122,3 +122,12 @@ bm - a - g -
 
 c'est bieng.
 un exemple de mélodie au piano (lien à venir).
+
+---
+
+**protip :** si l'accord est trop compliqué à amener,
+avant d'amener des accords de transition,
+essayer d'abord une astuce simple.
+
+regardez les altérations amenées par la gamme de l'accord en question par rapport à la clé.
+vous pouvez utiliser n'importe quel accord qui contient ces altérations.

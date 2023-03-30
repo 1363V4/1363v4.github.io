@@ -3,7 +3,10 @@ title: temp.md
 layout: post
 ---
 
-dude u broke the future
+dude u broke the future (mouais)
+que sera sera est moins une résignation
+que l'acceptation qu'un rêve qui se réalise perd forcément de sa brillance
+et que pour aller loin il va falloir ne pas s'en formaliser.
 
 ---
 

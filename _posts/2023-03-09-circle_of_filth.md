@@ -216,3 +216,5 @@ en clippant le signal (la ligne commentée), on obtient le même
 et pour la bonne bouche,
 le voici
 [en majeur](/wav/output4.wav).
+
+ça tourne pas rond.
