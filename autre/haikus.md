@@ -37,3 +37,27 @@ layout: post
 `dubstep remix`
 
 `1080p`
+
+---
+
+`s'effacer ?`
+
+`qui crois-tu a mis là`
+
+`le silence`
+
+---
+
+`paris`
+
+`mitose`
+
+`en cours`
+
+---
+
+`j'ai voulu distraire`
+
+`mon hérisson en l'emmenant`
+
+`voir du volley`

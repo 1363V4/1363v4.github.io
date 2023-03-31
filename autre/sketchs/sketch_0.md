@@ -16,6 +16,7 @@ principe de peter appliqué aux relations amicales
 on s'éloigne de ceux qui voient trop nettement un point douloureux chez nous
 jusqu'à être entouré de gommeux
 
+si ça tire un peu sur le cou c'est pas la laisse c'est la chaîne de valeur
 
 paris lille même ville parisiens dans les deux
 recherche appart passe bien ?
@@ -26,3 +27,10 @@ manque condition physique fait perdre des points
 mais ils prendraient ta jambe s'ils peuvent te tuer
 
 nordvpn astérix etc
+
+le covid me manque
+distanciation sociale
+mieux que le masque fermer sa gueule
+couper la langue
+
+gros seins mal au dos baise toute la journée

@@ -4,14 +4,17 @@ layout: post
 ---
 
 à lille parfois il pleut parfois y'a des averses.
+on est entourés d'eau. peut-être pour ça que ça s'appelle lille.
 
 lille-sud je comprends que le quartier soit ghetto.
-ils doivent se sentir floués.
+ils doivent se sentir floués : lille "sud".
 
 un truc qui m'empêche de dormir la nuit :
 vous avez visiblement une passion pour le fromage, mais je n'ai jamais vu une vache dans les environs.
 je sais pas avec quoi vous le faites et j'ai peur.
 surtout que ça pue.
+
+je suis monté de paris, je suis passé de wesh ma gueule à welsh mon ventre.
 
 en raison de l'inflation je ferai 10% de blagues en moins.
 je plaisante, j'en ferai même plus !
@@ -39,6 +42,10 @@ la seule star de lille c'est martine aubry.
 et elle peut même pas boire de bière.
 parce qu'elle doit rester votre sex symbol.
 elle sait que si elle se laisse aller il n'y aura plus aucune limite.
+
+si la barre descend ne serait-ce qu'un peu, vous allez baiser le panda roux.
+dis-donc c'est bizarre le zoo de lille a plein de follow sur insta.
+les gens postent des photos... ah c'est comme ça qu'on fait le maroilles.
 
 je viens de paris. on a plein de stars.
 on a aussi une maire socialiste.
@@ -68,6 +75,8 @@ martine aubry... non j'ai une piste mais je vais pas la dire là.
 
 depuis que je suis ici, je me suis remis au sport. je fais du cent mètres haies.
 je sors dans la rue je fais cent mètres et là "hé !".
+ils te tendent un gobelet en disant "c'est pour manger".
+bah non c'est pour boire.
 t'as pas dix balles ?
 faut sauter par dessus et tout.
 c'est dur parce qu'ils t'attrapent la jambe.
