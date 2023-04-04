@@ -34,3 +34,5 @@ mieux que le masque fermer sa gueule
 couper la langue
 
 gros seins mal au dos baise toute la journée
+
+je me sens comme une chenille qui sort de sa chrysalide et qui est toujours une chenille mais d'une autre couleur. ça change mais c'est pas ce que j'espérais.
