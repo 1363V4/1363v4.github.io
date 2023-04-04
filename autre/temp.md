@@ -3,6 +3,19 @@ title: temp.md
 layout: post
 ---
 
+semaine ré ok ? 25 - 31 mai
+appeler aegan 13-21 mai corfou
+visiblement on a déjà fait une expérience ia sur mtg
+nier que l'inné joue
+
+---
+
+the secret
+William Arthur Ward said, 'If you believe in prayer, pray; if you believe in serving, serve; if you believe in giving, give. For you and I are exquisite violins - our music is meant to be heard.'
+In the end, I know that my happiness will not have been about by my ability or my inability. It will have been about my availability. My life is meant to be lived.
+
+---
+
 "Believe me," Stanhope says, " 'I often wish I had the jokes people come expecting to hear. Jokes like, 'Isn't it dreadful when your girlfriend sends you out for tampons, and you're so embarrassed when you get to the counter that you can't ask for them?' But if I told a woman: 'I am too embarrassed to buy you tampons,' she'd say: 'Are you the same guy who once fucked a midget because he 'thought it would be fun?'"
 
 "Did you?"
