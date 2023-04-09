@@ -1,4 +1,6 @@
 entries:
+  - title: autre
+    url: autre.html
   - title: cv
     url: autre/cv.html
   - title: musique
