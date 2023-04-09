@@ -1,23 +1,5 @@
 entries:
   - title: autre
     url: autre.html
-  - title: cv
-    url: autre/cv.html
-  - title: musique
-    url: autre/musique.html
-  - title: textes
-    entries:
-      - title: haïkus
-        url: autre/haikus.html
-      - title: poésies
-        url: autre/poesies.html
-      - title: prions.
-        url: autre/prions.html
-      - title: sketchs
-        url: autre/sketchs.html
-      - title: théâtre
-        url: autre/theatre.html
-      - title: traductions
-        url: autre/traductions.html
   - title: blog
     post_list: true
