@@ -3,6 +3,8 @@ title: sketch 1
 layout: post
 ---
 
+*wip*
+
 à lille parfois il pleut parfois y'a des averses.
 on est entourés d'eau. peut-être pour ça que ça s'appelle lille.
 

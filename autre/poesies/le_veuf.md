@@ -19,7 +19,7 @@ que d’articuler un son trop fort, trop près,
 
 guère plus pratiqué que par des fosses à foutre.
 
-oh ! que ma quille éclate ! que j’aille à saint-tropez !
+ô que ma quille éclat' ! que j’aille à saint-tropez !
 
 ---
 

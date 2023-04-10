@@ -17,6 +17,8 @@ un peu paumés
 
 ces cons-là ont pas réservés par internet
 
+---
+
 autour bah 
 
 dessous de building
@@ -49,9 +51,11 @@ les délais trop serrés
 
 pour une rallonge au cas où
 
-le mythe du repos doit être aussi pregnant
+le mythe du repos doit être aussi prégnant
 
 que le mythe d'un taff au-delà du satisfecit
+
+---
 
 enfin à droite
 

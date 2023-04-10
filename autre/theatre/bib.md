@@ -3,6 +3,8 @@ title: le bib
 layout: post
 ---
 
+*wip*
+
 [acte i](#acte-i) - g classique
 [acte ii](#acte-ii) - g d'opposition
 [acte iii](#acte-iii) - g professionnel

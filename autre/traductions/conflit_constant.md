@@ -3,6 +3,8 @@ title: conflit constant
 layout: post
 ---
 
+*wip*
+
 we have entered an age of constant conflict. information is at once our core commodity and the most destabilizing
 factor of our time. until now, history has been a quest to acquire information; today, the challenge lies in managing
 information. those of us who can sort, digest, synthesize, and apply relevant knowledge soar - professionally,

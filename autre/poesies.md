@@ -12,3 +12,4 @@ layout: post
 - [pause vape](poesies/pause_vape.html)
 - [quatre vérités](poesies/quatre_verites.html)
 - [le veuf](poesies/le_veuf.html)
+- [les voyageurs](poesies/voyageurs.md)

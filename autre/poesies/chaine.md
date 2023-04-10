@@ -19,7 +19,7 @@ je convoque l'artiste et lui montre un dessin
 
 il aiguise son oeil et son trait à la faim
 
-mais sa croûte rassie fait que j'use ma mie 
+mais sa croûte rassie ne fait qu'user ma mie
 
 ---
 
@@ -31,7 +31,7 @@ j'ai gardé la fracture de quand tu m'écrasas
 
 ---
 
-je perdais mes cheveux, j'en avais en plastique
+je perdais mes cheveux j'en avais en plastique
 
 je troquais mon sommeil pour des antibiotiques
 
