@@ -1,4 +1,4 @@
 ---
-title: l-e
+title: le guide
 layout: home
 ---
