@@ -1,13 +1,12 @@
 remote_theme: riggraz/no-style-please
 title: suivez le guide
 author: l-e
-description: ce blog dispose d'un [flux RSS](https://1363v4.github.io/feed.xml)
 favicon: "favicon.png"
 theme_config:
-  appearance: "light"
+  appearance: "auto"
   back_home_text: "⇤ home"
   date_format: " "
-  show_description: true
+  show_description: false
   
 plugins:
   - jekyll-relative-links
