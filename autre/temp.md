@@ -8,6 +8,14 @@ appeler aegan 13-21 mai corfou
 visiblement on a déjà fait une expérience ia sur mtg
 nier que l'inné joue
 
+
+c'est le sel de la vie c'est le sel avide
+
+qui dessique ...
+
+c'est le ciel de la vie c'est le ciel aride
+
+
 ---
 
 the secret
