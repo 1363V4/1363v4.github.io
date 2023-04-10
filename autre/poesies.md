@@ -4,6 +4,7 @@ layout: post
 ---
 
 - [l'arbre](poesies/arbre.html)
+- [chaîne de vie](poesies/chaine.md)
 - [cosmos concret](poesies/cosmos_concret.html)
 - [ensemble](poesies/ensemble.html)
 - [moteur promis](poesies/moteur_promis.html)
