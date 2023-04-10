@@ -76,3 +76,9 @@ hors des pauses rituelles
 on est tout seul
 
 on ne sent que ça
+
+on devrait
+
+peut-être
+
+leur rouler une pelle
