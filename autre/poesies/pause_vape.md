@@ -15,7 +15,7 @@ ils font la queue pour les billets
 
 un peu paumés
 
-ces cons-là ont pas réservés par internet
+ces cons-là n'ont pas réservés par internet
 
 ---
 

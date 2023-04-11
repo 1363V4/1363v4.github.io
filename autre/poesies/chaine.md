@@ -25,9 +25,9 @@ mais sa croûte rassie ne fait qu'user ma mie
 
 j'ai passé ma ceinture dans la boucle magique
 
-j'ai vidé mes ordures dans un broyomatic
+j'ai vidé mes ors durs dans un broyomatic
 
-j'ai gardé la fracture de quand tu m'écrasas
+j'ai gardé la fraktur de quand tu m'écrasas
 
 ---
 

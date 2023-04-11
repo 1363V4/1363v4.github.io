@@ -13,13 +13,13 @@ au moins quitterait-on ce monde sans regrets.
 
 ---
 
-c’est la torture barbare de l'âge fourbe
+une torture barbare de l'âge fourbe,
 
-que d’articuler un son trop fort, trop près,
+c'est  d’articuler un son trop fort et trop près,
 
 guère plus pratiqué que par des fosses à foutre.
 
-ô que ma quille éclat' ! que j’aille à saint-tropez !
+ô que ma quille éclate ! ô que j’aille à saint-trop' !
 
 ---
 
@@ -49,11 +49,11 @@ pour me dire où j’étais, y’a-t-il encore une âme
 
 pas encore endormie par cette logorrhée ?
 
-y’a-t-il encore un hom’ ? y’a-t-il encore une femme ?
+y’a-t-il encore un homme ? y’a-t-il encore une femme ?
 
 ---
 
-peut-être en amérique, sûrement qu’il en reste,
+peut-être en amerik, sûrement qu’il en reste,
 
 on en fabrique ici, machines exportées
 
@@ -79,13 +79,17 @@ sous tes airs de “rebel”, sous tes airs d’ingéré,
 
 c’est ce que tu voulais : que le malheur s’empile !
 
-ici la soupe est chaude. pas de pot mon biquet !
+ici la soupe est chaude. 
+
+pas de pot mon biquet !
 
 ---
 
-j’emmerde aussi vous autres. je vous pisse à la raie !
+j’emmerde aussi vous autres. 
 
-je vous crache à la gueule. et je mets les morceaux…
+je vous pisse à la raie !
+
+je vous crache à la gueule et je mets les morceaux…
 
 vos vers peu ragoûtants, votre bile insensée
 
@@ -97,6 +101,8 @@ on a tout fait cramer ! pardonnez l’officine,
 
 la belle poésie, nous l’avons tant aimée,
 
-vous l’avez tant écrite… mais sans vous offenser,
+vous l’avez tant écrite… 
+
+mais sans vous offenser,
 
 il aurait mieux valu des livres de cuisine.

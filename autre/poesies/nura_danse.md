@@ -31,7 +31,7 @@ plus mon petit liré que nura
 
 ---
 
-c'est le régal des sens nura mange
+c'est un rêve indécent nura mange
 
 plus qu'un ogre endormi sous ramages
 

@@ -15,7 +15,7 @@ malheur
 
 ses pleurs
 
-prirent la
+prir' la
 
 poussière
 
@@ -27,7 +27,7 @@ en déroute
 
 alexandre
 
-vainqueur
+est vainqueur
 
 nous tuâmes
 
@@ -49,8 +49,10 @@ quelque part
 
 toi mon corps
 
-qui tremble
+unipare
 
 toi que j'aime
 
 aimons-nous
+
+ensemble
