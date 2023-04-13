@@ -1,12 +1,13 @@
 remote_theme: riggraz/no-style-please
 title: suivez le guide
 author: l-e
+description: 0xE8eBCc6a5bF0f60c03C1204b3F0743c327BE4262
 favicon: "favicon.png"
 theme_config:
   appearance: "auto"
   back_home_text: "⇤ home"
   date_format: " "
-  show_description: false
+  show_description: true
   
 plugins:
   - jekyll-relative-links

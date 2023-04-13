@@ -3,6 +3,53 @@ title: temp.md
 layout: post
 ---
 
+à mon sang
+
+il faut y croire
+priez et vous serez exaucés
+aide-toi et le ciel t'aidera
+rentre en résonance magnétique avec l'univers et les cordes vont ajuster leurs fonctions d'onde pour assembler des quarks qui vont modifier les atomes du serveur sur lequel est enregistré ton compte en banque
+
+bacon si c'est imaginable c'est vrai
+ford ceux qui pensent pouvoir ou pas ont raison
+
+on est à deux doigts des scientologues qui pensent attirer l'attention des aliens en se trempant les pieds dans une bassine d'eau tiède
+
+en fait on est pas loin de la religion
+
+des jours où je perds la foi
+peut-on reprendre la phrase de ford ?
+il y a ceux qui croient et ceux qui ne croient pas et les deux ont raison ?
+
+to be or not to be?
++ reste citation?
+
+je suis content que tu sois bien à malaga
+je te vois un peu comme thompson dans las vegas parano
+le rêve européen a déjà viré au cauchemar si on s'éloigne de bruxelles
+nous à lille on est près
+aurélie demande des subventions croit dans le process l'idée c'est de décarboner les Zodiac des passeurs en permettant aux migrants un voyage zéro émission et aux iencli un shit éco-sourcé
+
+et puis on dit au royaume des aveugles le borgne est roi : dans la ville des paumés de la vie, celui comme toi qui croit à sa bonne étoile doit bien danser
+
+cependant fais gaffe, je tiens à toi (moi et les autres)
+
+lumii porno
+
+à notre prochain pastis
+
+---
+
+un sur cinq
+mettre quelques screens
+sortir un album
+créer un jeu internet
+devenir fortement gainé
+monter sur scène
+master chaque saison sur lol et lor
+
+---
+
 semaine ré ok ? 25 - 31 mai
 appeler aegan 13-21 mai corfou
 visiblement on a déjà fait une expérience ia sur mtg
@@ -74,6 +121,8 @@ licence pressée (sans s'presser) : si t'as pas le temps de demander vas-y.
 une casissure : une presque certitude 95%.
 passion : quiproquo, transfiguration : manipulation économique.
 trois grands livres en un, 1 2 3 au hasard, brûle, écrit petit.
+ouais mais ils focus sur la première page mm si hasard
+j'aimerais leur tendre la main mais ces batards me la couperaient
 
 ---
 
@@ -87,3 +136,4 @@ rien de parfait dans le passé.
 sauf que pas cassé, punitive.
 tant mieux, 
 apprentissage par renforcement.
+mon piano est mort j'ai la b2 cassée

@@ -3,6 +3,7 @@ title: random.md
 layout: post
 ---
 
+> juste un puzzle de mots et de pensées
 
 j'aimerais mourir en été, ce sera plus facile pour creuser.
 
