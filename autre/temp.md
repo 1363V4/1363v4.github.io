@@ -11,6 +11,25 @@ aide-toi et le ciel t'aidera
 rentre en résonance magnétique avec l'univers et les cordes vont ajuster leurs fonctions d'onde pour assembler des quarks qui vont modifier les atomes du serveur sur lequel est enregistré ton compte en banque
 
 bacon si c'est imaginable c'est vrai
+non picasso : tout ce qui peut etre imagine est reel
+bacon maintenant
+Comme l’a fort bien dit Aristote : “l’esprit a sur le corps un pouvoir de commander qui est celui du maître sur l’esclave ; mais la raison a sur l’imagination le pouvoir de commander qui est celui d’un gouvernant sur un libre citoyen, lequel peut être appelé à gouverner à son tour”
+L’imagination a été donnée à l’Homme pour compenser de ce qu’il n’est pas. Et un sens de l’humour, pour le consoler de ce qu’il est.
+Si on peut le dire, pourquoi s'embêter à le peindre ?
+
+
+paracelse
+Je préfère les sentiers et les routes aux universités où l'on n'apprend rien15.
+le firmament est à l'intérieur de l'homme
+TOUT EST POISON, RIEN N’EST POISON : C’EST LA DOSE QUI FAIT LE POISON
+La magie a le pouvoir de connaître et de sonder les choses inaccessibles à la raison humaine. Car la magie est une grande sagesse secrète, tout comme la raison est une grande folie publique.
+La cause principale de la guérison est l'amour.
+Seul celui qui désire du fond du cœur trouvera, et seul celui qui frappera violemment à la porte la verra s'ouvrir
+Loin du pouvoir et de ses vices
+Dans la véritable richesse des âmes et des coeurs
+Ne sois pas un autre
+Si tu peux être toi-même.
+
 ford ceux qui pensent pouvoir ou pas ont raison
 
 on est à deux doigts des scientologues qui pensent attirer l'attention des aliens en se trempant les pieds dans une bassine d'eau tiède
