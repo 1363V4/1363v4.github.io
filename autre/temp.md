@@ -3,6 +3,11 @@ title: temp.md
 layout: post
 ---
 
+I know a transsexual who only wants to eat, drink and be Mary. 
+—George Carlin 
+
+---
+
 à mon sang
 
 il faut y croire
