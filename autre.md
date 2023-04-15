@@ -5,7 +5,6 @@ layout: post
 
 - [cv](autre/cv.md)
 - [musique](autre/musique.md)
-- [random](autre/random.md)
 - textes
     - [haïkus](autre/haikus.md)
     - [poésies](autre/poesies.md)

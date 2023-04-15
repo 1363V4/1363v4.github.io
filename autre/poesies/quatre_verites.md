@@ -17,7 +17,7 @@ layout: post
 
 - assoir la personne sur une chaise et se placer derrière elle
 
-- **magie** : avec quatre doigts, masser la zone du front des sourcils à la racine des cheveux en répétant la première vérité
+- **magie** : avec quatre doigts, masser la zone du front, des sourcils à la racine des cheveux en répétant la première vérité
 
 - objectif : cerveau, arrêter le travail de raisonnement, calmer les pensées
 

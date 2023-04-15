@@ -43,7 +43,7 @@ ce qui veut donc dire : il aura fallu près de 700 ans pour que les efforts conj
 
 - bach thierry
 - mozart élastique
-- beckett mercedes dit "beckett arrière"
+- beckett mercedes (dit "beckett arrière")
 
 ---
 
