@@ -4,6 +4,7 @@ layout: post
 ---
 
 - [cv](autre/cv.md)
+- [jeux](autre/jeux.md)
 - [musique](autre/musique.md)
 - textes
     - [haïkus](autre/haikus.md)
