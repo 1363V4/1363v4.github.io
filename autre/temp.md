@@ -100,14 +100,6 @@ In the end, I know that my happiness will not have been about by my ability or m
 
 ---
 
-"Believe me," Stanhope says, " 'I often wish I had the jokes people come expecting to hear. Jokes like, 'Isn't it dreadful when your girlfriend sends you out for tampons, and you're so embarrassed when you get to the counter that you can't ask for them?' But if I told a woman: 'I am too embarrassed to buy you tampons,' she'd say: 'Are you the same guy who once fucked a midget because he 'thought it would be fun?'"
-
-"Did you?"
-
-"Well I did once, after a show, because I had the opportunity. How could you not?"
-
-...
-
 Everybody I spoke to about Stanhope, including the comedian himself, addressed the possible consequences of his punishing regime. His mother Bonnie told me she is "mainly worried about the Xanax, ecstasy and drink in combination".
 
 "I see myself as a distance drinker," he tells me. "I do drugs now and then. I rarely tear it up." The secret, Stanhope says, is "Excess in Moderation".

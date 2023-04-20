@@ -5,9 +5,10 @@ layout: post
 
 *wip*
 
+#### lille (pluie, bière, ...)
+
 à lille parfois il pleut parfois y'a des averses.
 on est entourés d'eau. peut-être pour ça que ça s'appelle lille.
-
 lille-sud je comprends que le quartier soit ghetto.
 ils doivent se sentir floués : lille "sud".
 
@@ -18,8 +19,9 @@ surtout que ça pue.
 
 je suis monté de paris, je suis passé de wesh ma gueule à welsh mon ventre.
 
+#### inflation (gaz, rester là, ...)
+
 en raison de l'inflation je ferai 10% de blagues en moins.
-je plaisante, j'en ferai même plus !
 je sais pas si vous avez vu le prix que c'est pour se chauffer.
 ils m'ont dit tu fais 5 minutes moi je peux faire deux heures.
 pas besoin de faire un chapeau, deux heures économisées, en heures pleines !
@@ -33,8 +35,7 @@ le gouvernement a lancé une campagne pour inciter les gens à faire du sport.
 ça marche pas mal.
 des millions de personnes se sont remis à la marche.
 
-je suis devenu l'égérie d'une marque de chocolat pour sportifs.
-ça s'appelle milka.
+#### clodos
 
 maintenant que je suis célèbre j'essaie d'arrêter la bière.
 c'est pas sexy la bière. 
@@ -80,7 +81,24 @@ je sors dans la rue je fais cent mètres et là "hé !".
 ils te tendent un gobelet en disant "c'est pour manger".
 bah non c'est pour boire.
 t'as pas dix balles ?
+si j'en avais ne serait-ce qu'une je te la collerais dans la tête.
 faut sauter par dessus et tout.
 c'est dur parce qu'ils t'attrapent la jambe.
+il me dit qu'il a soixante-dix ans et qu'il est à la rue.
+il pourrait être en ehpad orpea de quoi il se plaint.
 
 de la pisse de clochard je pense qu'elle boit de la pisse de clochard.
+peut-être un peu diluée parce que ça sent fort mais je pense c'est ça.
+ses grosses joues ça doit être pour pouvoir en cracher un peu, comme les animaux pour se défendre.
+
+#### boss (con, présentiel, ...)
+
+je travaille dans une grosse boite ce qui veut dire que mon boss est un gros con.
+ça va je reste professionnel parce que j'ai plusieurs boss.
+je dirai pas lequel c'est, parce que j'ai l'impression qu'ils font un concours et je veux pas faire de favoritisme.
+quand ils vont faire un déjeuner d'affaires j'ai peur qu'ils s'étouffent avec les crayons.
+
+#### féminisme (hp, brigitte, ...)
+
+...
+

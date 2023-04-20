@@ -5,6 +5,11 @@ layout: post
 
 *wip*
 
+un sujet = 3 minutes, 3 bonnes blagues
+louis ck abortion skit (more jobs, wade, eat it)
+un 5 minutes = 2 sujet (donc 120%)
+125 pour faire rentrer les callbacks
+
 je travaille sur des problématiques d'accessibilité 
 je parle à des gens et ils comprennent pas
 
@@ -39,7 +44,4 @@ gros seins mal au dos baise toute la journée
 
 je me sens comme une chenille qui sort de sa chrysalide et qui est toujours une chenille mais d'une autre couleur. ça change mais c'est pas ce que j'espérais.
 
-un sujet = 3 minutes, 3 bonnes blagues
-louis ck abortion skit (more jobs, wade, eat it)
-un 5 minutes = 2 sujet (donc 120%)
-125 pour faire rentrer les callbacks
+club des anxieux de la concurrence artificielle
