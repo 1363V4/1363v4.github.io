@@ -39,7 +39,7 @@ passer master m'aura pris environ 1000 heures.
 
 ![uncinq1](/img/uncinq1.png)
 
-je finis la s8 avec 14 marques, soit la moitié du grandmaster. 
+je finis la s8 avec 15 marques, soit les trois quarts du grandmaster. 
 
 ![uncinq10](/img/uncinq10.png)
 
