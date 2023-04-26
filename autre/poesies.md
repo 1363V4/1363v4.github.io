@@ -3,14 +3,15 @@ title: poésies
 layout: post
 ---
 
-- [l'arbre](poesies/arbre.html)
+- [l'arbre](poesies/arbre.md)
+- [bock](poesies/bock.md)
 - [chaîne de vie](poesies/chaine.md)
 - [les chaussures](poesies/chaussures.md)
-- [cosmos concret](poesies/cosmos_concret.html)
-- [ensemble](poesies/ensemble.html)
-- [moteur promis](poesies/moteur_promis.html)
+- [cosmos concret](poesies/cosmos_concret.md)
+- [ensemble](poesies/ensemble.md)
+- [moteur promis](poesies/moteur_promis.md)
 - [nura danse](poesies/nura_danse.md)
-- [pause vape](poesies/pause_vape.html)
-- [quatre vérités](poesies/quatre_verites.html)
-- [le veuf](poesies/le_veuf.html)
+- [pause vape](poesies/pause_vape.md)
+- [quatre vérités](poesies/quatre_verites.md)
+- [le veuf](poesies/le_veuf.md)
 - [les voyageurs](poesies/voyageurs.md)
