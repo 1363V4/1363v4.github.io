@@ -3,19 +3,19 @@ title: ensemble
 layout: post
 ---
 
-cassandre
-
 la route
 
-la peur
+de guerre
 
-la guerre
+cassandre
+
+écoute
 
 malheur
 
-ses pleurs
+et pleure
 
-prir' la
+dans la
 
 poussière
 
@@ -27,7 +27,7 @@ en déroute
 
 alexandre
 
-est vainqueur
+triomphait
 
 nous tuâmes
 
