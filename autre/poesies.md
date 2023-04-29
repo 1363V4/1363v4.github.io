@@ -5,6 +5,7 @@ layout: post
 
 - [l'arbre](poesies/arbre.md)
 - [bock](poesies/bock.md)
+- [la bosse](poesies/bosse.md)
 - [chaîne de vie](poesies/chaine.md)
 - [les chaussures](poesies/chaussures.md)
 - [cosmos concret](poesies/cosmos_concret.md)

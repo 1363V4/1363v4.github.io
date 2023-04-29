@@ -9,7 +9,7 @@ dans un train versaillais nura pense
 
 aux vautours qui survolant persée
 
-attendaient que renaisse son foie apprécié
+attendaient que renaisse son foie rapiécé
 
 ---
 
@@ -19,7 +19,7 @@ dans un nuage en limaille nura vaque
 
 l'arche de leurs sourcils surfilés
 
-en s'éraillant la voix par dessus les sifflets
+et s'éraillent la voix par-dessus les sifflets
 
 ---
 
@@ -31,7 +31,7 @@ plus mon petit liré que nura
 
 ---
 
-c'est un rêve indécent nura mange
+c'est un rêve aberrant nura mange
 
 plus qu'un ogre endormi sous ramages
 

@@ -79,17 +79,13 @@ sous tes airs de “rebel”, sous tes airs d’ingéré,
 
 c’est ce que tu voulais : que le malheur s’empile !
 
-ici la soupe est chaude. 
-
-pas de pot mon biquet !
+ici la soupe est chaude. pas de pot mon biquet !
 
 ---
 
-j’emmerde aussi vous autres. 
+j’emmerde aussi vouzaut'. je vous pisse à la raie !
 
-je vous pisse à la raie !
-
-je vous crache à la gueule et je mets les morceaux…
+je vous crache à la gueule. et je mets les morceaux !
 
 vos vers peu ragoûtants, votre bile insensée
 
@@ -101,8 +97,6 @@ on a tout fait cramer ! pardonnez l’officine,
 
 la belle poésie, nous l’avons tant aimée,
 
-vous l’avez tant écrite… 
-
-mais sans vous offenser,
+vous l’avez tant écrite… mais sans vous offenser,
 
 il aurait mieux valu des livres de cuisine.
