@@ -17,9 +17,9 @@ on a vu invasion los angeles ensemble,
 
 le soleil se coucher dans un triangle barque,
 
-le bonheur le plus pur,. les bleus viennent il me semble
+le bonheur le plus pur, les bleus viennent il me semble
 
-de c'que j'tombe amoureux dès que tu me kroshpates
+de c'que j'tombe amoureux dès que tu me croshpates
 
 ---
 
