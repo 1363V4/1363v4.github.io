@@ -13,6 +13,7 @@ layout: post
 - [moteur promis](poesies/moteur_promis.md)
 - [nura danse](poesies/nura_danse.md)
 - [pause vape](poesies/pause_vape.md)
+- [le piano](poesies/piano.md)
 - [quatre vérités](poesies/quatre_verites.md)
 - [le veuf](poesies/le_veuf.md)
 - [les voyageurs](poesies/voyageurs.md)
