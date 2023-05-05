@@ -5,7 +5,7 @@ layout: post
 
 j'ai mon piano cassé. une touche,
 
-la B2, condamne ce pauvre hère,
+la b2, condamne ce pauvre hère,
 
 point noir seul ! à ne plus faire mouche.
 

@@ -3,6 +3,15 @@ title: temp.md
 layout: post
 ---
 
+
+un script qui post les 4 vidéos animaux en cage sur insta tous les jours
+bot selenium, pickle pour les cookies, cronjob sur le pi ? 
+prendre un pouch au petit vapoteur
+Un couple IA :
+stable diffusion lora, vigogne plugged in sillytavern
+
+---
+
 my work is done
 why wait
 george eastman
