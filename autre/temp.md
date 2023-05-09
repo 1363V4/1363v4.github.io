@@ -12,6 +12,31 @@ stable diffusion lora, vigogne plugged in sillytavern
 
 ---
 
+
+This is the equivalent of a toddler holding their breathe and turning blue to get what they want, but doing it without witness. Too comfy and secure with what they have to risk it, yet they must get their way or self-destruct to avoid the burden of experiencing a failed relationship first-hand. This is a strange, extreme cowardice.
+
+Sounds like a biochemical issue.
+What is her level of stress like?
+What is her diet like?
+Does she get out in the sun a lot?
+Do you have kids?
+
+For optimal hormonal health, which then produces horniness, you firstly need to live a relatively low stress life. Not exercising excessively outside of walking and sex, not drinking stimulants or alcohol, low work stress.
+
+Secondly, you need to eat well. Plenty of animal fat is essential for hormone production and especially for women, women also become more hormonally balanced when they are above 20% body fat, up to 28% is preferable before they get too fat. This is natural because nature rewards them for storing extra fat because it's essential for babies.
+Also avoiding hormone disruptors such as onions, many plant foods like wheat, beans, really most seeds are horrible for anyone's hormones. She needs to eat lots of meat, fatty fish, full fat dairy, etc.
+
+Getting out in the sun is essential too, when you can. There is more to the sun than just vitamin D, there is a deep connection between sun and health that modern science does not even understand. The sun creates life, it makes us happy, it helps us be healthy. Relish in it, spend a nice day out with her in the sun, no sunscreen or other bullshit.
+
+Lastly, and most importantly, do you have kids? If you do, then what I said above is all that is relevant.
+If you do not, then you need to give her a baby. Many actually.
+You are taking sex as an act and isolating it from the whole experience through science, when for all of human history sex = babies.
+Yes we have a hormonal drive for sex, but having children is an experience that transcends the primal instinct for fucking.
+Having a child will bring you closer together, will revitalize her hormones and you will both be happier going forward.
+Sex as an isolated act is empty if it does not eventually create children. We are wired to enjoy sex so much for that very purpose. Don't neglect it.
+
+---
+
 my work is done
 why wait
 george eastman
