@@ -19,7 +19,7 @@ est-ce qu'elle sait où elle va ?
 qu'on attend ? qu'on kiffe ?
 toujours les surprendre sur leur propres termes
 
-triade cum ?
+triade cum ? ptet changer le nom hein...
 commencer par gorillaz c'est gacher le rire
 il faut les guider plus
 
