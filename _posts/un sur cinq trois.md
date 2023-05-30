@@ -17,6 +17,8 @@ jeu / paix mondiale / enfants
 
 [essai vocoder / autotune](/wav/faztah.wav)
 
+[essai de pop à la con](/wav/pop.wav)
+
 [essai techno](/wav/wp.wav)
 dead music makes no cash
 
