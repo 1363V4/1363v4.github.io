@@ -3,8 +3,21 @@ title: à vivi
 layout: post
 ---
 
-![à vivi](/img/à_vivi.png)
-{:.ioda}
+**refrain**
+
+et si je dois partir
+
+j'aimerais faire le tour
+
+(au moins pour toujours)
+
+d'une vie pour qui
+
+j'aurais eu deux amours
+
+(au moins pour toujours)
+
+---
 
 j'ai ouvert les yeux sur un soleil glacé
 
@@ -33,3 +46,8 @@ j'aurais connu ses pôles en les faisant tourner
 j'aurais connu le monde à ce qu'il m'a donné
 
 j'aurais passé ma vie sur ses rives à danser
+
+---
+
+![à vivi](/img/à_vivi.png)
+{:.ioda}
