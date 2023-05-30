@@ -3,7 +3,7 @@ title: un sur cinq trois
 layout: post
 ---
 
-j'arrive jusqte pas à monter
+j'arrive juste pas à monter
 elo hell ?
 c'est le titre du jeu après tout
 diamant trois on verra à la fin de la saison

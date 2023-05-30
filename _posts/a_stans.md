@@ -34,9 +34,6 @@ c'est parler trop vite et ne pas être compris
 enleve la big house
 tu ne tomberas pas in love d'une bassline si c'est poum poum poum poum * 16
 
-la a=qualité est pas mal on comprend ce qu'il se passe
+la qualité est pas mal on comprend ce qu'il se passe
 enregistre-toi même pour toi
 mm si c'est cringe y'a juste pas d'autres moyens
-
-
-
