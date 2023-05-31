@@ -39,13 +39,13 @@ j'ai senti ce qu'était la vraie fidélité
 
 ---
 
-j'aurais passé ma vie à descendre en montée
+j'aurai passé ma vie à descendre en montée
 
-j'aurais connu ses pôles en les faisant tourner
+j'aurai connu les pôles en les faisant tourner
 
-j'aurais connu le monde à ce qu'il m'a donné
+j'aurai connu le monde à ce qu'il m'a donné
 
-j'aurais passé ma vie sur ses rives à danser
+j'aurai passé ma vie sur ses rives à danser
 
 ---
 
