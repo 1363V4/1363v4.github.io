@@ -13,7 +13,7 @@ j'aimerais faire le tour
 
 d'une vie pour qui
 
-j'aurais eu deux amours
+j'aurai eu deux amours
 
 (au moins pour toujours)
 
