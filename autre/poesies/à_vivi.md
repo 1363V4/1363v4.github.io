@@ -3,21 +3,7 @@ title: à vivi
 layout: post
 ---
 
-[écouter](/wav/à_vivi.wav).
-
-**refrain**
-
-et si je dois partir
-
-j'aimerais faire le tour
-
-(au moins pour toujours)
-
-d'une vie pour qui
-
-j'aurai eu deux amours
-
-(au moins pour toujours)
+[écouter](/wav/à_vivi.wav)
 
 ---
 
@@ -28,6 +14,22 @@ j'ai senti sa chaleur quand je les refermais
 je suis née seule et fière le vent à mes côtés
 
 par un air chaud et pur j'ai été emportée
+
+---
+
+**refrain**
+
+et si je dois partir
+
+j'aimerais faire le tour
+
+*(au moins pour toujours)*
+
+d'une vie pour qui
+
+j'aurai eu deux amours
+
+*(au moins pour toujours)*
 
 ---
 
