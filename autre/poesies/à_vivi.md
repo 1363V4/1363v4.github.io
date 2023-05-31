@@ -3,6 +3,8 @@ title: à vivi
 layout: post
 ---
 
+[écouter](/wav/à_vivi.wav).
+
 **refrain**
 
 et si je dois partir
@@ -35,15 +37,15 @@ et le calme infini où les étoiles dormaient
 
 en lançant des bâtons à tout' l'humanité
 
-j'ai senti ce qu'était la vraie fidélité
+j'ai compris ce qu'était la vraie fidélité
 
 ---
 
 j'aurai passé ma vie à descendre en montée
 
-j'aurai connu les pôles en les faisant tourner
-
 j'aurai connu le monde à ce qu'il m'a donné
+
+j'aurai connu ses pôles en les faisant tourner
 
 j'aurai passé ma vie sur ses rives à danser
 
