@@ -30,3 +30,15 @@ on lui souhaite bien du courage.
 peut-être que, quelque part, monsieur `tenebre` prend un café avec madame `solaire`.
 
 nous ne le saurons jamais !
+
+---
+
+**10/06/23**
+
+`lebaron` et `ellouze` ont été attribués.
+
+c'est moi qui fait les règles. venez pas chialer fallait être là.
+
+d'ailleurs, `ellouze` a suggéré d'appeler cette nomenclature un *heptagramme*. 
+
+j'aime bien. *heptagramme* donc.

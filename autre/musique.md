@@ -5,7 +5,6 @@ layout: post
 
 ### officiel
 
-- [louis-emmanuel gires](https://soundcloud.com/louis-emmanuel-gires)
 - [marie malheur](https://mariemalheur.bandcamp.com/)
 - [n u r a](https://soundcloud.com/nura666)
 
@@ -16,10 +15,12 @@ layout: post
 
 ### expérimentations
 
-- [marry maller](https://soundcloud.com/marrymaller)
-- [marie malheur](https://soundcloud.com/marie-malheur)
-- [yung mean](https://soundcloud.com/louis-emmanuel-macron)
-- [dj phronk](https://soundcloud.com/djphronk)
 - [a. flamel](https://soundcloud.com/aflamel)
-- [louis sunshine](https://soundcloud.com/louissunshine)
+- [dj phronk](https://soundcloud.com/djphronk)
 - [good_student](https://soundcloud.com/good_student)
+- [iman alien](https://soundcloud.com/user-475674950)
+- [louis-emmanuel gires](https://soundcloud.com/louis-emmanuel-gires)
+- [louis sunshine](https://soundcloud.com/louissunshine)
+- [marie malheur](https://soundcloud.com/marie-malheur)
+- [marry maller](https://soundcloud.com/marrymaller)
+- [yung mean](https://soundcloud.com/louis-emmanuel-macron)

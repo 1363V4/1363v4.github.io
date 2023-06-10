@@ -16,6 +16,7 @@ layout: post
 - [nura danse](poesies/nura_danse.md)
 - [pause vape](poesies/pause_vape.md)
 - [le piano](poesies/piano.md)
+- [prise au sol](poesies/prise_au_sol.md)
 - [quatre vérités](poesies/quatre_verites.md)
 - [le veuf](poesies/le_veuf.md)
 - [les voyageurs](poesies/voyageurs.md)
