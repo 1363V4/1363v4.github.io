@@ -16,7 +16,7 @@ en effet, 26^7 = 8 031 810 176
 
 ayant la paternité de cette découverte, 
 vous permettrez que je réserve par ce présent post
-l'étiquette `legires`.
+l'étiquette `leguide`.
 
 ---
 
@@ -24,12 +24,14 @@ quelques considérations.
 
 cette nomenclature est remplie en majorité de `jvryklg` ou autres `pnufsup`.
 
-mais il y aura également, c'est fatal, un `parfait`, une `joueuse` et même un `connard`.
+mais il y aura également, c'est fatal, un `musclor`, un `sarkozy` et même un `connard`.
 on lui souhaite bien du courage.
 
-peut-être que, quelque part, monsieur `tenebre` prend un café avec madame `solaire`.
+peut-être que, quelque part, en ce moment, monsieur `lunaire` prend un café avec madame `solaire`.
 
-nous ne le saurons jamais !
+et ils mettront au monde un petit `tenebres`.
+
+un petit huit lettres.
 
 ---
 

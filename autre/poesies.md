@@ -12,6 +12,7 @@ layout: post
 - [les chaussures](poesies/chaussures.md)
 - [cosmos concret](poesies/cosmos_concret.md)
 - [ensemble](poesies/ensemble.md)
+- [les fourmis](poesies/les_fourmis.md)
 - [moteur promis](poesies/moteur_promis.md)
 - [nura danse](poesies/nura_danse.md)
 - [pause vape](poesies/pause_vape.md)

@@ -28,3 +28,4 @@ layout: post
 ### paroles
 
 - [paroles](/paroles.md)
+- [paroles](paroles.md)

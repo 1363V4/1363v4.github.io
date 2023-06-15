@@ -37,3 +37,19 @@ tu ne tomberas pas in love d'une bassline si c'est poum poum poum poum * 16
 la qualité est pas mal on comprend ce qu'il se passe
 enregistre-toi même pour toi
 mm si c'est cringe y'a juste pas d'autres moyens
+
+à ma soeur
+les meilleures conditions possibles ?
+venu tard à la techno 
+j'aimais que les mélodies
+des trucs ignobles trouvés sur newgrounds genre envy -> lien
+à cause de l'effet passe-bas
+ajd hamdoulillah on a du meilleur matos 
+mais ça reste dans les oreilles
+pas de caisson de basse à la maison
+j'ai mis longtemps à le découvrir un vrai caisson
+avec quelques substances
+c'est juste une fréquence plus basse qui met plus longtemps à traverser ton corps
+mais c'est chouette
+mais bon j'ai des anti bruit bonne quali j'y vais
+de toute façon t'as enregistré qualité patate donc pas de regrets
