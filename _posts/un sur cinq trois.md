@@ -8,6 +8,9 @@ elo hell ?
 c'est le titre du jeu après tout
 diamant trois on verra à la fin de la saison
 
+je refuse de perdre la face devant les autres et devant moi-même.
+des fois je me demande s'il faut pas choisir.
+
 tout ça c'est des tests de carrière
 musique
 gros baiseur (j'y suis pas encore aux crunchs)
@@ -27,3 +30,9 @@ stech deux clodos si on est bien et on le sent
 rappel : parler aux murs
 
 essai marie theory aussi et c'est le prochain post
+de nouvelles questions auxquelles je dois répondre
+
+
+l'album est bouclé
+
+
