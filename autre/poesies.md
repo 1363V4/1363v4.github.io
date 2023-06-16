@@ -10,6 +10,7 @@ layout: post
 - [la bosse](poesies/bosse.md)
 - [chaîne de vie](poesies/chaine.md)
 - [les chaussures](poesies/chaussures.md)
+- [corfou falaise](poesies/corfou_falaise.md)
 - [cosmos concret](poesies/cosmos_concret.md)
 - [ensemble](poesies/ensemble.md)
 - [les fourmis](poesies/les_fourmis.md)
