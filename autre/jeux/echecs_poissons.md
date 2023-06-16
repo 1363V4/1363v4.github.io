@@ -1,5 +1,5 @@
 ---
-title: échecs sous-marins
+title: échecs poissons
 layout: post
 ---
 
@@ -11,3 +11,5 @@ avec deux modifications :
 
 - les pions sont désormais appelés "poissons"
 - ils ne peuvent manger qu'en avant
+
+amusez-vous bien.
