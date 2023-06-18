@@ -42,3 +42,5 @@ des fois je me demande s'il faut pas choisir.
 ---
 
 1/5. la suite au prochain épisode.
+
+ps: j'ai changé le logo.

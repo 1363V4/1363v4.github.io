@@ -12,4 +12,6 @@ avec deux modifications :
 - les pions sont désormais appelés "poissons"
 - ils ne peuvent manger qu'en avant
 
+**oui**, un pion qui n'a pas encore bougé peut manger en avancant de deux cases.
+
 amusez-vous bien.

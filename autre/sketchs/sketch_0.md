@@ -131,3 +131,4 @@ je travaille dans une grosse boite ce qui veut dire que mon boss est un gros con
 je dirai pas lequel c'est, parce que j'ai l'impression qu'ils font un concours et je veux pas faire de favoritisme.
 quand ils vont faire un déjeuner d'affaires j'ai peur qu'ils s'étouffent avec les crayons.
 
+super baraque, méchante barbe, un chignon avec un cockring. tu penses qu'il va y avoir de l'orage c'est juste qu'il bande.
