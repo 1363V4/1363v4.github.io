@@ -9,9 +9,10 @@ theme_config:
   show_description: false
   
 plugins:
+  - jekyll-feed
   - jekyll-relative-links
   - jekyll-seo-tag
-  - jekyll-feed
+  - jekyll-toc
   
 relative_links:
   enabled: true
