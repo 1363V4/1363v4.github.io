@@ -1,3 +1,7 @@
+ironclad build hemokinesis
+silent build chrysalide
+defect build chaos
+et watcher build signature
 
 tout ça c'est des tests de carrière
 musique
