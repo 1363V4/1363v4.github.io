@@ -12,6 +12,7 @@ layout: post
 - [les chaussures](poesies/chaussures.md)
 - [corfou falaise](poesies/corfou_falaise.md)
 - [cosmos concret](poesies/cosmos_concret.md)
+- [death after death](poesies/death_after_death.md)
 - [ensemble](poesies/ensemble.md)
 - [les fourmis](poesies/les_fourmis.md)
 - [moteur promis](poesies/moteur_promis.md)
