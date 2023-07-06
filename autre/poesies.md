@@ -3,7 +3,7 @@ title: poésies
 layout: post
 ---
 
-- [à vivi](poesies/à_vivi.md)
+- [à vivi](poesies/a_vivi.md)
 - [accident](poesies/accident.md)
 - [l'arbre](poesies/arbre.md)
 - [bock](poesies/bock.md)
