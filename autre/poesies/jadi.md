@@ -25,14 +25,14 @@ frappe ! fouette ! ravive ! ô saigner ce rouge ! ô te suivre !
 
 toute une foi que consume un sourire !
 
-ma larme arme un pinceau en spire
+ta larme arme un pinceau en spire
 
-du bleu des nuits obsessionnelles
+au bleu des nuits obsessionnelles
 
 ---
 
-jadi ! jadi ! toi seule et à jamais
+jadi ! à toi seule j'aspire 
 
-la plus secrète volupté
+au plus secret de mes désirs 
 
 air de violon pour les modèles
