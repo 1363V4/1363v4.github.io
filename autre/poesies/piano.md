@@ -19,7 +19,7 @@ j'ai un bon fond autant que surface,
 
 mais qui ne voit que ça dans la glace. 
 
-dans la moindre faille un rien s'insère.
+derrière le nerf un rien s'insère.
 
 ---
 
