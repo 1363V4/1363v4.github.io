@@ -49,8 +49,8 @@ ce qui veut donc dire : il aura fallu près de 700 ans pour que les efforts conj
 
 - un pour quatre, un pour un, trois pour zéro
 - ni la vie ni les mots rien seul
-- rien
-- la voix / le souffle
+- à aller et venir
+- le souffle
 - rien
 
 ---
@@ -72,9 +72,7 @@ ce qui veut donc dire : il aura fallu près de 700 ans pour que les efforts conj
 
 **mm** mardi mercredi samedi dimanche
 
-ls eau, mm plante, ls lance les ballons, mm les rattrape ?
-
-l-e feu se soigne
+ls feu, mm eau, le plante
 
 ---
 
