@@ -19,7 +19,7 @@ dans un nuage en limaille nura vaque
 
 l'arche de leurs sourcils surfilés
 
-et s'éraillent la voix par-dessus les sifflets
+et s'éraille la voix par-dessus les sifflets
 
 ---
 
