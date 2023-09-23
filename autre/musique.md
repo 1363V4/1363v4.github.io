@@ -14,6 +14,7 @@ layout: post
 - [dj phronk](https://soundcloud.com/djphronk)
 - [good_student](https://soundcloud.com/good_student)
 - [iman alien](https://soundcloud.com/user-475674950)
+- [lambda epsilon](https://soundcloud.com/lambda_epsilon)
 - [louis-emmanuel gires](https://soundcloud.com/louis-emmanuel-gires)
 - [louis sunshine](https://soundcloud.com/louissunshine)
 - [marie malheur](https://soundcloud.com/marie-malheur)
