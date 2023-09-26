@@ -17,7 +17,7 @@ sauvage lumière, vitrail castral
 
 c'est d'un féral un nicobar en boule !
 
-un pitoyable pingouin s'interroge 
+un pauvre petit pingouin déboussole
 
 le paon lui semble une télé couleur.
 
