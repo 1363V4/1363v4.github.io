@@ -15,7 +15,7 @@ j'abimerais mes yeux aux beautés de ton corps
 
 ô rose étrange ! jadi fleur vampire
 
-tu m'évanouis, tes parfums sont un camphre fort
+tu m'évanouis, tes parfums sont d'un camphre fort
 
 j'ai trop philosophé pour oublier de vivre
 
