@@ -18,6 +18,11 @@ mauvais départ wr. j'aurais pu...
 
 ![uncinq24](/img/uncinq24.png) stat
 
+ah oui ! j'avais dit que j'avais desinstallé. [mais si !](un_sur_cinq_trois.html).
+bah mdr hein. bien mytho bien crack addict bien see u soon.
+
+c'est pas sérieux de se fixer des challenges tah la volonté d'acier.
+
 en fait pour des jeux "sociaux" j'y joue bien tout seul.
 ça a un côté triste et un côté amusant. comme le bassin.
 

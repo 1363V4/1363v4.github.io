@@ -86,6 +86,10 @@ with wave.open("output.wav", "wb") as f:
 
 ```
 
+ça donne quoi ?
+[écoutez voir](/wav/output.wav).
+c'est pas si mal.
+
 #### pourquoi faire ?
 
 vous vous rappelez le [cercle des quintes](marie_theory.html) ?

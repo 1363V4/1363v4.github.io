@@ -42,5 +42,3 @@ prochain cinq ?
 > plutôt que d’être caressée.
 
 *le vallon (sauvage)/mélancolie*
-
-ps: j'ai changé le logo.
