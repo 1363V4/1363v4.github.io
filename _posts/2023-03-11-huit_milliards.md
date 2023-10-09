@@ -16,7 +16,7 @@ en effet, 26^7 = 8 031 810 176
 
 ayant la paternité de cette découverte, 
 vous permettrez que je réserve par ce présent post
-l'étiquette `leguide`.
+l'étiquette `legires`.
 
 ---
 
