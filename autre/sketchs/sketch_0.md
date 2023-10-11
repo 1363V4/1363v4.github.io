@@ -132,3 +132,7 @@ je dirai pas lequel c'est, parce que j'ai l'impression qu'ils font un concours e
 quand ils vont faire un déjeuner d'affaires j'ai peur qu'ils s'étouffent avec les crayons.
 
 super baraque, méchante barbe, un chignon avec un cockring. tu penses qu'il va y avoir de l'orage c'est juste qu'il bande.
+
+profiter du passe jeune. à quoi ça sert de faire de l'argent si tu payes le ciné plein pot.
+
+avec israel on a pas parlé qu'il a fait 36° en octobre.
