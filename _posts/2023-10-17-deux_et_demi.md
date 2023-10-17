@@ -12,7 +12,7 @@ comme le bassin.
 
 j'ai l'impression que je passe beaucoup de temps sur mon téléphone.
 
-![uncinq23](/img/uncinq23.png) temps
+![uncinq23](/img/uncinq23.png)
 
 c'est le -50% qui est triste.
 
@@ -23,35 +23,35 @@ quasi autant voir plus.
 
 j'ai vu récemment sous une vidéo youtube d'un streamer tft :
 
-![uncinq22](/img/uncinq22.png) nul
+![uncinq22](/img/uncinq22.png)
 
 et alors c'est marrant parce que c'est pile ma situation.
 j'ai dû vérifier.
 
-![uncinq25](/img/uncinq25.png) wtft
+![uncinq25](/img/uncinq25.png)
 
 verdict : nul.
 
 ---
 
-nul en effet. pas réussi à keep le master sur wild rift.
+nul ? peut-être, pas réussi à keep le master sur wild rift.
 
 départ canon en contre-sens. elo hell. 
 
-![uncinq24](/img/uncinq24.png) stat
+![uncinq24](/img/uncinq24.png)
 
 mais j'aurais pu...
 
 ah oui ! j'avais dit que j'avais desinstallé. [mais si !](un_sur_cinq_trois.html).
 
-bah mdr hein. bien mytho bien crack addict bien see u soon.
+bah mdr hein. bien mytho bien crack addict bien see u tomorrow.
 c'est pas sérieux de se fixer des challenges tah la volonté d'acier pour en arriver là.
 
 ---
 
 par conséquent, faisons le bilan.
 
-![uncinq27](/img/uncinq27.png) jeux
+![uncinq27](/img/uncinq27.png)
 
 ça en fait des joujous. on va leur dire au revoir.
 
@@ -67,8 +67,9 @@ la da est cool mais le gameplay hs-like est inintéressant.
 ---
 
 snap c'est un bon jeu. très bon même.
-simple mais deep, une histoire en six tours.
+simple mais deep, une histoire en six tours
 et une core mécanique incroyable.
+beau travail.
 
 mais c'est un pay to win.
 ça dégage.
@@ -125,10 +126,11 @@ même des tabis ninjas.
 
 ---
 
-j'ai même pas perdu mon temps.
+j'ai pas perdu mon temps pour autant.
+
 quand je joue j'active le flow.
-80% de mon cerveau s'affaire à la mécanique digitale,
-et les 20% restants
+80 % de mon cerveau s'affaire à la mécanique digitale,
+et les 20 % restants
 sur un spectacle,
 un livre audio,
 une conférence,
@@ -140,54 +142,90 @@ se gorgent et se régalent.
 pourquoi je raconte ma vie ?
 
 déjà c'est mon blog.
-mais voilà où je voulais en venir :
-je joue tout seul.
 
-les écrans isolent.
-bien que ce soit un luxe que j'aime,
-je ne peux pas me l'offrir en ce moment.
+~~mais voilà où je voulais en venir :~~
+~~je joue tout seul.~~
+
+~~les écrans isolent.~~
+~~bien que ce soit un luxe que j'aime,~~
+~~je ne peux pas me l'offrir en ce moment.~~
+
+...
 
 ---
 
-c'est malgré tout plus que ça.
-glané dans les commentaires d'une vidéo de summoning salt (un historien du speedrun):
+j'ai eu du mal à finir ce post. 
+j'écrivais des conneries. mais voilà :
 
-![uncinq21](/img/uncinq21.png) salt
+je joue parce que je jouais petit, 
+et parce qu'on ne guérit pas de son enfance.
 
-c'est quand même autre chose.
+j'ai trouvé ça
+dans les commentaires d'une vidéo d'un historien du speedrun:
 
-l'autre bouquin a dit que le jeu vidéo avait été le point d'entrée de l'écran.
-il semble qu'il ait raison.
+![uncinq21](/img/uncinq21.png)
 
-pour ça que j'ai fait des jeux
-mais mon pref c'est [uno magique](autre/jeux/uno_magique.html)
-et [tel perdant](autre/jeux/tel_perdant.html)
-[échecs poissons](autre/jeux/echecs_poissons.html)
+voilà.
 
-pas de ranked ou de completion enfin offline quoi
-doit le finir mais moins bien que drafter.gg
+c'est aussi bête,
+et aussi beau que ça.
 
-j'ai toujours kiff les jv mais là
-c'est le point d'entrée de l'ordinateur dans les foyers disent ils
+---
 
-le probleme c'est l'écran pas le jeu.
-l'écran devrait être une tablette d'argile améliorée pas un casino miniature.
+j'en voulais aux écrans,
+en m'hypnotisant aux écrans,
+pour ne pas écrire dessus.
+
+ça commence à bien faire
+de creuser si profond dans
+la dopa-mine.
+
+l'écran devrait être une tablette d'argile améliorée,
+pas un casino miniature.
 ces logiques bavent sur mes jeux que j'aime.
+sur le jeu avec un grand j.
 
-course aux achievements
-pas egal course au 100%
-ce qui est légendaire c'est de s'arreter à 99
+mon jeu de l'année, mon petit goty ?
+[uno magique](autre/jeux/uno_magique.html).
 
-![uncinq28](/img/uncinq28.png) leg
+unplugged.
+    
+---
+
+aussi :
+du mal parce que je me voilais la face.
+je suis bien nul. bien moyen.
+
+regardez-moi ça : 50 % tout *fucking* pile.
+
+![uncinq29](/img/uncinq29.png)
+
+ça s'invente pas.
+
+---
+
+mais ça suffit.
+
+la vie n'est pas une course aux achievements.
+vous saviez pas ?
+**nosq** c'est pour *no side quest*.
+
+"légendaire" : en jargon lol, enchaîner 8 kills sans mourir.
+
+j'en ai eu 99. 
+mais vous savez ce qui est vraiment légendaire ?
+
+![uncinq28](/img/uncinq28.png)
+
+s'arrêter avant le 100.
 
 ---
 
 bon c'est pas tout
-mais j'ai un [jeu vidéo](autre/jeux/jumelio.html)
-à terminer.
+mais j'ai un ~~jeu à terminer~~ 
+~~sketch à écrire~~ 
+guide à faire.
 
 sur ce :
 
-![uncinq26](/img/uncinq26.jpeg) missing
-
-
+![uncinq26](/img/uncinq26.jpeg)
