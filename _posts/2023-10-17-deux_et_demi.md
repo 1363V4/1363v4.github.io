@@ -14,14 +14,14 @@ j'ai l'impression que je passe beaucoup de temps sur mon téléphone.
 
 ![uncinq23](/img/uncinq23.png)
 
-c'est le -50% qui est triste.
+c'est le -50 % qui est triste.
 
 ---
 
 en plus de perdre mon temps à jouer, j'en perds à regarder des gens à jouer.
 quasi autant voir plus.
 
-j'ai vu récemment sous une vidéo youtube d'un streamer tft :
+j'ai vu récemment ces commentaires sous une vidéo youtube d'un streamer tft :
 
 ![uncinq22](/img/uncinq22.png)
 
@@ -42,7 +42,7 @@ départ canon en contre-sens. elo hell.
 
 mais j'aurais pu...
 
-ah oui ! j'avais dit que j'avais desinstallé. [mais si !](un_sur_cinq_trois.html).
+ah oui ! j'avais dit que j'avais désinstallé. [mais si !](https://le.guide/2023/06/18/un_sur_cinq_trois.html)
 
 bah mdr hein. bien mytho bien crack addict bien see u tomorrow.
 c'est pas sérieux de se fixer des challenges tah la volonté d'acier pour en arriver là.
@@ -61,7 +61,7 @@ shadowverse j'y jouais en 3a.
 j'attendais ma douce. 
 elle jouait fée, moi vampire. 
 
-la da est cool mais le gameplay hs-like est inintéressant.
+la d.a. est cool mais le gameplay hs-like est inintéressant.
 ça dégage.
 
 ---
@@ -96,7 +96,7 @@ just dance...
 il a été tout dev en inde lol.
 c'est un vilain payware.
 
-je veux tester la danse avec ma douce.
+mais je veux tester la danse avec ma douce.
 ça reste.
 
 ---
@@ -106,7 +106,7 @@ ces putains de jeux riots.
 cette foutue came.
 
 petit j'avais yu-gi-oh.
-stairway to the destined duel.
+"stairway to the destined duel".
 je jouais full piège en essayant de trouver des easter egg. 
 j'avais ma ds, toutes les cartes du jeu, pas d'internet. 
 j'étais heureux.
@@ -119,18 +119,19 @@ je grind pas.
 je rage pas.
 c'est con mais j'aime ça.
 c'est des bons jeux.
+et je suis un bon joueur.
 
-on aime la sensation de s'améliorer,
+on aime d'abord la sensation de s'améliorer, d'apprend.
+
 puis le fait d'être dans d'autres bottes,
-même des tabis ninjas.
+même si c'est des tabis ninjas.
 
 ---
 
-j'ai pas perdu mon temps pour autant.
+j'ai pas perdu mon temps pour autant. quand je joue j'active le flow.
 
-quand je joue j'active le flow.
 80 % de mon cerveau s'affaire à la mécanique digitale,
-et les 20 % restants
+tandis que les 20 % restants
 sur un spectacle,
 un livre audio,
 une conférence,
@@ -155,8 +156,9 @@ déjà c'est mon blog.
 ---
 
 j'ai eu du mal à finir ce post. 
-j'écrivais des conneries. mais voilà :
+j'écrivais des conneries. 
 
+mais voilà :
 je joue parce que je jouais petit, 
 et parce qu'on ne guérit pas de son enfance.
 
@@ -174,7 +176,7 @@ et aussi beau que ça.
 
 j'en voulais aux écrans,
 en m'hypnotisant aux écrans,
-pour ne pas écrire dessus.
+pour ne pas écrire sur les écrans.
 
 ça commence à bien faire
 de creuser si profond dans
@@ -207,12 +209,14 @@ regardez-moi ça : 50 % tout *fucking* pile.
 mais ça suffit.
 
 la vie n'est pas une course aux achievements.
+
 vous saviez pas ?
-**nosq** c'est pour *no side quest*.
+`nosq` c'est pour *no side quest*.
 
 "légendaire" : en jargon lol, enchaîner 8 kills sans mourir.
 
 j'en ai eu 99. 
+
 mais vous savez ce qui est vraiment légendaire ?
 
 ![uncinq28](/img/uncinq28.png)
@@ -222,9 +226,15 @@ s'arrêter avant le 100.
 ---
 
 bon c'est pas tout
-mais j'ai un ~~jeu à terminer~~ 
+mais j'ai un 
+
+~~jeu à terminer~~ 
+
 ~~sketch à écrire~~ 
+
 guide à faire.
+
+---
 
 sur ce :
 
