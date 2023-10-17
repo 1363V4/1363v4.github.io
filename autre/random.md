@@ -5,6 +5,12 @@ layout: post
 
 > juste un puzzle de mots et de pensées
 
+[test](https://le.guide/autre/jeux/uno_magique.html)
+[test](/autre/jeux/uno_magique.html)
+[test](autre/jeux/uno_magique.html)
+[test](/jeux/uno_magique.html)
+[test](jeux/uno_magique.html)
+
 j'aimerais mourir en été, ce sera plus facile pour creuser.
 
 ---
