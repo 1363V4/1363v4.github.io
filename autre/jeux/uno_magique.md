@@ -7,7 +7,8 @@ layout: post
 
 - les **+2** et les **+4** peuvent se cumuler
 - le **+2** ne passe pas le tour
-- le **+4** passe aussi le tour
+- le **+4** passe le tour
+- deux cartes identiques peuvent être posées en même temps
 
 #### cartes classiques
 
