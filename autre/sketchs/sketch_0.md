@@ -136,3 +136,15 @@ super baraque, méchante barbe, un chignon avec un cockring. tu penses qu'il va 
 profiter du passe jeune. à quoi ça sert de faire de l'argent si tu payes le ciné plein pot.
 
 avec israel on a pas parlé qu'il a fait 36° en octobre.
+
+hallowen y'a pas longtemps. tu peux enlever ton masque.
+
+l'autre jour à lille j'ai été tellement nul on m'a lancé des frites. c'est vachement pratique en fait.
+
+je m'appelle louis emmanuel c'est mon vrai nom et je suis logiquement humoriste.
+
+vous pouvez huer : je suis parisien. oui je sais. j'adore dire ça, typiquement parisien, avec la bonne exaspération. monsieur votre voiture est stationné sur mon pied. oui je sais. roh pfou. on peut plus se garer dans cette ville eh hidalgo t'es nulle. oui je sais. passion pour les maires socialistes. et parce que vous avez des bonnes bières, des bières qui font 6% alors que hidalgo non.
+
+cyber : disque dur mégabite.
+
+le concept de revendication alors que techniquement ils étaient pas là. c'est comme si j'arrive à l'euromillions et je revendique le jackpot. bah si j'ai toujours affiché mon intention d'avoir de la thune, j'ai publié des vidéos sur le sujet... t'arrives dans un bar je revendique deux bières. mais je condamne la facture. je m'en désolidarise complétement. non dans la vraie vie chaque cause a une conséquence, chaque conséquence une cause. c'est chaque jour plus vrai et c'est ça qui nous rend fou. tu peux te faire péter à 30 ans pour des trucs que t'as écris à 15. si t'es blanc et riche c'est peut-être qu'il y a 200 ans t'as fait de l'esclavage. si t'es roux aujourd'hui c'est parce qu'il y a 800 millions d'années un singe s'est dit tiens j'vais me taper un renard. chaque cause une conséquence, chaque conséquence une cause. et comme le présent n'est que la conclusion du passé, on remonte toujours plus loin dans les causes, toujours plus loin dans le passé, jusqu'à la cause des causes, dieu. parce que c'est quand meme pour lui qu'ils se font exploser. parce qu'à l'origine, dieu a fait l'univers, il a fait la terre et il a dit ça joue ! eeeeet c'est parti ! chacun pour soi, personne ne sort allez allez on attrape la queue du mickey. c'est d'ailleurs pour ça que la terre tourne : c'est un manège.
