@@ -25,7 +25,7 @@ on oublie leur lignée
 
 leur belle lignée de mères
 
-lignée solitaire
+lente et solitaire
 
 à les voir en ligne
 

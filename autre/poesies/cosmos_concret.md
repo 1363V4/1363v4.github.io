@@ -7,7 +7,7 @@ cosmos concret
 
 vivants coincés
 
-mourir ou pas pareil
+(mourir ou pas pareil)
 
 lémures ont des oreilles
 
@@ -15,7 +15,7 @@ lémures ont des oreilles
 
 ô bordel noir
 
-au bord d'un moi
+au bord des mois
 
 le profane tatonne
 

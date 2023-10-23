@@ -27,8 +27,12 @@ gémissait le premier
 
 le second sans rien dire
 
-fait encore dix mètres
+tourne sa tête à l'est
 
-lève les yeux, s'arrête
+du fardeau se déleste
 
 et pousse un long soupir
+
+---
+
+...

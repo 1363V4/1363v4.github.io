@@ -17,7 +17,7 @@ j'ai un bon fond autant que surface,
 
 à peine un oeil qui voit de travers
 
-mais qui ne voit que ça dans la glace. 
+mais qui ne voit que ça dans la glace
 
 derrière le nerf un rien s'insère.
 
@@ -25,9 +25,9 @@ derrière le nerf un rien s'insère.
 
 comme un ver dans les fruits de l'eden,
 
-obscure clarté, luciole ébène
+obscure clarté, luciole ébène,
 
-ne plante et pousse que pourriture.
+les plantes poussent en pourriture
 
 ---
 
@@ -35,4 +35,4 @@ un condamne tout mais tout sauve un
 
 j'attends chaque jour le jour de juin
 
-la page arrachée fait couverture
+page arrachée en couverture
