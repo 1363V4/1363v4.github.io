@@ -87,7 +87,7 @@ with wave.open("output.wav", "wb") as f:
 ```
 
 ça donne quoi ?
-[écoutez voir](/wav/output.wav).
+[écoutez voir](/wav/circle_filth/output.wav).
 c'est pas si mal.
 
 #### pourquoi faire ?
@@ -212,13 +212,13 @@ with wave.open("output2.wav", "wb") as f:
 le résultat est...
 
 voici donc un cercle des quintes continu en
-[progression mineure](/wav/output2.wav).
+[progression mineure](/wav/circle_filth/output2.wav).
 
 en clippant le signal (la ligne commentée), on obtient le même
-[avec de la distortion](/wav/output3.wav).
+[avec de la distortion](/wav/circle_filth/output3.wav).
 
 et pour la bonne bouche,
 le voici
-[en majeur](/wav/output4.wav).
+[en majeur](/wav/circle_filth/output4.wav).
 
 ça tourne pas rond.
