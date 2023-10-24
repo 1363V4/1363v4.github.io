@@ -18,3 +18,5 @@ je n'arrive pas à faire une prog simple
 "un projet c'est plusieurs challenges qui vont dans le même sens"
 
 don't despise small beginnings
+
+[ce que ça peut donner](/wav/interlude/darknet_master_un.wav).
