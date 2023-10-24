@@ -12,7 +12,7 @@ comme le bassin.
 
 j'ai l'impression que je passe beaucoup de temps sur mon téléphone.
 
-![uncinq23](/img/uncinq23.png)
+![uncinq23](/img/uncinq/uncinq23.png)
 
 c'est le -50 % qui est triste.
 
@@ -23,12 +23,12 @@ quasi autant voir plus.
 
 j'ai vu récemment ces commentaires sous une vidéo youtube d'un streamer tft :
 
-![uncinq22](/img/uncinq22.png)
+![uncinq22](/img/uncinq/uncinq22.png)
 
 et alors c'est marrant parce que c'est pile ma situation.
 j'ai dû vérifier.
 
-![uncinq25](/img/uncinq25.png)
+![uncinq25](/img/uncinq/uncinq25.png)
 
 verdict : nul.
 
@@ -38,7 +38,7 @@ nul ? peut-être, pas réussi à keep le master sur wild rift.
 
 départ canon en contre-sens. elo hell. 
 
-![uncinq24](/img/uncinq24.png)
+![uncinq24](/img/uncinq/uncinq24.png)
 
 mais j'aurais pu...
 
@@ -51,7 +51,7 @@ c'est pas sérieux de se fixer des challenges tah la volonté d'acier pour en ar
 
 par conséquent, faisons le bilan.
 
-![uncinq27](/img/uncinq27.png)
+![uncinq27](/img/uncinq/uncinq27.png)
 
 ça en fait des joujous. on va leur dire au revoir.
 
@@ -165,7 +165,7 @@ et parce qu'on ne guérit pas de son enfance.
 j'ai trouvé ça
 dans les commentaires d'une vidéo d'un historien du speedrun:
 
-![uncinq21](/img/uncinq21.png)
+![uncinq21](/img/uncinq/uncinq21.png)
 
 voilà.
 
@@ -200,7 +200,7 @@ je suis bien nul. bien moyen.
 
 regardez-moi ça : 50 % tout *fucking* pile.
 
-![uncinq29](/img/uncinq29.png)
+![uncinq29](/img/uncinq/uncinq29.png)
 
 ça s'invente pas.
 
@@ -219,7 +219,7 @@ j'en ai eu 99.
 
 mais vous savez ce qui est vraiment légendaire ?
 
-![uncinq28](/img/uncinq28.png)
+![uncinq28](/img/uncinq/uncinq28.png)
 
 s'arrêter avant le 100.
 
@@ -238,4 +238,4 @@ guide à faire.
 
 sur ce :
 
-![uncinq26](/img/uncinq26.jpeg)
+![uncinq26](/img/uncinq/uncinq26.jpeg)

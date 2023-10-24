@@ -7,7 +7,7 @@ layout: post
 
 voici ce que les musiciens appellent le "cercle des quintes" :
 
-![mm 7](/img/mm_7.png)
+![mm 7](/img/mm/mm_7.png)
 {:.ioda}
 
 vous pouvez remarquer que les douze degrés de la gamme chromatique sont présents sont sur ce cercle.
@@ -24,7 +24,7 @@ l'utilité du cercle est de connaître immédiatement tous les accords d'une gam
 mettons par exemple qu'on s'intéresse à la gamme de fa majeur.
 on vient écrire les chiffres 4 1 5 2 6 3 7 ainsi autour du cercle :
 
-![mm 6](/img/mm_6.png)
+![mm 6](/img/mm/mm_6.png)
 {:.ioda}
 
 *les flèches vers le haut correspondent aux accords majeurs sur la fondamentale, les flèches vers le bas aux accords mineurs, le losange à l'accord diminué.*
@@ -38,7 +38,7 @@ jusqu'à mettre la fondamentale de la gamme recherché sous la flèche "1".
 
 pour faire la même chose avec une gamme mineure, il n'y a qu'à changer les indicateurs :
 
-![mm 5](/img/mm_5.png)
+![mm 5](/img/mm/mm_5.png)
 {:.ioda}
 
 #### création
@@ -57,21 +57,21 @@ il ne peut, en revanche, continuer à se coller à un éventuel "v" à sa droite
 
 voici un schéma recensant tous ces découpages :
 
-![mm](/img/mm.png)
+![mm](/img/mm/mm.png)
 {:.ioda}
 
 #### simplification
 
 regroupons-les par longueur dans un tableau :
 
-![mm 2](/img/mm_2.png)
+![mm 2](/img/mm/mm_2.png)
 {:.ioda}
 
 ---
 
 effaçons les répétitions (i-vi-i-vi peut devenir i-vi) ainsi que ceux semblables par permutation circulaire (eg. i-vi-iv-i = iv-i-i-vi).
 
-![mm 3](/img/mm_3.png)
+![mm 3](/img/mm/mm_3.png)
 {:.ioda}
 
 voici.
@@ -99,7 +99,7 @@ deuxième ensemble : quelques propriétés des degrés.
 
 en vert, les progressions qui respectent ces deux ensembles :
 
-![mm 4](/img/mm_4.png)
+![mm 4](/img/mm/mm_4.png)
 {:.ioda}
 
 #### programmation

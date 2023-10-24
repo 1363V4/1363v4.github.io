@@ -17,9 +17,9 @@ un sur cinq mais j'ai quand même slay the spire.
 
 environ 27h pour tuer le coeur.
 
-![deuxcinq1](/img/deuxcinq1.png)
+![deuxcinq1](/img/deuxcinq/deuxcinq1.png)
 
-![deuxcinq2](/img/deuxcinq2.png)
+![deuxcinq2](/img/deuxcinq/deuxcinq2.png)
 
 build hemokinesis.
 

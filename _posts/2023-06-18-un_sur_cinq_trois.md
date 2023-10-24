@@ -5,15 +5,15 @@ layout: post
 
 boom l'équipe. un sur cinq.
 
-![uncinqtrois1](/img/uncinqtrois1.jpeg)
+![uncinq31](/img/uncinq/uncinq31.jpeg)
 
 et avec la manière svp. 
 
 vilain mj sur un vilain alistar.
 
-![uncinqtrois2](/img/uncinqtrois2.jpeg)
+![uncinq32](/img/uncinq/uncinq32.jpeg)
 
-trois saisons de suite.
+3 saisons de suite.
 
 ---
 
@@ -25,7 +25,7 @@ mais j'avais un climb difficile. combinaison de elo hell + mauvaises conditions 
 
 voyez par vous-mêmes.
 
-![uncinqtrois3](/img/uncinqtrois3.jpeg)
+![uncinq33](/img/uncinq/uncinq33.jpeg)
 
 mais on l'a fait.
 

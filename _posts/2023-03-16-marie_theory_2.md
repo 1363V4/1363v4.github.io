@@ -33,11 +33,11 @@ l'un semble avoir un meilleur iv-v-i (voir iv-i-v-ii) que l'autre.
 
 nous obtenons enfin notre méta-cercle :
 
-![mm 8](/img/mm_8.png)
+![mm 8](/img/mm/mm_8.png)
 
 en mineur :
 
-![mm 9](/img/mm_9.png)
+![mm 9](/img/mm/mm_9.png)
 
 #### programmation
 
