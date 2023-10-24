@@ -4,3 +4,5 @@ et vous place devant le vide, que l'on porte en soi,
 cet espace d’insuffisance centrale de l'âme qu'il faut bien apprendre à côtoyer, 
 à combattre et qui paradoxalement est peut-être notre moteur le plus sûr.
 nicolas bouvier
+
+sur le moteur psychique
