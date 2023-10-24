@@ -19,4 +19,8 @@ je n'arrive pas à faire une prog simple
 
 don't despise small beginnings
 
-[ce que ça peut donner](/wav/interlude/darknet_master_un.wav).
+[un](/wav/interlude/darknet_master_un.wav)
+[un](/wav/interlude/fivemasterbizarre.wav)
+[un](/wav/interlude/thisisthree.wav)
+[un](/wav/interlude/thislonger.wav)
+[un](/wav/interlude/not_mosquito.wav)
