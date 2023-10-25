@@ -16,3 +16,15 @@ scraping wikipedia
 partie trois
 corriger les bugs
 dev en solo avec une direction aléatoire
+
+remarques finales
+le 1h stop a bien aidé
+je n'ai pas traité la partie intéressante
+graphe, chemins etc
+mais surtout webdev et jeu
+webdev pure js (jsquery ca compte)
+donc bon
+et jeu bah
+pas de courbe de difficulté apprentissage
+pas giga marrant
+des progrès à faire
