@@ -6,12 +6,11 @@ layout: post
 
 un script qui post les 4 vidéos animaux en cage sur insta tous les jours
 bot selenium, pickle pour les cookies, cronjob sur le pi ? 
-prendre un pouch au petit vapoteur
+prendre un pouch au petit vapoteur (en ont pas)
 Un couple IA :
 stable diffusion lora, vigogne plugged in sillytavern
 
 ---
-
 
 This is the equivalent of a toddler holding their breathe and turning blue to get what they want, but doing it without witness. Too comfy and secure with what they have to risk it, yet they must get their way or self-destruct to avoid the burden of experiencing a failed relationship first-hand. This is a strange, extreme cowardice.
 
@@ -59,7 +58,7 @@ I know a transsexual who only wants to eat, drink and be Mary.
 
 ---
 
-lumii porno
+lumii porno (boxxx)
 
 ---
 
@@ -77,7 +76,6 @@ semaine ré ok ? 25 - 31 mai
 appeler aegan 13-21 mai corfou
 visiblement on a déjà fait une expérience ia sur mtg
 nier que l'inné joue
-
 
 c'est le sel de la vie c'est le sel avide
 
