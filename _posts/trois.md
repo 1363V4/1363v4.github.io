@@ -3,7 +3,7 @@ title: trois sur cinq
 layout: post
 ---
 
-youpi mon jeu est fini
+[youpi mon jeu est fini](https://le.guide/autre/jeux/siisters.html)
 
 vous pouvez aller y jouer sur ce lien
 
