@@ -17,7 +17,7 @@ pour vous déplacer, vous pouvez cliquer sur les villes affichées en vert.
 ce sont les **villes jumelles** à votre ville actuelle.
 une fois déplacé, vous aurez accès aux villes jumelles de cette nouvelle ville.
 
-#### tbd
+#### todo
 
 - un vrai menu custom
     * ville de départ
