@@ -13,18 +13,18 @@ parlons ici du processus de dev
 
 #### intro
 
-faire un jeu web, c'était un des cinq défis
+faire un jeu web, c'était un des cinq défis (rappelez-vous)
 
 deux motivations :
 
-- c'est essentiel au game design.
+- c'est **essentiel** au game design.
 le but du jeu (avec un grand j), ce n'est pas de gagner, c'est d'être joué.
 comme je ne suis qu'un honnête pygame kiddie,
 j'avais du mal à partager mes jeux
 autrement qu'en les décrivant.
 donc : utliser ce ronflant décodeur universel
 qu'est le browser.
-- c'est un plan de première boîte solide.
+- c'est un plan de première boîte **solide**.
 des tas de startup recyclent des ui vilainement simples,
 faciles à renta en slappant stripe dessus,
 et fignolent l'ux (ou la finalité)
@@ -40,20 +40,20 @@ mais ça a servi de déclencheur : allez on s'y met.
 
 #### un
 
-d'abord, il a fallu s'attaquer à l'horreur : javascript.
+d'abord, il a fallu s'attaquer à l'horreur : **javascript**.
 
 j'en avais besoin pour utiliser un composant que je voulais
 dans mon ui finale : [globe.gl](https://globe.gl/)
 
 c'était pas si pénible à utiliser.
-en fait, c'est surtout la découverte des requêtes ajax qui a carry.
+en fait, c'est surtout la découverte des **requêtes ajax** qui a carry.
 ce truc permet de garder pas mal de logique côté python.
 
 pour faire une ui réactive, on a changé le css des blocks à la main.
 heureusement j'ai utilisé beaucoup d'identifiants et peu de classes.
-merci la philosophie pico css.
+merci la philosophie **pico css**.
 
-merci aussi la flexbox. 
+merci aussi la **flexbox**. 
 ce truc est super.
 j'ai mis longtemps à comprendre,
 jusqu'à ce que je réalise que l'inspecteur du navigateur
@@ -61,7 +61,7 @@ jusqu'à ce que je réalise que l'inspecteur du navigateur
 permet de jouer avec.
 
 oui car, et c'est important, j'ai commencé par host directement le truc.
-j'ai utilisé pythonanywhere, 
+j'ai utilisé **pythonanywhere**, 
 parce que je connaissais déjà render
 et que je savais pas si github pages allait marcher.
 
@@ -69,7 +69,7 @@ du coup, je devais reload le site à chaque changement.
 log des tas de trucs dans la console.
 attendre une plombe pour les logs d'erreur.
 j'ai bien galéré,
-à ne pas refaire.
+**à ne pas refaire.**
 
 #### deux
 
@@ -82,7 +82,7 @@ on a allègrement scrapé wikipedia,
 la page qui liste les villes jumelles d'un pays,
 depuis la page qui liste ces pages (c'est clair ?).
 
-rien que du classique : requests et bs4.
+rien que du classique : ``requests`` et ``bs4``.
 
 pour m'être renseigné,
 c'est du scraping à l'ancienne, mais ça suffisait.
@@ -93,12 +93,12 @@ pour celles qui avaient une fiche wiki,
 généralement c'était dedans.
 mais il en manquait une centaine.
 
-j'ai donc fait un script avec selenium
+j'ai donc fait un script avec ``selenium``
 pour utiliser un site spécialisé géoloc.
 ça s'est passé sans encombre.
 
-au total, on a récupéré 16000 villes,
-et pas loin de 80000 jumelages.
+au total, on a récupéré **16000** villes,
+et pas loin de **80000** jumelages.
 
 découverte amusante (non),
 wiki peut dire que la ville a est jumelée avec la b,
@@ -117,8 +117,8 @@ en simplifiant à la machette,
 et en passant un polish graphique.
 
 j'ai demandé à bing create pour le logo.
-il m'a halluciné un "siisters",
-qui a remplacé l'ancien nom, "jumelio".
+il m'a halluciné un *"siisters"*,
+qui a remplacé l'ancien nom, *"jumelio"*.
 
 et pour finir, on s'est amusé.
 finalement, c'est assez joli,
@@ -129,7 +129,7 @@ et un peu marrant.
 déjà, c'était du boulot.
 vous avez lu mon post précédent ?
 depuis j'ai mis une limite de temps d'écran.
-1h de jeux, 1h de propagande.
+1h de jeux, 1h de propagande **max**.
 ça a bien aidé.
 
 ensuite, c'est dur de dev en dilettante.
@@ -140,17 +140,17 @@ j'aurais aimé m'appuyer encore plus sur python,
 mais au moins j'ai évité les frameworks js
 et c'est déjà pas mal.
 
-je sais écrire du js maintenant
-mais je n'ai aucune idée de la puissance réelle de jquery.
+je sais écrire du js maintenant (un peu),
+mais je n'ai aucune idée de la puissance réelle de ``jquery``.
 
 enfin : je n'ai pas traité la partie intéressante.
 
-d'une part, la visualisation de données,
+d'une part, pas de **visualisation de données**,
 modéliser les jumelages en graphe,
 étudier les chemins, les stratégies etc.
 ça me viendra sûrement avec l'[advent of code](https://adventofcode.com/) le mois prochain.
 
-ensuite le jeu.
+et puis, pas de **game design**.
 il n'a pas de courbe de difficulté,
 aucune aide à l'apprentissage,
 il est pas giga marrant...
@@ -167,6 +167,6 @@ j'ai envie de recommencer.
 j'ai une idée. deux.
 on verra.
 
-et j'ai fait une pastèque en 3 try au jeu de la pastèque.
+*et j'ai fait une pastèque en 3 try au jeu de la pastèque.*
 
 c'est pas mal.
