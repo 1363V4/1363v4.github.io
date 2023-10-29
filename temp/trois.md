@@ -3,6 +3,8 @@ title: trois sur cinq
 layout: post
 ---
 
+#### youpi
+
 [youpi youpi mon jeu est fini](https://le.guide/autre/jeux/siisters.html)
 
 vous pouvez aller y jouer
@@ -15,7 +17,8 @@ faire un jeu web, c'était un des cinq défis
 
 deux motivations :
 
-- le but du jeu n'est pas de gagner, c'est d'être joué.
+- c'est essentiel au game design.
+le but du jeu (avec un grand j), ce n'est pas de gagner, c'est d'être joué.
 comme je ne suis qu'un honnête pygame kiddie,
 j'avais du mal à partager mes jeux
 autrement qu'en les décrivant.
@@ -24,7 +27,8 @@ qu'est le browser.
 - c'est un plan de première boîte solide.
 des tas de startup recyclent des ui vilainement simples,
 faciles à renta en slappant stripe dessus,
-et fignolent l'ux une fois le premier client accroché.
+et fignolent l'ux (ou la finalité)
+une fois le premier client accroché.
 
 on m'a demandé si je pouvais réaliser un app de survey web.
 
@@ -152,10 +156,10 @@ aucune aide à l'apprentissage,
 il est pas giga marrant...
 
 c'est dur.
-je vois des jeux magnifiques sortir,
+je vois des jeux magnifiques sortir :
 balatro,
 folder dungeon,
-chants of sennaar.
+chants of sennaar...
 
 quel art.
 
