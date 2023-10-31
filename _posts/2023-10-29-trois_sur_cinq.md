@@ -30,7 +30,7 @@ faciles à renta en slappant stripe dessus,
 et fignolent l'ux (ou la finalité)
 une fois le premier client accroché.
 
-on m'a demandé si je pouvais réaliser un app de survey web.
+bibi m'a demandé si je pouvais réaliser un app de survey web.
 
 et typiquement, les services existants
 hésiteraient pas à te faire un pricing premium
@@ -167,6 +167,8 @@ j'ai envie de recommencer.
 j'ai une idée. deux.
 on verra.
 
-*et j'ai fait une pastèque en 3 try au jeu de la pastèque.*
+et j'ai fait une pastèque en 3 try au jeu de la pastèque.
 
 c'est pas mal.
+
+*update : bibi l'a fait en deux*

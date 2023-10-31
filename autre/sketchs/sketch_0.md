@@ -5,11 +5,6 @@ layout: post
 
 > les sketchs wip
 
-un sujet = 3 minutes, 3 bonnes blagues
-louis ck abortion skit (more jobs, wade, eat it)
-un 5 minutes = 2 sujet (donc 120%)
-125 pour faire rentrer les callbacks
-
 je travaille sur des problématiques d'accessibilité 
 je parle à des gens et ils comprennent pas
 
@@ -148,3 +143,60 @@ vous pouvez huer : je suis parisien. oui je sais. j'adore dire ça, typiquement 
 cyber : disque dur mégabite.
 
 le concept de revendication alors que techniquement ils étaient pas là. c'est comme si j'arrive à l'euromillions et je revendique le jackpot. bah si j'ai toujours affiché mon intention d'avoir de la thune, j'ai publié des vidéos sur le sujet... t'arrives dans un bar je revendique deux bières. mais je condamne la facture. je m'en désolidarise complétement. non dans la vraie vie chaque cause a une conséquence, chaque conséquence une cause. c'est chaque jour plus vrai et c'est ça qui nous rend fou. tu peux te faire péter à 30 ans pour des trucs que t'as écris à 15. si t'es blanc et riche c'est peut-être qu'il y a 200 ans t'as fait de l'esclavage. si t'es roux aujourd'hui c'est parce qu'il y a 800 millions d'années un singe s'est dit tiens j'vais me taper un renard. chaque cause une conséquence, chaque conséquence une cause. et comme le présent n'est que la conclusion du passé, on remonte toujours plus loin dans les causes, toujours plus loin dans le passé, jusqu'à la cause des causes, dieu. parce que c'est quand meme pour lui qu'ils se font exploser. parce qu'à l'origine, dieu a fait l'univers, il a fait la terre et il a dit ça joue ! eeeeet c'est parti ! chacun pour soi, personne ne sort allez allez on attrape la queue du mickey. c'est d'ailleurs pour ça que la terre tourne : c'est un manège.
+
+je travaille dans la sécurité. 
+la "cyber" sécurité
+et là vous vous dites [i] ah
+[i] nan mais par rapport à son physique je me demandais
+[i] là c'est plus clair.
+rigole pas trop je vois ton historique.
+c'est moi qui ai le micro si je veux je dis à tout le monde. [p]
+lors de l'entretien d'embauche la drh m'a demandé
+quelle est votre plus grande qualité ?
+je suis parano.
+j'réponds pas au téléphone
+j'ai un mot de passe qui fait 128 caractères
+42 minuscules, 13 majuscules, 49 caractères spéciaux,
+20 caractères très spéciaux 
+avec tu sais le... le y qui encule un n un peu..
+et 4 hiéroglyphes,
+et le soir avant de dormir 
+je mets mon ordi dans le frigo.
+elle me dit : je vois, c'est bien,
+et c'est là qu'elle me demande [j]
+et votre plus grand défaut ?
+je prends beaucoup de photos de ma bite. [p]
+énormément, chez moi le disque dur il est dur,
+vraiment, mégabite c'est pas le stockage c'est le contenu.
+grivaux il est tombé pour une photo de sa bite, une !
+moi je fais des albums souvenirs !
+[lp]
+elle me dit je sais j'ai vu votre linkedin. [p]
+vous commencez demain. [lp]
+alors attention : je suis parano, pas complotiste.
+un complotiste c'est quelqu'un qui pense qu'on est jamais allé sur la lune,
+un parano c'est quelqu'un qui pense qu'on y est encore.
+qu'ils y sont tous encore !
+qu'on nous a laissé là avec les robots !
+par exemple macron entre les deux mandats
+ils l'ont changé par un robot. ça se voit !
+le robot est vachement plus chaleureux !
+le parano c'est quelqu'un pendant le covid
+il vapotait du gel hydro.
+[i] ils m'auront pas... (puff) ah ça nettoie.
+le parano quand ça sonne chez lui
+il pense que c'est son compteur linky.
+[i] oui maître
+[i] j'attendais votre appel maître.
+[i] bien maître, entendu maître
+[i] au spotlight à 21h c'est noté maître.
+
+si ça se trouve [p] poutine [p]
+il a pas fait exprès.
+non mais c'est une théorie je trouve qu'on l'entend jamais
+c'est bizarre non ? alors que si ça se trouve.
+en plus les russes ils ont un problème avec l'alcool.
+si ça se trouve poutine en gueule de bois il a dit à un gars
+[i] trouve moi quelque chose pour refroidir le crâne
+l'autre il a entendu "envahir l'ukraine".
+si ça se trouve !
