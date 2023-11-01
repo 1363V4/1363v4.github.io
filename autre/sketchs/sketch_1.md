@@ -41,6 +41,14 @@ sinon je suis pas trop dépaysé.
 parce qu'ici la bière fait 6 %
 alors qu'hidalgo non.
 
+j'aimerais bien faire ça un jour,
+lancer une marque de bières aux éléctions,
+et le pourcentage d'alcool c'est le score du candidat.
+
+[h] tiens prends une binche
+[i] nah c'est gentil mais je dois rentrer en voiture
+[h] tkt c'est une pécresse
+
 y'a autre chose qui fait 6 % c'est l'inflation.
 [p]
 d'ailleurs ce soir y'aura 10 % de blagues en moins.
