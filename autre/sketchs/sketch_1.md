@@ -5,28 +5,29 @@ layout: post
 
 > les sketchs faits
 
-#### inflation
+#### inflation / lille
 
-vous avez vu c'était halloween y'a pas longtemps
+c'était halloween y'a pas longtemps
 [p]
 non parce que j'en vois qui ont gardé les masques.
+[p]
+[j] c'était bien vous avez eu des bonbons ?
+pas assez hein.
 
-y'en a qui galèrent en ce moment ?
-moi c'est un peu galère à cause de l'inflation.
+après je comprends. 
+avec l'inflation la bouffe est chère.
 [p]
 d'ailleurs ce soir y'aura 10 % de blagues en moins.
 je préfère prévenir.
 faut bien que je vive.
 
-je vais vous partager mes astuces anti-inflation.
-la première alors,
-elle s'applique pas à tout le monde,
-mais elle permet d'économiser sur le chauffage.
+[h] moi c'est surtout pour le chauffage que c'est cher,
+mais j'ai une astuce.
+elle est un peu dure à mettre en place
+mais je vais vous expliquer.
 
-comment ça marche ?
-vous appelez un comedy club
-et vous leur dites que vous avez un sketch de 5 minutes
-[p]
+vous appelez un comedy club [p]
+vous leur dites que vous avez un sketch de 5 minutes [p]
 et vous essayez de rester le plus longtemps possible
 [lp]
 hier j'ai tenu une heure.
@@ -38,15 +39,16 @@ en plus en ce moment c'est les heures pleines.
 deuxième astuce pour économiser le chauffage
 si vous êtes en couple
 faites l'amour !
+nan mais je dis y'en a qui savent pas.
 [p]
 hier j'ai tenu trente secondes.
 
-moi je me chauffe au gaz.
+pour rien arranger, je me chauffe au gaz.
 le prix a beaucoup augmenté.
 bientôt le briquet sera plus cher que les clopes.
 
 [i] vous avez du feu ?
-[i] eh oh eh [p] mollo !
+[i] eh oh eh [p] y'a pas marqué bezos !
 
 le gaz qui augmente, c'est à cause de la guerre en ukraine.
 mais si ça se trouve [p] poutine [p]
@@ -61,14 +63,19 @@ si ça se trouve !
 
 ---
 
-je suis parisien.
-les gens aiment pas trop les parisiens.
-parfois ils me jettent des frites.
+je devrais pas le dire mais je suis parisien.
+en même temps ça se voit,
+j'ai la gueule d'un type si tu lui dis bonjour ça le fait chier.
 
+[i] il fait beau aujourd'hui !
+[i] ouais mais on peut se garer nulle part, putain, hidalgo, putain, sacrebleu
+
+les gens aiment pas trop les parisiens.
 les gens ont peur que je vienne chercher un appart,
 que je fasse monter le prix de l'immobilier
 [p]
-et ils ont aussi peur que je ramène des punaises de lit.
+et maintenant ils ont aussi peur que je ramène des punaises de lit.
+[i]
 ça fait un mix étrange
 [i] dégage de lo avec ton argent pi ta crasse
 [i] 'spèce de riche pouilleux
@@ -82,7 +89,7 @@ ils cherchent pas un appart ils cherchent un refuge
 [i] du welsh, des cheeseburgers, des tartines au maroilles
 [i] et parfois, pour changer, du fromage sur du pain
 
-faut s'abriter du froid et aussi de la pluie
+faut s'abriter du froid mais surtout de la pluie
 ça j'ai vite compris.
 il pleut, il pleut,
 j'ai très vite compris pourquoi ça s'appelait lille.
@@ -97,6 +104,8 @@ sinon je suis pas trop dépaysé.
 à part pour la bière. [p]
 parce qu'ici la bière fait 6 %
 alors qu'hidalgo non.
+
+---
 
 dernière astuce anti-inflation :
 pareil ça s'applique pas à tout le monde mais je recommande,
