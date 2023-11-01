@@ -200,3 +200,11 @@ si ça se trouve poutine en gueule de bois il a dit à un gars
 [i] trouve moi quelque chose pour refroidir le crâne
 l'autre il a entendu "envahir l'ukraine".
 si ça se trouve !
+
+[cdef]
+on prend tt le temps des photos
+si on avait des caméras dans les yeux
+les meufs seraient là belle bit (blink blink)
+avec une voix qui sort de l'oeil
+"photo envoyée à sandra et magalie"
+et les hommes... à peu près la même tête.
