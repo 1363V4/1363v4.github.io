@@ -52,10 +52,20 @@ le prix a beaucoup augmenté.
 bientôt le briquet sera plus cher que les clopes.
 
 [i] vous avez du feu ?
+[i] eh oh eh [p] mollo !
 
-y'a la guerre partout.
-c'est terrible...
-pour le bilan carbone
+le gaz qui augmente, c'est à cause de la guerre en ukraine.
+mais si ça se trouve [p] poutine [p]
+il a pas fait exprès.
+non mais c'est une théorie je trouve qu'on l'entend jamais
+c'est bizarre non ? alors que si ça se trouve.
+en plus les russes ils ont un problème avec l'alcool.
+si ça se trouve poutine en gueule de bois il a dit à un gars
+[i] trouve moi quelque chose pour refroidir le crâne
+l'autre il a entendu "envahir l'ukraine".
+si ça se trouve !
+
+---
 
 je suis parisien.
 les gens aiment pas trop les parisiens.
@@ -90,6 +100,9 @@ il paraît qu'ils sont énervés là-bas.
 ça doit être pour ça.
 
 sinon je suis pas trop dépaysé.
+à part pour la bière. [p]
+parce qu'ici la bière fait 6 %
+alors qu'hidalgo non.
 
 dernière astuce anti-inflation :
 pareil ça s'applique pas à tout le monde mais je recommande,

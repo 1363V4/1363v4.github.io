@@ -191,16 +191,6 @@ il pense que c'est son compteur linky.
 [i] bien maître, entendu maître
 [i] au spotlight à 21h c'est noté maître.
 
-si ça se trouve [p] poutine [p]
-il a pas fait exprès.
-non mais c'est une théorie je trouve qu'on l'entend jamais
-c'est bizarre non ? alors que si ça se trouve.
-en plus les russes ils ont un problème avec l'alcool.
-si ça se trouve poutine en gueule de bois il a dit à un gars
-[i] trouve moi quelque chose pour refroidir le crâne
-l'autre il a entendu "envahir l'ukraine".
-si ça se trouve !
-
 [cdef]
 on prend tt le temps des photos
 si on avait des caméras dans les yeux
@@ -208,3 +198,7 @@ les meufs seraient là belle bit (blink blink)
 avec une voix qui sort de l'oeil
 "photo envoyée à sandra et magalie"
 et les hommes... à peu près la même tête.
+
+y'a la guerre partout.
+c'est terrible...
+pour le bilan carbone
