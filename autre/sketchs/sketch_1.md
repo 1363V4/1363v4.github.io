@@ -11,15 +11,12 @@ vous avez vu c'était halloween y'a pas longtemps
 [p]
 non parce que j'en vois qui ont gardé les masques.
 
-y'a beaucoup d'inflation en ce moment,
-à cause de l'inflation
+y'en a qui galèrent en ce moment ?
+moi c'est un peu galère à cause de l'inflation.
 [p]
-y'aura 10 % de blagues en moins.
+d'ailleurs ce soir y'aura 10 % de blagues en moins.
 je préfère prévenir.
-
-il paraît maintenant que l'inflation augmente.
-y'a de l'inflation sur l'inflation.
-on peut même plus se payer une inflation tranquille.
+faut bien que je vive.
 
 je vais vous partager mes astuces anti-inflation.
 la première alors,
@@ -43,9 +40,6 @@ si vous êtes en couple
 faites l'amour !
 [p]
 hier j'ai tenu trente secondes.
-
-[j] y'a des couples ce soir ?
-vous avez des astuces pour économiser le chauffage ?
 
 moi je me chauffe au gaz.
 le prix a beaucoup augmenté.
