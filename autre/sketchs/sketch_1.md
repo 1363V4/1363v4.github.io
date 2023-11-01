@@ -75,19 +75,13 @@ les gens riaient neerveusement bah un peu comme vous là
 en plus en ce moment c'est les heures pleines
 c'est bénéf.
 
-deuxième astuce pour économiser le chauffage
-si vous êtes en couple
-faites l'amour !
-nan mais je dis y'en a qui savent pas.
-[p]
-hier j'ai tenu trente secondes.
-
 pour rien arranger, je me chauffe au gaz.
 le prix a beaucoup augmenté.
 bientôt le briquet sera plus cher que les clopes.
 
 [i] vous avez du feu ?
 [h] eh oh eh [p] y'a pas marqué bezos !
+[h] s'tu veux j'te pète dessus mais...
 
 le gaz qui augmente, c'est à cause de la guerre en ukraine.
 mais si ça se trouve [p] poutine [p] la guerre [p]
@@ -100,11 +94,10 @@ si ça se trouve poutine en gueule de bois il a dit à un gars
 l'autre il a entendu "envahir l'ukraine".
 si ça se trouve !
 
-autre astuce anti-inflation :
-pareil ça s'applique pas à tout le monde mais je recommande,
+dernière astuce anti-inflation,
+un peu risquée mais bénéf :
 écrire ses blagues avec chat gpt
 [lp]
-pratique
 alors attention gpt4.
 il est plus intelligent.
 gpt3 il écrit un peu comme... comique précédent.
