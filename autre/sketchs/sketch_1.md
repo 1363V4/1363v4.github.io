@@ -14,7 +14,8 @@ non parce que j'en vois qui ont gardé les masques.
 j'aime bien me foutre de la tête des gens,
 alors qu'en vrai j'ai pas de quoi.
 parce que je suis parisien.
-j'ai la gueule d'un type si tu lui dis bonjour ça le fait chier.
+j'ai la gueule d'un type 
+tu lui dis bonjour ça l'emmerde.
 
 [i] il fait beau aujourd'hui !
 [i] ouais putain, mais on peut se garer nulle part putain, 
