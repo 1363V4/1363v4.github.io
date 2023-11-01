@@ -26,8 +26,10 @@ que je fasse monter le prix de l'immobilier
 [p]
 et maintenant ils ont aussi peur que je ramène des punaises de lit.
 [i]
-ça fait un mix étrange
-[i] dégage de lo avec ton argent pi ta crasse
+mais moi je vous rassure (gratte)
+tout va bien (gratte)
+de toute façon ça supporte pas le froid alors (gratte)
+no souci !
 
 heureusement j'ai trouvé un appart.
 heureusement parce qu'il pleut.
