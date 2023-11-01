@@ -13,13 +13,13 @@ non parce que j'en vois qui ont gardé les masques.
 
 j'aime bien me foutre de la tête des gens,
 alors qu'en vrai j'ai pas de quoi.
-parce que je suis parisien.
+moi, je suis parisien.
 j'ai la gueule d'un type 
 tu lui dis bonjour ça l'emmerde.
 
 [i] il fait beau aujourd'hui !
 [i] ouais putain, mais on peut se garer nulle part putain, 
-[i] putain hidalgo jo fashion week bordel merde
+[i] putain hidalgo les jo la fashion week bordel merde
 
 les gens aiment pas trop les parisiens.
 les gens ont peur que je vienne chercher un appart,
@@ -40,9 +40,9 @@ j'ai très vite compris pourquoi ça s'appelait lille.
 on est entouré d'eau.
 
 sinon je suis pas trop dépaysé.
-à part pour la bière. [p]
-parce qu'ici la bière fait 6 %
-alors qu'hidalgo non.
+vous avez une maire socialiste, on a une maire socialiste,
+vous avez des bières à 6 %,
+on a une maire socialiste à... 1,7 %.
 
 j'aimerais bien faire ça un jour,
 lancer une marque de bières aux éléctions,
@@ -70,18 +70,17 @@ et vous essayez de rester le plus longtemps possible
 [lp]
 hier j'ai tenu une heure.
 [lp]
-les gens riaient neerveusement bah un peu comme vous là
+les gens riaient nerveusement bah un peu comme vous là
 [p]
 en plus en ce moment c'est les heures pleines
 c'est bénéf.
 
 pour rien arranger, je me chauffe au gaz.
-le prix a beaucoup augmenté.
+le gaz c'est devenu cher !
 bientôt le briquet sera plus cher que les clopes.
 
 [i] vous avez du feu ?
-[h] eh oh eh [p] y'a pas marqué bezos !
-[h] s'tu veux j'te pète dessus mais...
+[h] eh oh eh [p] y'a pas marqué jeff bezos !
 
 le gaz qui augmente, c'est à cause de la guerre en ukraine.
 mais si ça se trouve [p] poutine [p] la guerre [p]
@@ -93,21 +92,3 @@ si ça se trouve poutine en gueule de bois il a dit à un gars
 [i] trouve moi quelque chose pour refroidir le crâne
 l'autre il a entendu "envahir l'ukraine".
 si ça se trouve !
-
-dernière astuce anti-inflation,
-un peu risquée mais bénéf :
-écrire ses blagues avec chat gpt
-[lp]
-alors attention gpt4.
-il est plus intelligent.
-gpt3 il écrit un peu comme... comique précédent.
-je vais vous donner un exemple :
-chatgpt, écris moi une blague
-là on attend [p]
-kylian mbappé est né à bondy.
-il aurait mieux fait de faire du basket.
-[p]
-j'espère que ces blagues vous aideront à faire rire votre public,
-n'oubliez pas de remercier et de présenter le comique suivant,
-mesdames et messieurs c'est tout pour moi,
-merci de faire un triomphe à ... comique suivant !
