@@ -11,15 +11,10 @@ layout: post
 moi ça va tranquille.
 j'suis venu en planche à voile.
 
-tempête cirian pas kylian.
-kylian il court vite d'accord
-mais 140 km/h...
+vous avez passé un bon halloween ?
+vous avez gardé les masques ?
 
-kylian m'bappé j'ai toujours eu un problème avec ce type.
-il est né à bondy [p]
-et quand tu nais à bondy tu dois faire du [p] basket.
-
-moi je suis né à paris. ça se voit.
+je suis né à paris. ça se voit.
 j'ai la gueule d'un type 
 tu lui dis bonjour ça l'emmerde.
 
@@ -90,7 +85,7 @@ c'est bénéf.
 
 pour rien arranger, je me chauffe au gaz.
 le gaz c'est devenu cher !
-bientôt le briquet sera plus cher que les clopes.
+bientôt les clopes seront moins cher que le briquet.
 
 [i] vous avez du feu ?
 [h] eh oh eh [p] y'a pas écrit jeff bezos !
