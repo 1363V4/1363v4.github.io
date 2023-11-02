@@ -8,8 +8,8 @@ layout: post
 #### lille / inflation
 
 [h] ça va le spotlight ?
-moi ouais j'ai un peu galéré à m'garer.
-je suis venu en planche à voile.
+moi ça va tranquille.
+j'suis venu en planche à voile.
 
 tempête cirian pas kylian.
 kylian il court vite d'accord
@@ -17,9 +17,9 @@ mais 140 km/h...
 
 kylian m'bappe j'ai toujours eu un problème avec ce type.
 il est né à bondy [p]
-il aurait dû faire du basket.
+et quand tu nais à bondy tu dois faire du [p] basket.
 
-moi je suis né à paris.
+moi je suis né à paris. ça se voit.
 j'ai la gueule d'un type 
 tu lui dis bonjour ça l'emmerde.
 
@@ -34,22 +34,24 @@ parce que le docteur m'a dit
 pour tuer les punaises de lit.
 
 et j'aime bien lille. je suis pas dépaysé !
-beaucoup de points communs !
-chez nous c'est l'île de france et chez vous c'est lille...
+beaucoup de points communs entre
+l'île de france et lille...
 [p]
-parce que t'es entouré d'eau.
+l'île tout court, t'es entouré d'eau.
 fait que pleuvoir.
 
 beaucoup de points communs, regardez.
-composition d'un sandwich parisien :
-pain, fromage, jambon
 composition d'un welsh lillois :
+pain, fromage, jambon
+composition d'un sandwich parisien :
 pain, fromage, jambon
 
 vraiment, beaucoup de points communs.
-vous avez une maire socialiste, on a une maire socialiste,
-vous avez des bières à 6, 7 %,
-on a une maire socialiste à... 1,7 %.
+vous avez une maire socialiste que vous adorez,  
+on a une maire socialiste [p]
+
+vous avez des bières qui font du 7 %,
+on a une maire socialiste qui fait du... 1,7 %
 
 j'aimerais bien faire ça un jour,
 lancer une marque de bières aux élections,
@@ -60,13 +62,14 @@ et le pourcentage d'alcool c'est le score du candidat.
 [h] tkt c'est une pécresse [p]
 c'est une blonde à 4 % [p]
 après en brune j'ai la hidalgo, pas fort non plus,
-et alors, en ambrée, j'ai la quatennens [lp]
+après si tu restes, en ambrée, j'ai la quatennens [lp]
 mais attention elle tabasse.
 
 y'a autre chose qui fait 6 % c'est l'inflation.
+la vie est chère.
 [p]
-d'ailleurs ce soir y'aura 10 % de blagues en moins.
-je préfère prévenir.
+moi ce soir je fais 10 % de blagues en moins.
+obligé !
 
 alors, pour économiser sur le chauffage,
 j'ai une astuce.
@@ -90,7 +93,7 @@ le gaz c'est devenu cher !
 bientôt le briquet sera plus cher que les clopes.
 
 [i] vous avez du feu ?
-[h] eh oh eh [p] y'a pas marqué jeff bezos !
+[h] eh oh eh [p] y'a pas écrit jeff bezos !
 
 le gaz qui augmente, c'est à cause de la guerre en ukraine.
 mais si ça se trouve [p] poutine [p] la guerre [p]
