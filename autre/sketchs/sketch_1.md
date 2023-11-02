@@ -9,7 +9,7 @@ layout: post
 
 vous avez passé un bon halloween ?
 [p]
-non parce que j'en vois qui ont gardé les masques.
+j'en vois certains qui ont gardé les masques.
 
 j'aime bien me foutre de la tête des gens,
 alors qu'en vrai j'ai pas de quoi.
@@ -26,7 +26,10 @@ les gens ont peur que je vienne chercher un appart,
 que je fasse monter le prix de l'immobilier
 [p]
 et maintenant ils ont aussi peur que je ramène des punaises de lit.
-[i]
+j'ai visité un appart
+ils avaient retiré les matelas.
+je dis : c'était pas un meublé ??
+il a fait : ah... [p]
 mais moi je vous rassure (gratte)
 tout va bien (gratte)
 de toute façon ça supporte pas le froid alors (gratte)
@@ -45,12 +48,16 @@ vous avez des bières à 6 %,
 on a une maire socialiste à... 1,7 %.
 
 j'aimerais bien faire ça un jour,
-lancer une marque de bières aux éléctions,
+lancer une marque de bières aux élections,
 et le pourcentage d'alcool c'est le score du candidat.
 
-[h] tiens prends une binche
+[h] qu'est-ce que tu veux comme bière ?
 [i] nah c'est gentil mais je dois rentrer en voiture
-[h] tkt c'est une pécresse
+[h] tkt c'est une pécresse [p]
+c'est une blonde à 4 % [p]
+après en brune j'ai la hidalgo, pas fort non plus,
+et alors, en ambrée, j'ai la quatennens [lp]
+mais attention elle tabasse.
 
 y'a autre chose qui fait 6 % c'est l'inflation.
 [p]
