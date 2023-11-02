@@ -7,7 +7,7 @@ layout: post
 
 #### lille / inflation
 
-[h] ça va le spotlight ?
+ça va le spotlight ?
 moi ça va tranquille.
 j'suis venu en planche à voile.
 
@@ -15,7 +15,7 @@ tempête cirian pas kylian.
 kylian il court vite d'accord
 mais 140 km/h...
 
-kylian m'bappe j'ai toujours eu un problème avec ce type.
+kylian m'bappé j'ai toujours eu un problème avec ce type.
 il est né à bondy [p]
 et quand tu nais à bondy tu dois faire du [p] basket.
 
@@ -38,7 +38,7 @@ beaucoup de points communs entre
 l'île de france et lille...
 [p]
 l'île tout court, t'es entouré d'eau.
-fait que pleuvoir.
+fait que pleuvoir. à gauche à droite.
 
 beaucoup de points communs, regardez.
 composition d'un welsh lillois :
