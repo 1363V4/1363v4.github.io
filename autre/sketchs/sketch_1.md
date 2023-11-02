@@ -8,46 +8,47 @@ layout: post
 #### lille / inflation
 
 [h] ça va le spotlight ?
-moi ouais j'ai un peu galéré à venir.
+moi ouais j'ai un peu galéré à m'garer.
 je suis venu en planche à voile.
 
 tempête cirian pas kylian.
+kylian il court vite d'accord
+mais 140 km/h...
+
 kylian m'bappe j'ai toujours eu un problème avec ce type.
 il est né à bondy [p]
 il aurait dû faire du basket.
 
-vous avez passé un bon halloween ?
-[p]
-j'en vois certains qui ont gardé les masques.
-
-sur le sujet de la tête des gens,
-moi, je suis parisien.
+moi je suis né à paris.
 j'ai la gueule d'un type 
 tu lui dis bonjour ça l'emmerde.
 
-[i] il fait beau aujourd'hui !
-[i] ouais putain, mais on peut se garer nulle part putain, 
-[i] putain hidalgo les jo la fashion week bordel merde
+[i] belle journée aujourd'hui !
+[h] ouais mais on peut se garer nulle part putain hidalgo
+[i] vivement l'été !
+[h] oh nan pas l'été y'aura les jo putain
 
-les gens aiment pas trop les parisiens.
-les gens ont peur que je fasse monter le prix de l'immobilier
+j'ai déménagé à lille pour raisons médicales.
+parce que le docteur m'a dit
+-20 ° c'est la température qu'il vous faut [p]
+pour tuer les punaises de lit.
+
+et j'aime bien lille. je suis pas dépaysé !
+beaucoup de points communs !
+chez nous c'est l'île de france et chez vous c'est lille...
 [p]
-et maintenant ils ont aussi peur que je ramène des punaises de lit.
-mais moi je vous rassure (gratte)
-tout va bien (gratte)
-de toute façon ça supporte pas le froid alors (gratte)
-no souci !
+parce que t'es entouré d'eau.
+fait que pleuvoir.
 
-heureusement j'ai trouvé un appart.
-heureusement parce qu'il pleut.
-sa mère !
-il pleut, il pleut,
-j'ai très vite compris pourquoi ça s'appelait lille.
-on est entouré d'eau.
+beaucoup de points communs, regardez.
+composition d'un sandwich parisien :
+pain, fromage, jambon
+composition d'un welsh lillois :
+pain, fromage, jambon
 
-sinon je suis pas trop dépaysé.
+vraiment, beaucoup de points communs.
 vous avez une maire socialiste, on a une maire socialiste,
-vous avez des bières à 6 %,
+vous avez des bières à 6, 7 %,
 on a une maire socialiste à... 1,7 %.
 
 j'aimerais bien faire ça un jour,
@@ -66,7 +67,6 @@ y'a autre chose qui fait 6 % c'est l'inflation.
 [p]
 d'ailleurs ce soir y'aura 10 % de blagues en moins.
 je préfère prévenir.
-faut bien que je vive.
 
 alors, pour économiser sur le chauffage,
 j'ai une astuce.
