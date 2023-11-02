@@ -7,12 +7,20 @@ layout: post
 
 #### lille / inflation
 
+[h] ça va le spotlight ?
+moi ouais j'ai un peu galéré à venir.
+je suis venu en planche à voile.
+
+tempête cirian pas kylian.
+kylian m'bappe j'ai toujours eu un problème avec ce type.
+il est né à bondy [p]
+il aurait dû faire du basket.
+
 vous avez passé un bon halloween ?
 [p]
 j'en vois certains qui ont gardé les masques.
 
-j'aime bien me foutre de la tête des gens,
-alors qu'en vrai j'ai pas de quoi.
+sur le sujet de la tête des gens,
 moi, je suis parisien.
 j'ai la gueule d'un type 
 tu lui dis bonjour ça l'emmerde.
@@ -22,14 +30,9 @@ tu lui dis bonjour ça l'emmerde.
 [i] putain hidalgo les jo la fashion week bordel merde
 
 les gens aiment pas trop les parisiens.
-les gens ont peur que je vienne chercher un appart,
-que je fasse monter le prix de l'immobilier
+les gens ont peur que je fasse monter le prix de l'immobilier
 [p]
 et maintenant ils ont aussi peur que je ramène des punaises de lit.
-j'ai visité un appart
-ils avaient retiré les matelas.
-je dis : c'était pas un meublé ??
-il a fait : ah... [p]
 mais moi je vous rassure (gratte)
 tout va bien (gratte)
 de toute façon ça supporte pas le froid alors (gratte)
