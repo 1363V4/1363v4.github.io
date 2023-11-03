@@ -19,7 +19,7 @@ c'est  d’articuler un son trop fort et trop près,
 
 guère plus pratiqué que par des fosses à foutre.
 
-ô que ma quille éclate ! ô que j’aille à saint-trop' !
+ô que ma quille éclate ! que j’aille à saint-tropez !
 
 ---
 
