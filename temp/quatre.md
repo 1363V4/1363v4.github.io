@@ -62,3 +62,6 @@ ce que j'ai préféré c'est mes remerciements
 trouver le phrasé : parler à ses potes
 le public : cinq ans avant on les voyait aussi
 
+finalement l'alcool
+différence fondamentale
+plus d'alcool, comment faire sans
