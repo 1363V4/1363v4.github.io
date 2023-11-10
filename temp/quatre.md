@@ -21,11 +21,17 @@ les autres humours,
 le personnage, l'intellectuel, le méchant,
 je connais.
 
-mais bon, j'ai sorti un texte.
+mais bon, j'ai sorti un texte : (lille/inflation.)
+
+je l'ai modifié jusqu'à la dernière minute.
 
 ensuite, je l'ai peu répété.
 c'est toujours un peu génant.
 j'ai du mal.
+
+heureusement, je l'ai fait une fois.
+il a fallu tout changer l'ordre,
+un texte cerveau semble naturel mais croyez-moi non.
 
 mais je l'ai appris vite. c'est déjà ça.
 
@@ -65,6 +71,9 @@ l'empire du côté obscur pendant que je regardais
 la pluie tomber. c'était cool.
 
 #### après
+
+je suis allé fumer. engueulade dehors.
+la coulisse on prend des tirs (hehe).
 
 ensuite, j'ai commencé à prendre des notes
 tout en papotant avec les autres comiques.
