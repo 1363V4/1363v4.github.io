@@ -1,0 +1,6 @@
+---
+title: cinq
+layout: post
+---
+
+...

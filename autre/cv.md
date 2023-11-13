@@ -10,15 +10,7 @@ layout: post
 
 - analyse de risque
 - gestion de projet
-- amoa
-- amoe
-- audit cyber
-
-### points forts
-
-- capacités décisionnelles et synthétiques
-- sens de la responsabilité
-- organisation
+- audit / conformité
 
 ## expérience professionnelle
 
@@ -35,27 +27,30 @@ layout: post
 - elis
 - radio france
 - afm téléthon
+- sopra steria
 
 #### missions
 
-- modélisation du risque cyber sur un parc informatique étendu à l’aide de réseaux bayésiens
-- définition du socle de sécurité de la design authority software
-- gestion des risques dans les projets et outils d’agrégation sur les impacts métiers
+- modélisation du risque cyber sur un parc informatique étendu
+- design du socle de sécurité d'une design authority software
+- gestion des risques et outils d’agrégation sur les impacts métiers
 - accompagnement à la rédaction d’un rfp pour un soc à périmètre mondial
-- définition et mise en place d’une solution d’anonymisation rgpd
+- design et implémentation d’une solution d’anonymisation rgpd
 
 ## formation
 
 ingénieur généraliste / **école centrale paris** / châtenay-malabry / promotion 2020
 
-> **projet personnel** (eyeroes)
-> design de solutions numériques innovantes pour traiter l’amblyopie
-> lauréat du challenge startup de l’université paris-saclay 2020
-> prix de l’innovation au hackathon leem / pépite france 2019
-
 classe préparatoire / **lycée sainte-geneviève** / versailles
 
 baccalauréat scientifique / **lycée louis-le-grand** / paris
+
+> **projet personnel**
+> design de solutions numériques innovantes pour traiter l’amblyopie
+
+> lauréat du challenge startup de l’université paris-saclay 2020
+
+> prix de l’innovation au hackathon leem / pépite france 2019
 
 ## langues
 
@@ -65,31 +60,29 @@ baccalauréat scientifique / **lycée louis-le-grand** / paris
 
 ## compétences techniques
 
-- nist csf
-- iso 27001 *(certification li)*
-- iso 27005
-- ii901
+- iso 27001 *(certification li)*, 27002, 27005, 21434
+- mitre (att&ck / d3fend)
+- smile / genie
 - ebios rm
-- devsecops
-- rgpd
-- genie
+- nist csf
 
 ## développement informatique
 
 ### python
 
+- numpy / scipy
 - pygame
-- gym
+- pillow
 - opencv
 - pandas
-- requests
-- numpy
-- pillow
+- flask
+- gym
 
 ### web
 
 - html
 - css
+- js
 
 ## centres d’intérêts
 
