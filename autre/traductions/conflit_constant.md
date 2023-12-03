@@ -7,318 +7,93 @@ layout: post
 
 we have entered an age of constant conflict. information is at once our core commodity and the most destabilizing factor of our time. until now, history has been a quest to acquire information; today, the challenge lies in managing information. those of us who can sort, digest, synthesize, and apply relevant knowledge soar - professionally, financially, politically, militarily, and socially. we, the winners, are a minority.
 
-for the world masses, devastated by information they cannot manage or effectively interpret, life is "nasty, brutish...
-and short-circuited." the general pace of change is overwhelming, and information is both the motor and signifier of
-change. those humans, in every country and region, who cannot understand the new world, or who cannot profit from
-its uncertainties, or who cannot reconcile themselves to its dynamics, will become the violent enemies of their
-inadequate governments, of their more fortunate neighbors, and ultimately of the united states. we are entering a new
-american century, in which we will become still wealthier, culturally more lethal, and increasingly powerful. we will
-excite hatreds without precedent.
+for the world masses, devastated by information they cannot manage or effectively interpret, life is "nasty, brutish...and short-circuited." the general pace of change is overwhelming, and information is both the motor and signifier of change. those humans, in every country and region, who cannot understand the new world, or who cannot profit from its uncertainties, or who cannot reconcile themselves to its dynamics, will become the violent enemies of their inadequate governments, of their more fortunate neighbors, and ultimately of the united states. we are entering a new american century, in which we will become still wealthier, culturally more lethal, and increasingly powerful. we will excite hatreds without precedent.
 
-we live in an age of multiple truths. he who warns of the "clash of civilizations" is incontestably right;
-simultaneously, we shall see higher levels of constructive trafficking between civilizations than ever before. the future
-is bright - and it is also very dark. more men and women will enjoy health and prosperity than ever before, yet more
-will live in poverty or tumult, if only because of the ferocity of demographics. there will be more democracy - that deft
-liberal form of imperialism - and greater popular refusal of democracy. one of the defining bifurcations of the future
+we live in an age of multiple truths. he who warns of the "clash of civilizations" is incontestably right; simultaneously, we shall see higher levels of constructive trafficking between civilizations than ever before. the future is bright - and it is also very dark. more men and women will enjoy health and prosperity than ever before, yet more will live in poverty or tumult, if only because of the ferocity of demographics. there will be more democracy - that deft liberal form of imperialism - and greater popular refusal of democracy. one of the defining bifurcations of the future
 will be the conflict between information masters and information victims.
 
-in the past, information empowerment was largely a matter of insider and outsider, as elementary as the division of
-society into the literate and illiterate. while superior information  - often embodied in military technology -  killed
-throughout history, its effects tended to be politically decisive but not personally intrusive (once the raping and
-pillaging were done). technology was more apt to batter down the city gates than to change the nature of the city. the
-rise of the modern west broke the pattern. whether speaking of the dispossessions and dislocations caused in europe
-through the introduction of machine-driven production or elsewhere by the great age of european imperialism, an
-explosion of disorienting information intruded ever further into braudel's "structures of everyday life." historically,
-ignorance was bliss. today, ignorance is no longer possible, only error.
+in the past, information empowerment was largely a matter of insider and outsider, as elementary as the division of society into the literate and illiterate. while superior information  - often embodied in military technology -  killed throughout history, its effects tended to be politically decisive but not personally intrusive (once the raping and pillaging were done). technology was more apt to batter down the city gates than to change the nature of the city. the rise of the modern west broke the pattern. whether speaking of the dispossessions and dislocations caused in europe through the introduction of machine-driven production or elsewhere by the great age of european imperialism, an explosion of disorienting information intruded ever further into braudel's "structures of everyday life." historically, ignorance was bliss. today, ignorance is no longer possible, only error.
 
 ---
 
-the contemporary expansion of available information is immeasurable, uncontainable, and destructive to individuals
-and entire cultures unable to master it. the radical fundamentalists - the bomber in jerusalem or oklahoma city, the
-moral terrorist on the right or the dictatorial multiculturalist on the left - are all brothers and sisters, all threatened by
-change, terrified of the future, and alienated by information they cannot reconcile with their lives or ambitions. they
-ache to return to a golden age that never existed, or to create a paradise of their own restrictive design. they no longer
-understand the world, and their fear is volatile.
-information destroys traditional jobs and traditional cultures; it seduces, betrays, yet remains invulnerable. how can
-you counterattack the information others have turned upon you? there is no effective option other than competitive
-performance. for those individuals and cultures that cannot join or compete with our information empire, there is only
-inevitable failure (of note, the internet is to the techno-capable disaffected what the united nations is to marginal
-states: it offers the illusion of empowerment and community). the attempt of the iranian mullahs to secede from
-modernity has failed, although a turbaned corpse still stumbles about the neighborhood. information, from the internet
-to rock videos, will not be contained, and fundamentalism cannot control its children. our victims volunteer.
+the contemporary expansion of available information is immeasurable, uncontainable, and destructive to individuals and entire cultures unable to master it. the radical fundamentalists - the bomber in jerusalem or oklahoma city, the moral terrorist on the right or the dictatorial multiculturalist on the left - are all brothers and sisters, all threatened by change, terrified of the future, and alienated by information they cannot reconcile with their lives or ambitions. they ache to return to a golden age that never existed, or to create a paradise of their own restrictive design. they no longer understand the world, and their fear is volatile. information destroys traditional jobs and traditional cultures; it seduces, betrays, yet remains invulnerable. how can you counterattack the information others have turned upon you? there is no effective option other than competitive performance. for those individuals and cultures that cannot join or compete with our information empire, there is only inevitable failure (of note, the internet is to the techno-capable disaffected what the united nations is to marginal states: it offers the illusion of empowerment and community). the attempt of the iranian mullahs to secede from modernity has failed, although a turbaned corpse still stumbles about the neighborhood. information, from the internet to rock videos, will not be contained, and fundamentalism cannot control its children. our victims volunteer.
 
-these noncompetitive cultures, such as that of arabo-persian islam or the rejectionist segment of our own population,
-are enraged. their cultures are under assault; their cherished values have proven dysfunctional, and the successful
-move on without them. the laid-off blue-collar worker in america and the taliban militiaman in afghanistan are
-brothers in suffering.
+these noncompetitive cultures, such as that of arabo-persian islam or the rejectionist segment of our own population, are enraged. their cultures are under assault; their cherished values have proven dysfunctional, and the successful move on without them. the laid-off blue-collar worker in america and the taliban militiaman in afghanistan are brothers in suffering.
 
-it is a truism that throughout much of the 20th century the income gap between top and bottom narrowed, whether we
-speak of individuals, countries, or in some cases continents. further, individuals or countries could "make it" on sheer
-muscle power and the will to apply it. you could work harder than your neighbor and win in the marketplace. there
-was a rough justice in it, and it offered near-ecumenical hope. that model is dead. today, there is a growing excess of
-muscle power in an age of labor-saving machines and methods. in our own country, we have seen blue-collar unions
-move from center stage to near-irrelevance. the trend will not reverse. at the same time, expectations have increased
-dramatically. there is a global sense of promises broken, of lies told. individuals on much of the planet believe they
-have played by the rules laid down for them (in the breech, they often have not), only to find that some indefinite
-power has changed those rules overnight. the american who graduated from high school in the 1960s expected a good
-job that would allow his family security and reasonably increasing prosperity. for many such americans, the world has
-collapsed, even as the media tease them with images of an ever-richer, brighter, fun world from which they are
-excluded. these discarded citizens sense that their government is no longer about them, but only about the privileged.
-some seek the solace of explicit religion. most remain law-abiding, hard-working citizens. some do not.
+it is a truism that throughout much of the 20th century the income gap between top and bottom narrowed, whether we speak of individuals, countries, or in some cases continents. further, individuals or countries could "make it" on sheer muscle power and the will to apply it. you could work harder than your neighbor and win in the marketplace. there was a rough justice in it, and it offered near-ecumenical hope. that model is dead. today, there is a growing excess of muscle power in an age of labor-saving machines and methods. in our own country, we have seen blue-collar unions move from center stage to near-irrelevance. the trend will not reverse. at the same time, expectations have increased dramatically. there is a global sense of promises broken, of lies told. individuals on much of the planet believe they have played by the rules laid down for them (in the breech, they often have not), only to find that some indefinite power has changed those rules overnight. the american who graduated from high school in the 1960s expected a good job that would allow his family security and reasonably increasing prosperity. for many such americans, the world has collapsed, even as the media tease them with images of an ever-richer, brighter, fun world from which they are excluded. these discarded citizens sense that their government is no longer about them, but only about the privileged. some seek the solace of explicit religion. most remain law-abiding, hard-working citizens. some do not.
 
-the foreign twin is the islamic, or sub-saharan african, or mexican university graduate who faces a teetering
-government, joblessness, exclusion from the profits of the corruption distorting his society, marriage in poverty or the
-impossibility of marriage, and a deluge of information telling him (exaggeratedly and dishonestly) how well the west
-lives. in this age of television-series franchising, videos, and satellite dishes, this young, embittered male gets his
-skewed view of us from reruns of dynasty and dallas, or from satellite links beaming down baywatch, sources we
-dismiss too quickly as laughable and unworthy of serious consideration as factors influencing world affairs. but their
-effect is destructive beyond the power of words to describe. hollywood goes where harvard never penetrated, and the
-foreigner, unable to touch the reality of america, is touched by america's irresponsible fantasies of itself; he sees a
-devilishly enchanting, bluntly sexual, terrifying world from which he is excluded, a world of wealth he can judge only
-in terms of his own poverty.
+the foreign twin is the islamic, or sub-saharan african, or mexican university graduate who faces a teetering government, joblessness, exclusion from the profits of the corruption distorting his society, marriage in poverty or the impossibility of marriage, and a deluge of information telling him (exaggeratedly and dishonestly) how well the west lives. in this age of television-series franchising, videos, and satellite dishes, this young, embittered male gets his skewed view of us from reruns of dynasty and dallas, or from satellite links beaming down baywatch, sources we dismiss too quickly as laughable and unworthy of serious consideration as factors influencing world affairs. but their effect is destructive beyond the power of words to describe. hollywood goes where harvard never penetrated, and the foreigner, unable to touch the reality of america, is touched by america's irresponsible fantasies of itself; he sees a devilishly enchanting, bluntly sexual, terrifying world from which he is excluded, a world of wealth he can judge only in terms of his own poverty.
 
-most citizens of the globe are not economists; they perceive wealth as inelastic, its possession a zero-sum game. if
-decadent america (as seen on the screen) is so fabulously rich, it can only be because america has looted one's own
-impoverished group or country or region. adding to the cognitive dissonance, the discarded foreigner cannot square
-the perceived moral corruption of america, a travesty of all he has been told to value, with america's enduring
-punitive power. how could a nation whose women are "all harlots" stage desert storm? it is an offense to god, and
-there must be a demonic answer, a substance of conspiracies and oppression in which his own secular, disappointing
-elite is complicit. this discarded foreigner's desire may be to attack the "great satan america," but america is far
-away (for now), so he acts violently in his own neighborhood. he will accept no personal guilt for his failure, nor can
-he bear the possibility that his culture "doesn't work." the blame lies ever elsewhere. the cult of victimization is
-becoming a universal phenomenon, and it is a source of dynamic hatreds.
+most citizens of the globe are not economists; they perceive wealth as inelastic, its possession a zero-sum game. if decadent america (as seen on the screen) is so fabulously rich, it can only be because america has looted one's own impoverished group or country or region. adding to the cognitive dissonance, the discarded foreigner cannot square the perceived moral corruption of america, a travesty of all he has been told to value, with america's enduring punitive power. how could a nation whose women are "all harlots" stage desert storm? it is an offense to god, and there must be a demonic answer, a substance of conspiracies and oppression in which his own secular, disappointing elite is complicit. this discarded foreigner's desire may be to attack the "great satan america," but america is far away (for now), so he acts violently in his own neighborhood. he will accept no personal guilt for his failure, nor can he bear the possibility that his culture "doesn't work." the blame lies ever elsewhere. the cult of victimization is becoming a universal phenomenon, and it is a source of dynamic hatreds.
 
 ---
 
-it is fashionable among world intellectual elites to decry "american culture," with our domestic critics among the
-loudest in complaint. but traditional intellectual elites are of shrinking relevance, replaced by cognitive-practical
-elites - figures such as bill gates, steven spielberg, madonna, or our most successful politicians - human beings who
-can recognize or create popular appetites, recreating themselves as necessary. contemporary american culture is the
-most powerful in history, and the most destructive of competitor cultures. while some other cultures, such as those of
-east asia, appear strong enough to survive the onslaught by adaptive behaviors, most are not. the genius, the secret
-weapon, of american culture is the essence that the elites despise: ours is the first genuine people's culture. it stresses
-comfort and convenience - ease - and it generates pleasure for the masses. we are karl marx's dream, and his
-nightmare.
+it is fashionable among world intellectual elites to decry "american culture," with our domestic critics among the loudest in complaint. but traditional intellectual elites are of shrinking relevance, replaced by cognitive-practical elites - figures such as bill gates, steven spielberg, madonna, or our most successful politicians - human beings who can recognize or create popular appetites, recreating themselves as necessary. contemporary american culture is the most powerful in history, and the most destructive of competitor cultures. while some other cultures, such as those of east asia, appear strong enough to survive the onslaught by adaptive behaviors, most are not. the genius, the secret weapon, of american culture is the essence that the elites despise: ours is the first genuine people's culture. it stresses comfort and convenience - ease - and it generates pleasure for the masses. we are karl marx's dream, and his nightmare.
 
-secular and religious revolutionaries in our century have made the identical mistake, imagining that the workers of the
-world or the faithful just can't wait to go home at night to study marx or the koran. well, joe sixpack, ivan tipichni,
-and ali quat would rather "baywatch." america has figured it out, and we are brilliant at operationalizing our
-knowledge, and our cultural power will hinder even those cultures we do not undermine. there is no "peer competitor"
-in the cultural (or military) department. our cultural empire has the addicted - men and women everywhere - clamoring
+secular and religious revolutionaries in our century have made the identical mistake, imagining that the workers of the world or the faithful just can't wait to go home at night to study marx or the koran. well, joe sixpack, ivan tipichni, and ali quat would rather "baywatch." america has figured it out, and we are brilliant at operationalizing our knowledge, and our cultural power will hinder even those cultures we do not undermine. there is no "peer competitor" in the cultural (or military) department. our cultural empire has the addicted - men and women everywhere - clamoring
 for more. and they pay for the privilege of their disillusionment.
 
-american culture is criticized for its impermanence, its "disposable" products. but therein lies its strength. all
-previous cultures sought ideal achievement which, once reached, might endure in static perfection. american culture is
-not about the end, but the means, the dynamic process that creates, destroys, and creates anew. if our works are
-transient, then so are life's greatest gifts - passion, beauty, the quality of light on a winter afternoon, even life itself.
-american culture is alive.
+american culture is criticized for its impermanence, its "disposable" products. but therein lies its strength. all previous cultures sought ideal achievement which, once reached, might endure in static perfection. american culture is not about the end, but the means, the dynamic process that creates, destroys, and creates anew. if our works are transient, then so are life's greatest gifts - passion, beauty, the quality of light on a winter afternoon, even life itself. american culture is alive.
 
-this vividness, this vitality, is reflected in our military; we do not expect to achieve ultimate solutions, only constant
-improvement. all previous cultures, general and military, have sought to achieve an ideal form of life and then fix it in
-cement. americans, in and out of uniform, have always embraced change (though many individuals have not, and
-their conservatism has acted as a healthy brake on our national excesses). american culture is the culture of the
-unafraid.
+this vividness, this vitality, is reflected in our military; we do not expect to achieve ultimate solutions, only constant improvement. all previous cultures, general and military, have sought to achieve an ideal form of life and then fix it in cement. americans, in and out of uniform, have always embraced change (though many individuals have not, and their conservatism has acted as a healthy brake on our national excesses). american culture is the culture of the unafraid.
 
-ours is also the first culture that aims to include rather than exclude. the films most despised by the intellectual elite -
-those that feature extreme violence and to-the-victors-the-spoils sex - are our most popular cultural weapon, bought or
-bootlegged nearly everywhere. american action films, often in dreadful copies, are available from the upper amazon
-to mandalay. they are even more popular than our music, because they are easier to understand. the action films of a
-stallone or schwarzenegger or chuck norris rely on visual narratives that do not require dialog for a basic
-understanding. they deal at the level of universal myth, of pre-text, celebrating the most fundamental impulses
-(although we have yet to produce a film as violent and cruel as the iliad). they feature a hero, a villain, a woman to
-be defended or won - and violence and sex. complain until doomsday; it sells. the enduring popularity abroad of the
-shopworn rambo series tells us far more about humanity than does a library full of scholarly analysis.
+ours is also the first culture that aims to include rather than exclude. the films most despised by the intellectual elite - those that feature extreme violence and to-the-victors-the-spoils sex - are our most popular cultural weapon, bought or bootlegged nearly everywhere. american action films, often in dreadful copies, are available from the upper amazon to mandalay. they are even more popular than our music, because they are easier to understand. the action films of a stallone or schwarzenegger or chuck norris rely on visual narratives that do not require dialog for a basic understanding. they deal at the level of universal myth, of pre-text, celebrating the most fundamental impulses (although we have yet to produce a film as violent and cruel as the iliad). they feature a hero, a villain, a woman to be defended or won - and violence and sex. complain until doomsday; it sells. the enduring popularity abroad of the shopworn rambo series tells us far more about humanity than does a library full of scholarly analysis.
 
-when we speak of a global information revolution, the effect of video images is more immediate and intense than that
-of computers. image trumps text in the mass psyche, and computers remain a textual outgrowth, demanding high-order
-skills: computers demarcate the domain of the privileged. we use technology to expand our wealth, power, and
-opportunities. the rest get high on pop culture. if religion is the opium of the people, video is their crack cocaine.
-when we and they collide, they shock us with violence, but, statistically, we win.
+when we speak of a global information revolution, the effect of video images is more immediate and intense than that of computers. image trumps text in the mass psyche, and computers remain a textual outgrowth, demanding high-order skills: computers demarcate the domain of the privileged. we use technology to expand our wealth, power, and opportunities. the rest get high on pop culture. if religion is the opium of the people, video is their crack cocaine. when we and they collide, they shock us with violence, but, statistically, we win.
 
-as more and more human beings are overwhelmed by information, or dispossessed by the effects of information-based
-technologies, there will be more violence. information victims will often see no other resort. as work becomes more
-cerebral, those who fail to find a place will respond by rejecting reason. we will see countries and continents divide
-between rich and poor in a reversal of 20th-century economic trends. developing countries will not be able to depend
-on physical production industries, because there will always be another country willing to work cheaper. the have-nots
-will hate and strive to attack the haves. and we in the united states will continue to be perceived as the ultimate
-haves. states will struggle for advantage or revenge as their societies boil. beyond traditional crime, terrorism will be
-the most common form of violence, but transnational criminality, civil strife, secessions, border conflicts, and
-conventional wars will continue to plague the world, albeit with the "lesser" conflicts statistically dominant. in defense
-of its interests, its citizens, its allies, or its clients, the united states will be required to intervene in some of these
-contests. we will win militarily whenever we have the guts for it.
+as more and more human beings are overwhelmed by information, or dispossessed by the effects of information-based technologies, there will be more violence. information victims will often see no other resort. as work becomes more cerebral, those who fail to find a place will respond by rejecting reason. we will see countries and continents divide between rich and poor in a reversal of 20th-century economic trends. developing countries will not be able to depend on physical production industries, because there will always be another country willing to work cheaper. the have-nots will hate and strive to attack the haves. and we in the united states will continue to be perceived as the ultimate haves. states will struggle for advantage or revenge as their societies boil. beyond traditional crime, terrorism will be the most common form of violence, but transnational criminality, civil strife, secessions, border conflicts, and conventional wars will continue to plague the world, albeit with the "lesser" conflicts statistically dominant. in defense of its interests, its citizens, its allies, or its clients, the united states will be required to intervene in some of these contests. we will win militarily whenever we have the guts for it.
 
-there will be no peace. at any given moment for the rest of our lifetimes, there will be multiple conflicts in mutating
-forms around the globe. violent conflict will dominate the headlines, but cultural and economic struggles will be
-steadier and ultimately more decisive. the de facto role of the us armed forces will be to keep the world safe for our
-economy and open to our cultural assault. to those ends, we will do a fair amount of killing.
+there will be no peace. at any given moment for the rest of our lifetimes, there will be multiple conflicts in mutating forms around the globe. violent conflict will dominate the headlines, but cultural and economic struggles will be steadier and ultimately more decisive. the de facto role of the us armed forces will be to keep the world safe for our economy and open to our cultural assault. to those ends, we will do a fair amount of killing.
 
 ---
 
-we are building an information-based military to do that killing. there will still be plenty of muscle power required,
-but much of our military art will consist in knowing more about the enemy than he knows about himself, manipulating
-data for effectiveness and efficiency, and denying similar advantages to our opponents. this will involve a good bit of
-technology, but the relevant systems will not be the budget vampires, such as manned bombers and attack submarines,
-that we continue to buy through inertia, emotional attachment, and the lobbying power of the defense industry. our
-most important technologies will be those that support soldiers and marines on the ground, that facilitate command
-decisions, and that enable us to kill accurately and survive amid clutter (such as multidimensional urban battlefields).
-the only imaginable use for most of our submarine fleet will be to strip out the weapons, dock them tight, and turn the
-boats into low-income housing. there will be no justification for billion-dollar bombers at all.
+we are building an information-based military to do that killing. there will still be plenty of muscle power required, but much of our military art will consist in knowing more about the enemy than he knows about himself, manipulating data for effectiveness and efficiency, and denying similar advantages to our opponents. this will involve a good bit of technology, but the relevant systems will not be the budget vampires, such as manned bombers and attack submarines, that we continue to buy through inertia, emotional attachment, and the lobbying power of the defense industry. our most important technologies will be those that support soldiers and marines on the ground, that facilitate command decisions, and that enable us to kill accurately and survive amid clutter (such as multidimensional urban battlefields). the only imaginable use for most of our submarine fleet will be to strip out the weapons, dock them tight, and turn the boats into low-income housing. there will be no justification for billion-dollar bombers at all.
 
-for a generation, and probably much longer, we will face no military peer competitor. our enemies will challenge us
-by other means. the violent actors we encounter often will be small, hostile parties possessed of unexpected, incisive
-capabilities or simply of a stunning will to violence (or both). renegade elites, not foreign fleets, should worry us. the
-urbanization of the global landscape is a greater threat to our operations than any extant or foreseeable military system.
-we will not deal with wars of realpolitik, but with conflicts spawned of collective emotions, sub-state interests, and
-systemic collapse. hatred, jealousy, and greed - emotions rather than strategy - will set the terms of the struggles.
+for a generation, and probably much longer, we will face no military peer competitor. our enemies will challenge us by other means. the violent actors we encounter often will be small, hostile parties possessed of unexpected, incisive capabilities or simply of a stunning will to violence (or both). renegade elites, not foreign fleets, should worry us. the urbanization of the global landscape is a greater threat to our operations than any extant or foreseeable military system. we will not deal with wars of realpolitik, but with conflicts spawned of collective emotions, sub-state interests, and systemic collapse. hatred, jealousy, and greed - emotions rather than strategy - will set the terms of the struggles.
 
-we will survive and win any conflict short of a cataclysmic use of weapons of mass destruction. but the constant
-conflicts in which we selectively intervene will be as miserable as any other form of warfare for the soldiers and
-marines engaged. the bayonet will still be relevant; however, informational superiority incisively employed should
-both sharpen that bayonet and permit us to defeat some - but never all - of our enemies outside of bayonet range. our
-informational advantage over every other country and culture will be so enormous that our greatest battlefield
-challenge will be harnessing its power. our potential national weakness will be the failure to maintain the moral and
-raw physical strength to thrust that bayonet into an enemy's heart.
+we will survive and win any conflict short of a cataclysmic use of weapons of mass destruction. but the constant conflicts in which we selectively intervene will be as miserable as any other form of warfare for the soldiers and marines engaged. the bayonet will still be relevant; however, informational superiority incisively employed should both sharpen that bayonet and permit us to defeat some - but never all - of our enemies outside of bayonet range. our informational advantage over every other country and culture will be so enormous that our greatest battlefield challenge will be harnessing its power. our potential national weakness will be the failure to maintain the moral and raw physical strength to thrust that bayonet into an enemy's heart.
 
-pilots and skippers, as well as defense executives, demand threat models that portray country x or y as overtaking the
-military capability of the united states in 10 to 20 years. forget it. our military power is culturally based. they cannot
-rival us without becoming us. wise competitors will not even attempt to defeat us on our terms; rather, they will seek
-to shift the playing field away from military confrontations or turn to terrorism and nontraditional forms of assault on
-our national integrity. only the foolish will fight fair.
+pilots and skippers, as well as defense executives, demand threat models that portray country x or y as overtaking the military capability of the united states in 10 to 20 years. forget it. our military power is culturally based. they cannot rival us without becoming us. wise competitors will not even attempt to defeat us on our terms; rather, they will seek to shift the playing field away from military confrontations or turn to terrorism and nontraditional forms of assault on our national integrity. only the foolish will fight fair.
 
-the threat models stitched together from dead parts to convince congress that the russians are only taking a deep
-breath or that the chinese are only a few miles off the coast of california uniformly assume that while foreign powers
-make all the right decisions, analyze every trend correctly, and continue to achieve higher and higher economic growth
-rates, the united states will take a nap. on the contrary. beyond the beltway, the united states is wide awake and
-leading a second "industrial" revolution that will make the original industrial revolution that climaxed the great age of
-imperialism look like a rehearsal by amateurs. only the united states has the synthetic ability, the supportive laws, and
-the cultural agility to remain at the cutting edge of wealth creation.
+the threat models stitched together from dead parts to convince congress that the russians are only taking a deep breath or that the chinese are only a few miles off the coast of california uniformly assume that while foreign powers make all the right decisions, analyze every trend correctly, and continue to achieve higher and higher economic growth rates, the united states will take a nap. on the contrary. beyond the beltway, the united states is wide awake and leading a second "industrial" revolution that will make the original industrial revolution that climaxed the great age of imperialism look like a rehearsal by amateurs. only the united states has the synthetic ability, the supportive laws, and the cultural agility to remain at the cutting edge of wealth creation.
 
-not long ago, the russians were going to overtake us. then it was oil-wealthy arabs, then the japanese. one prizewinning economist even calculated that 
-fuddy-duddy europe would dominate the next century (a sure prescription for
-boredom, were it true). now the chinese are our nemesis. no doubt our industrial-strength cassandras will soon find a
-reason to fear the galapagos. in the meantime, the average american can look forward to a longer life-span, a secure
-retirement, and free membership in the most triumphant culture in history. for the majority of our citizens, our vulgar,
-near-chaotic, marvelous culture is the greatest engine of positive change in history.
+not long ago, the russians were going to overtake us. then it was oil-wealthy arabs, then the japanese. one prizewinning economist even calculated that fuddy-duddy europe would dominate the next century (a sure prescription for boredom, were it true). now the chinese are our nemesis. no doubt our industrial-strength cassandras will soon find a reason to fear the galapagos. in the meantime, the average american can look forward to a longer life-span, a secure retirement, and free membership in the most triumphant culture in history. for the majority of our citizens, our vulgar, near-chaotic, marvelous culture is the greatest engine of positive change in history.
 
 freedom works.
 
 ---
 
-in the military sphere, it will be impossible to rival or even approach the capabilities of our information-based force
-because it is so profoundly an outgrowth of our culture. our information-based army will employ many marvelous
-tools, but the core of the force will still be the soldier, not the machine, and our soldiers will have skills other cultures
-will be unable to replicate. intelligence analysts, fleeing human complexity, like to project enemy capabilities based
-upon the systems a potential opponent might acquire. but buying or building stuff is not enough. it didn't work for
-saddam hussein, and it won't work for beijing.
+in the military sphere, it will be impossible to rival or even approach the capabilities of our information-based force because it is so profoundly an outgrowth of our culture. our information-based army will employ many marvelous tools, but the core of the force will still be the soldier, not the machine, and our soldiers will have skills other cultures will be unable to replicate. intelligence analysts, fleeing human complexity, like to project enemy capabilities based
+upon the systems a potential opponent might acquire. but buying or building stuff is not enough. it didn't work for saddam hussein, and it won't work for beijing.
 
-the complex human-machine interface developing in the us military will be impossible to duplicate abroad because
-no other state will be able to come from behind to equal the informational dexterity of our officers and soldiers. for all
-the complaints - in many respects justified - about our public school systems, the holistic and synergistic nature of
-education in our society and culture is imparting to tomorrow's soldiers and marines a second-nature grasp of
-technology and the ability to sort and assimilate vast amounts of competitive data that no other population will achieve.
-the informational dexterity of our average middle-class kid is terrifying to anyone born before 1970. our computer
-kids function at a level foreign elites barely manage, and this has as much to do with television commercials, cdroms, and grotesque video games as it does with the classroom. we are outgrowing our 19th-century model
-education system as surely as we have outgrown the manned bomber. in the meantime, our children are undergoing a
-process of darwinian selection in coping with the information deluge that is drowning many of their parents. these
-kids are going to make mean techno-warriors. we just have to make sure they can do push-ups, too.
+the complex human-machine interface developing in the us military will be impossible to duplicate abroad because no other state will be able to come from behind to equal the informational dexterity of our officers and soldiers. for all the complaints - in many respects justified - about our public school systems, the holistic and synergistic nature of education in our society and culture is imparting to tomorrow's soldiers and marines a second-nature grasp of technology and the ability to sort and assimilate vast amounts of competitive data that no other population will achieve. the informational dexterity of our average middle-class kid is terrifying to anyone born before 1970. our computer kids function at a level foreign elites barely manage, and this has as much to do with television commercials, cdroms, and grotesque video games as it does with the classroom. we are outgrowing our 19th-century model education system as surely as we have outgrown the manned bomber. in the meantime, our children are undergoing a process of darwinian selection in coping with the information deluge that is drowning many of their parents. these kids are going to make mean techno-warriors. we just have to make sure they can do push-ups, too.
 
-there is a useful german expression, "die lage war immer so ernst," that translates very freely as "the sky has
-always been falling." despite our relish of fears and complaints, we live in the most powerful, robust culture on earth.
-its discontinuities and contradictions are often its strengths. we are incapable of five-year plans, and it is a saving
-grace. our fluidity, in consumption, technology, and on the battlefield, is a strength our nearest competitors cannot
-approach. we move very fast. at our military best, we become nathan bedford forrest riding a microchip. but when
-we insist on buying into extended procurement contracts for unaffordable, neo-traditional weapon systems, we
-squander our brilliant flexibility. today, we are locking-in already obsolescent defense purchases that will not begin to
-rise to the human capabilities of tomorrow's service members. in 2015 and beyond, we will be receiving systems into
-our inventory that will be no more relevant than sherman tanks and prop-driven bombers would be today. we are not
-providing for tomorrow's military, we are paralyzing it. we will have the most humanly agile force on earth, and we
-are doing our best to shut it inside a technological straight-jacket.
+there is a useful german expression, "die lage war immer so ernst," that translates very freely as "the sky has always been falling." despite our relish of fears and complaints, we live in the most powerful, robust culture on earth. its discontinuities and contradictions are often its strengths. we are incapable of five-year plans, and it is a saving grace. our fluidity, in consumption, technology, and on the battlefield, is a strength our nearest competitors cannot approach. we move very fast. at our military best, we become nathan bedford forrest riding a microchip. but when we insist on buying into extended procurement contracts for unaffordable, neo-traditional weapon systems, we squander our brilliant flexibility. today, we are locking-in already obsolescent defense purchases that will not begin to rise to the human capabilities of tomorrow's service members. in 2015 and beyond, we will be receiving systems into our inventory that will be no more relevant than sherman tanks and prop-driven bombers would be today. we are not providing for tomorrow's military, we are paralyzing it. we will have the most humanly agile force on earth, and we are doing our best to shut it inside a technological straight-jacket.
 
-there is no "big threat" out there. there's none on the horizon, either. instead of preparing for the battle of midway,
-we need to focus on the constant conflicts of richly varying description that will challenge us - and kill us - at home
-and abroad. there are plenty of threats, but the beloved dinosaurs are dead.
+there is no "big threat" out there. there's none on the horizon, either. instead of preparing for the battle of midway, we need to focus on the constant conflicts of richly varying description that will challenge us - and kill us - at home and abroad. there are plenty of threats, but the beloved dinosaurs are dead.
 
-we will outcreate, outproduce and, when need be, outfight the rest of the world. we can out-think them, too. but our
-military must not embark upon the 21st century clinging to 20th-century models. our national appetite for information
-and our sophistication in handling it will enable us to outlast and outperform all hierarchical cultures, informationcontrolling societies, and rejectionist states. the skills necessary to this newest information age can be acquired only
-beginning in childhood and in complete immersion. societies that fear or otherwise cannot manage the free flow of
-information simply will not be competitive. they might master the technological wherewithal to watch the videos, but
-we will be writing the scripts, producing them, and collecting the royalties. our creativity is devastating. if we insist on
-a "proven" approach to military affairs, we will be throwing away our greatest national advantage.
+we will outcreate, outproduce and, when need be, outfight the rest of the world. we can out-think them, too. but our military must not embark upon the 21st century clinging to 20th-century models. our national appetite for information and our sophistication in handling it will enable us to outlast and outperform all hierarchical cultures, information controlling societies, and rejectionist states. the skills necessary to this newest information age can be acquired only beginning in childhood and in complete immersion. societies that fear or otherwise cannot manage the free flow of information simply will not be competitive. they might master the technological wherewithal to watch the videos, but we will be writing the scripts, producing them, and collecting the royalties. our creativity is devastating. if we insist on a "proven" approach to military affairs, we will be throwing away our greatest national advantage.
 
 we need to make sure our information-based military is based on the right information.
 
-facing this environment of constant conflict amid information proliferation, the military response has been to coin a
-new catchphrase - information warfare - and then duck. although there has been plenty of chatter about information
-warfare, most of it has been as helpful and incisive as a discussion of sex among junior high school boys; everybody
-wants to pose, but nobody has a clue. we have hemorrhaged defense dollars to contractors perfectly willing to tell us
-what we already knew. studies study other studies. for now, we have decided that information warfare is a matter of
-technology, which is akin to believing that your stereo system is more important to music than the musicians.
+facing this environment of constant conflict amid information proliferation, the military response has been to coin a new catchphrase - information warfare - and then duck. although there has been plenty of chatter about information warfare, most of it has been as helpful and incisive as a discussion of sex among junior high school boys; everybody wants to pose, but nobody has a clue. we have hemorrhaged defense dollars to contractors perfectly willing to tell us what we already knew. studies study other studies. for now, we have decided that information warfare is a matter of technology, which is akin to believing that your stereo system is more important to music than the musicians.
 
-fear not. we are already masters of information warfare, and we shall get around to defining it eventually. let the
-scholars fuss. when it comes to our technology (and all technology is military technology) the russians can't produce
-it, the arabs can't afford it, and no one can steal it fast enough to make a difference. our great bogeyman, china, is
-achieving remarkable growth rates because the chinese belatedly entered the industrial revolution with a billion-plus
-population. without a culture-shattering reappreciation of the role of free information in a society, china will peak
-well below our level of achievement.
+fear not. we are already masters of information warfare, and we shall get around to defining it eventually. let the scholars fuss. when it comes to our technology (and all technology is military technology) the russians can't produce it, the arabs can't afford it, and no one can steal it fast enough to make a difference. our great bogeyman, china, is achieving remarkable growth rates because the chinese belatedly entered the industrial revolution with a billion-plus
+population. without a culture-shattering reappreciation of the role of free information in a society, china will peak well below our level of achievement.
 
-yes, foreign cultures are reasserting their threatened identities - usually with marginal, if any, success - and yes, they
-are attempting to escape our influence. but american culture is infectious, a plague of pleasure, and you don't have to
-die of it to be hindered or crippled in your integrity or competitiveness. the very struggle of other cultures to resist
-american cultural intrusion fatefully diverts their energies from the pursuit of the future. we should not fear the
-advent of fundamentalist or rejectionist regimes. they are simply guaranteeing their peoples' failure, while further
-increasing our relative strength.
+yes, foreign cultures are reasserting their threatened identities - usually with marginal, if any, success - and yes, they are attempting to escape our influence. but american culture is infectious, a plague of pleasure, and you don't have to die of it to be hindered or crippled in your integrity or competitiveness. the very struggle of other cultures to resist american cultural intrusion fatefully diverts their energies from the pursuit of the future. we should not fear the advent of fundamentalist or rejectionist regimes. they are simply guaranteeing their peoples' failure, while further increasing our relative strength.
 
-it remains difficult, of course, for military leaders to conceive of warfare, informational or otherwise, in such broad
-terms. but hollywood is "preparing the battlefield," and burgers precede bullets. the flag follows trade. despite our
-declaration of defeat in the face of battlefield victory in mogadishu, the image of us power and the us military
-around the world is not only a deterrent, but a psychological warfare tool that is constantly at work in the minds of real
-or potential opponents. saddam swaggered, but the image of the us military crippled the iraqi army in the field, doing
-more to soften them up for our ground assault than did tossing bombs into the sand. everybody is afraid of us. they
-really believe we can do all the stuff in the movies. if the trojans "saw" athena guiding the greeks in battle, then the
-iraqis saw luke skywalker precede mccaffrey's tanks. our unconscious alliance of culture with killing power is a
-combat multiplier no government, including our own, could design or afford. we are magic. and we're going to keep
-it that way.
+it remains difficult, of course, for military leaders to conceive of warfare, informational or otherwise, in such broad terms. but hollywood is "preparing the battlefield," and burgers precede bullets. the flag follows trade. despite our declaration of defeat in the face of battlefield victory in mogadishu, the image of us power and the us military around the world is not only a deterrent, but a psychological warfare tool that is constantly at work in the minds of real or potential opponents. saddam swaggered, but the image of the us military crippled the iraqi army in the field, doing more to soften them up for our ground assault than did tossing bombs into the sand. everybody is afraid of us. they really believe we can do all the stuff in the movies. if the trojans "saw" athena guiding the greeks in battle, then the iraqis saw luke skywalker precede mccaffrey's tanks. our unconscious alliance of culture with killing power is a combat multiplier no government, including our own, could design or afford. we are magic. and we're going to keep it that way.
 
-within our formal military, we have been moving into information warfare for decades. our attitude toward data
-acquisition and, especially, data dissemination within the force has broken with global military tradition, in which
-empowering information was reserved for the upper echelons. while our military is vertically responsible, as it must
-be, it is informationally democratic. our ability to decentralize information and appropriate decisionmaking authority is
-a revolutionary breakthrough (the over-praised pre-1945 germans decentralized some tactical decisionmaking, but
-only within carefully regulated guidelines - and they could not enable the process with sufficient information
-dissemination).
+within our formal military, we have been moving into information warfare for decades. our attitude toward data acquisition and, especially, data dissemination within the force has broken with global military tradition, in which empowering information was reserved for the upper echelons. while our military is vertically responsible, as it must be, it is informationally democratic. our ability to decentralize information and appropriate decisionmaking authority is a revolutionary breakthrough (the over-praised pre-1945 germans decentralized some tactical decisionmaking, but only within carefully regulated guidelines - and they could not enable the process with sufficient information dissemination).
 
-no military establishment has ever placed such trust in lieutenants, sergeants, and privates, nor are our touted future
-competitors likely to do so. in fact, there has been an even greater diffusion of power within our military (in the army
-and marines) than most of us realize. pragmatic behavior daily subverts antiquated structures, such as divisions and
-traditional staffs. we keep the old names, but the behaviors are changing. what, other than its flag, does the division of
-1997 have in common with the division of world war ii? even as traditionalists resist the reformation of the force, the
-"anarchy" of lieutenants is shaping the army of tomorrow. battalion commanders do not understand what their
-lieutenants are up to, and generals would not be able to sleep at night if they knew what the battalion commanders
-know. while we argue about change, the army is changing itself. the marines are doing a brilliant job of reinventing
-themselves while retaining their essence, and their achievement should be a welcome challenge to the army. the air
-force and navy remain rigidly hierarchical.
+no military establishment has ever placed such trust in lieutenants, sergeants, and privates, nor are our touted future competitors likely to do so. in fact, there has been an even greater diffusion of power within our military (in the army and marines) than most of us realize. pragmatic behavior daily subverts antiquated structures, such as divisions and traditional staffs. we keep the old names, but the behaviors are changing. what, other than its flag, does the division of
+1997 have in common with the division of world war ii? even as traditionalists resist the reformation of the force, the "anarchy" of lieutenants is shaping the army of tomorrow. battalion commanders do not understand what their lieutenants are up to, and generals would not be able to sleep at night if they knew what the battalion commanders know. while we argue about change, the army is changing itself. the marines are doing a brilliant job of reinventing themselves while retaining their essence, and their achievement should be a welcome challenge to the army. the air force and navy remain rigidly hierarchical.
 
 ---
 
-culture is fate. countries, clans, military services, and individual soldiers are products of their respective cultures, and
-they are either empowered or imprisoned. the majority of the world's inhabitants are prisoners of their cultures, and
-they will rage against inadequacies they cannot admit, cannot bear, and cannot escape. the current chest-thumping of
-some asian leaders about the degeneracy, weakness, and vulnerability of american culture is reminiscent of nothing
-so much as of the ranting of japanese militarists on the eve of the pacific war. i do not suggest that any of those asian
-leaders intend to attack us, only that they are wrong. liberty always looks like weakness to those who fear it.
+culture is fate. countries, clans, military services, and individual soldiers are products of their respective cultures, and they are either empowered or imprisoned. the majority of the world's inhabitants are prisoners of their cultures, and they will rage against inadequacies they cannot admit, cannot bear, and cannot escape. the current chest-thumping of some asian leaders about the degeneracy, weakness, and vulnerability of american culture is reminiscent of nothing so much as of the ranting of japanese militarists on the eve of the pacific war. i do not suggest that any of those asian leaders intend to attack us, only that they are wrong. liberty always looks like weakness to those who fear it.
 
-in the wake of the soviet collapse, some commentators declared that freedom had won and history was at an end. but
-freedom will always find enemies. the problem with freedom is that it's just too damned free for tyrants, whether they
-be dictators, racial or religious supremacists, or abusive husbands. freedom challenges existing orders, exposes
-bigotry, opens opportunity, and demands personal responsibility. what could be more threatening to traditional
-cultures? the advent of this new information age has opened a fresh chapter in the human struggle for, and with,
-freedom. it will be a bloody chapter, with plenty of computer-smashing and head-bashing. the number one priority of
-non-western governments in the coming decades will be to find acceptable terms for the flow of information within
-their societies. they will uniformly err on the side of conservatism - informational corruption - and will cripple their
-competitiveness in doing so. their failure is programmed.
+in the wake of the soviet collapse, some commentators declared that freedom had won and history was at an end. but freedom will always find enemies. the problem with freedom is that it's just too damned free for tyrants, whether they be dictators, racial or religious supremacists, or abusive husbands. freedom challenges existing orders, exposes bigotry, opens opportunity, and demands personal responsibility. what could be more threatening to traditional cultures? the advent of this new information age has opened a fresh chapter in the human struggle for, and with, freedom. it will be a bloody chapter, with plenty of computer-smashing and head-bashing. the number one priority of non-western governments in the coming decades will be to find acceptable terms for the flow of information within their societies. they will uniformly err on the side of conservatism - informational corruption - and will cripple their competitiveness in doing so. their failure is programmed.
 
-the next century will indeed be american, but it will also be troubled. we will find ourselves in constant conflict,
-much of it violent. the united states army is going to add a lot of battle streamers to its flag. we will wage
-information warfare, but we will fight with infantry. and we will always surprise those critics, domestic and foreign,
-who predict our decline.
+the next century will indeed be american, but it will also be troubled. we will find ourselves in constant conflict, much of it violent. the united states army is going to add a lot of battle streamers to its flag. we will wage information warfare, but we will fight with infantry. and we will always surprise those critics, domestic and foreign, who predict our decline.
