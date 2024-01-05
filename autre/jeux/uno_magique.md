@@ -3,6 +3,8 @@ title: uno magique
 layout: post
 ---
 
+jouez sur [unomagique.com](unomagique.com)
+
 #### règles
 
 - les **+2** et les **+4** peuvent se cumuler
