@@ -24,5 +24,6 @@ layout: post
 - [le piano](poesies/piano.md)
 - [prise au sol](poesies/prise_au_sol.md)
 - [quatre vérités](poesies/quatre_verites.md)
+- [référence](poesies/reference.md)
 - [le veuf](poesies/le_veuf.md)
 - [les voyageurs](poesies/voyageurs.md)
