@@ -21,6 +21,7 @@ layout: post
 - [moteur promis](poesies/moteur_promis.md)
 - [nura danse](poesies/nura_danse.md)
 - [pause vape](poesies/pause_vape.md)
+- [petite musique](poesies/petite_musique.md)
 - [le piano](poesies/piano.md)
 - [prise au sol](poesies/prise_au_sol.md)
 - [quatre vérités](poesies/quatre_verites.md)
