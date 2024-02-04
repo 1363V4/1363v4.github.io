@@ -37,3 +37,5 @@ jouez sur [unomagique.com](unomagique.com)
 - **switcher**: peut échanger sa main avec celle d'un autre joueur
 - **tricheur**: peut défausser une carte de sa main
 - **voyante**: peut forcer un joueur à révéler sa main
+
+(+ quelques autres à découvrir...)
