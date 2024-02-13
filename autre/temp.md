@@ -3,7 +3,6 @@ title: temp.md
 layout: post
 ---
 
-
 un script qui post les 4 vidéos animaux en cage sur insta tous les jours
 bot selenium, pickle pour les cookies, cronjob sur le pi ? 
 prendre un pouch au petit vapoteur (en ont pas)
