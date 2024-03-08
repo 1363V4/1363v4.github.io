@@ -1,8 +1,8 @@
 entries:
   - title: autre
     url: autre.html
-  - title: miam
+  - title: le guide
     entries: 
-      - title: miam
-        url: autre.html
+      - title: harissa
+        url: guide/harissa.html
 

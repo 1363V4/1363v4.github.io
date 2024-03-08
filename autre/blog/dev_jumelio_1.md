@@ -13,7 +13,7 @@ j'avais une idée de jeu qui consisterait à se déplacer dans le réseau formé
 par ces alliances d'opportunités qu'ont les villes entre elles,
 appelées "jumelages".
 
-comme documenté avant dans [trois sur cinq](https://le.guide/2023/10/29/trois_sur_cinq.html),
+comme documenté avant dans [trois sur cinq](trois_sur_cinq.html),
 j'avais fait un prototype.
 
 je peux pas dire MVP vu que c'était carrément pas viable :

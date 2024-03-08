@@ -7,7 +7,7 @@ hop l'album.
 
 [death after death](https://mariemalheur.bandcamp.com/album/death-after-death) out now.
 
-le [poème](/autre/poesies/death_after_death.html) qui va avec.
+le [poème](../poesies/death_after_death.html) qui va avec.
 
 j'en suis content.
 

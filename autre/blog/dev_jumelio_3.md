@@ -76,6 +76,7 @@ le plus important c'est le
 et le plus simple c'est le mailbox
 (en même temps
 [l'encoding optimal bon...](https://ai.stackexchange.com/questions/27336/how-does-the-alpha-zeros-move-encoding-work)
+)
 
 ---
 

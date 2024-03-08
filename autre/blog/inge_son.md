@@ -109,7 +109,7 @@ limite si tu dois regarder des tutos va chercher de ce côté.
 ---
 
 et moi dans le tas je fais quoi ?
-bah j'ai tout groupé [ici](https://1363v4.github.io/autre/musique.html).
+bah j'ai tout groupé [ici](../musique.html).
 
 c'est un peu bordel mais tu peux commencer par [vapeurs](https://mariemalheur.bandcamp.com/album/vapeurs) ?
 je l'avais même envoyé à nkf comme un pauvre fanzouze mais bon,
@@ -143,7 +143,7 @@ c'est une aventure. vas-y mon pirate la mer t'attend.
 
 pour finir je voulais parler de la phonk. musique de roi, reine des musiques.
 
-j'adore ça. j'ai compilé [quelques bangers ici](https://1363v4.github.io/2023/02/18/phonk_ego.html) si ça t'intéresse.
+j'adore ça. j'ai compilé [quelques bangers ici](phonk_ego.html) si ça t'intéresse.
 
 et ça devrait. 
 tous les sons devraient être mixés [comme ça](https://soundcloud.com/inteus666/r0ckster).
