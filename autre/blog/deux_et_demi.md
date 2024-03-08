@@ -42,7 +42,7 @@ départ canon en contre-sens. elo hell.
 
 mais j'aurais pu...
 
-ah oui ! j'avais dit que j'avais désinstallé. [mais si !](/un_sur_cinq_trois.html)
+ah oui ! j'avais dit que j'avais désinstallé. [mais si !](un_sur_cinq_trois.html)
 
 bah mdr hein. bien mytho bien crack addict bien see u tomorrow.
 c'est pas sérieux de se fixer des challenges tah la volonté d'acier pour en arriver là.
