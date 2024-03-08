@@ -3,10 +3,10 @@ title: autre
 layout: post
 ---
 
-- [cv](autre/cv.md)
 - [jeux](autre/jeux.md)
 - [musique](autre/musique.md)
 - textes
+    - [blog](autre/blog.md)
     - [haïkus](autre/haikus.md)
     - [poésies](autre/poesies.md)
     - [prions.](autre/prions.md)

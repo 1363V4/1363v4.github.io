@@ -1,7 +1,8 @@
 entries:
   - title: autre
     url: autre.html
-  - title: test
-    url: autre.html
-  - title: blog
-    post_list: true
+  - title: miam
+    entries: 
+      - title: miam
+        url: autre.html
+
