@@ -2,7 +2,6 @@ entries:
   - title: autre
     url: autre.html
   - title: test
-    - title: test2
-      url: autre.html
+    url: autre.html
   - title: blog
     post_list: true
