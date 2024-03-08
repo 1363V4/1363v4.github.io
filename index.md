@@ -1,6 +1,4 @@
 ---
 title: le.guide
-layout: post
+layout: home
 ---
-
-test

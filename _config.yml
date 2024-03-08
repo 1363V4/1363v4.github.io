@@ -1,6 +1,6 @@
 remote_theme: riggraz/no-style-please
 title: suivez le guide
-author: l-e
+author: le guide
 favicon: "favicon.png"
 theme_config:
   appearance: "auto"
