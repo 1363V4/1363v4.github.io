@@ -4,7 +4,9 @@ layout: post
 toc: true
 ---
 
-**intro**
+{{ toc }}
+
+# intro
 
 rire ou faire rire
 
