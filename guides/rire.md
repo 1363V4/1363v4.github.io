@@ -1,18 +1,9 @@
 ---
-title: rire
+title: le guide du rire
 layout: post
-toc: true
 ---
 
-{{ content | toc }}
-
-g
-
-{% toc %}
-
-gg
-
-# intro
+## intro
 
 rire ou faire rire
 
@@ -27,11 +18,11 @@ ensuite il a fallu trouver si j'étais marrant
 
 ---
 
-# abcdmdr
+## abcdmdr
 
 ---
 
-## le b.a.-ba
+### le b.a.-ba
 
 apparemment ça s'écrit comme ça
 
@@ -41,4 +32,6 @@ ton setup devient ton segway
 ton setup peut et doit être enlevé
 soit ça marche pas et t'as ta réponse
 
-## cdef
+### cdef
+
+commun décalé émotion fall

@@ -1,7 +1,6 @@
 ---
-title: manger
+title: le guide du manger
 layout: post
-toc: true
 ---
 
 
