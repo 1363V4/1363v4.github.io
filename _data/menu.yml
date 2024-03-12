@@ -3,6 +3,8 @@ entries:
     url: autre.html
   - title: le guide
     entries: 
-      - title: harissa
-        url: guide/harissa.html
+      - title: le guide du manger
+        url: guides/manger.html
+      - title: le guide du rire
+        url: guides/rire.html
 

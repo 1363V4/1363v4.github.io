@@ -12,6 +12,7 @@ plugins:
   - jekyll-feed
   - jekyll-relative-links
   - jekyll-seo-tag
+  - jekyll-toc
   
 relative_links:
   enabled: true

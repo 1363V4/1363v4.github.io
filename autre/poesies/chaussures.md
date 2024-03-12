@@ -29,9 +29,9 @@ de ne jamais le faire
 
 j'ai mis mes chaussures à l'envers
 
-dans ma chaussette
+le paysage
 
-un trésor en billets
+ne tenait plus en place
 
 ---
 
@@ -53,6 +53,34 @@ d'où venait ma maison
 
 j'ai mis mes chaussures à l'envers
 
+pour me casser
+
+la binette en tombant
+
+---
+
+j'ai mis mes chaussures à l'envers
+
+pourrais-je un jour
+
+revenir sur mes pas ?
+
+---
+
+*autres*
+
+---
+
+j'ai mis mes chaussures à l'envers
+
+dans ma chaussette
+
+un trésor en billets
+
+---
+
+j'ai mis mes chaussures à l'envers
+
 de mon allure
 
 l'univers s'est bien ri
@@ -69,30 +97,6 @@ j'ai gardé le secret
 
 j'ai mis mes chaussures à l'envers
 
-le paysage
-
-ne tenait plus en place
-
----
-
-j'ai mis mes chaussures à l'envers
-
-pour me casser
-
-la binette en tombant
-
----
-
-j'ai mis mes chaussures à l'envers
-
 le sol d'écorce
 
 a planté mes semelles
-
----
-
-j'ai mis mes chaussures à l'envers
-
-pourrais-je un jour
-
-revenir sur mes pas ?
