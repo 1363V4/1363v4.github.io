@@ -4,7 +4,13 @@ layout: post
 toc: true
 ---
 
-{{ toc }}
+{{ content | toc }}
+
+g
+
+{% toc %}
+
+gg
 
 # intro
 
