@@ -3,7 +3,8 @@ title: le guide du manger
 layout: post
 ---
 
-
+on ne fait pas une bonne ville sans bons restaurants :
+l'important c'est les ingrédients.
 
 ---
 

@@ -3,8 +3,6 @@ title: le guide du rire
 layout: post
 ---
 
-## intro
-
 rire ou faire rire
 
 pour commencer je suis pas marrant
@@ -15,6 +13,7 @@ la bande du lycée
 
 ça s'arrête là
 ensuite il a fallu trouver si j'étais marrant
+et je devrais finir moteur, et putain j'ai jeté les drafts
 
 ---
 
